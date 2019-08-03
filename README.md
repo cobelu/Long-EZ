@@ -7,22 +7,22 @@
 Rutan released it into the public domain. It makes sense to start here.
 
 #### What about that MakerPlane project?
-I was watching it and was sad to see it fizzle out. Starting from scratch is very hard. I figured it would be better to start with a flying 
+I was watching it and was sad to see it fizzle out. Starting from scratch is very hard. I figured it would be better to start with a project which would require making CAD drawings from pre-completed drafts.
 
 #### What's the legality of this whole shindig?
-I take absolutely no responsibility. This is for educational purposes only. No aircraft of any sort will ever be intended to be built from these documents.
+I take absolutely no responsibility. There is no sole individual or organization controlling this project. This is for educational purposes only. No aircraft of any sort was nor will ever be intended to be built from these documents.
 
 #### Why Markdown?
 Markdown provides a fast and easy way to digitally write up a document. Word has syncing and licensing issues. It's much easier to just use a text editor. Markup also works very well with Git.
 
 #### Why Git?
-Reading forum posts regarding the Open-EZ led me to believe that many tried to digitize the plans with typed text and even CAD, but nobody was effectively working together. Git allows everyone to see the progress, and divide tasks to help prevent everyone drawing the same part at once.
+Reading forum posts regarding the Open-EZ led me to believe that many tried to digitize the plans with typed text and even CAD, but nobody was effectively working together. Git allows everyone to see the progress, and divide tasks to help prevent everyone from drawing the same part at once.
 
 #### Do you encourage deviations from the plans?
 NO! My job is to digitize the plans as they were originally published. After that, the next phase will be to update the plans according to the mandates in the Canard Pusher newsletter. There are several deviations which are very practical, but the purpose of this is \*cough\* historical preservation.
 
 #### Why are you doing this?
-I tried to build a Long-EZ and failed. It was too expensive and too physically large for me to store it, the lack of authority telling me what was safe and what was not safe. The Vans RVs are successful because everything gets updated. Vans understands organization. If the canard community worked in the same way, we'd have a much better completion rate.
+I tried to build a Long-EZ from original plans and failed. It was too expensive and too physically large for me to store it. The lack of authority telling me what was safe and what was not safe was frustrating to say the least. Choosing materials to replace the now-nonexistant material originally used was a complete guessing game, which I did not appreciate. The Vans RVs are successful because everything gets updated. Everything is trackable. Vans understands organization. If the canard community worked in the same way, we'd have a much higher completion rate.
 
 ### TO DO
 #### Phase 1:
