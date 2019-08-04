@@ -13,7 +13,7 @@ I was watching it and was sad to see it fizzle out. Starting from scratch is ver
 I take absolutely no responsibility. There is no sole individual or organization controlling this project. This is for educational purposes only. No aircraft of any sort was nor will ever be intended to be built from these documents.
 
 #### Why Markdown?
-Markdown provides a fast and easy way to digitally write up a document. Word has syncing and licensing issues. It's much easier to just use a text editor. Markup also works very well with Git.
+Markdown provides a fast and easy way to digitally write up a document. Word has syncing and licensing issues. It's much easier to just use a text editor. Markup also works very well with Git. I use LaTeX regularly, so it would have been a great choice too, but it has a steeper learning curve than Markdown and requires more setup.
 
 #### Why Git?
 Reading forum posts regarding the Open-EZ led me to believe that many tried to digitize the plans with typed text and even CAD, but nobody was effectively working together. Git allows everyone to see the progress, and divide tasks to help prevent everyone from drawing the same part at once.
