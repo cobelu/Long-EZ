@@ -3,6 +3,9 @@
 
 ### FAQ:
 
+#### Can I Help?
+YES. Please, help! Let's keep the canard community going and preserve an awesome aircraft. Please message me, and we can talk about next steps. It's very boring work that is a lot for one person but would go super fast with 5 dedicated people.
+
 #### Why the Long-EZ?
 Rutan released it into the public domain. It makes sense to start here.
 
@@ -80,4 +83,11 @@ I tried to build a Long-EZ from original plans and failed. It was too expensive 
 - [ ] Chapter 26 Images
 
 #### Phase 2:
-Well, we'll worry about that later.
+Update the original plans with the changes from the Canard Pusher newsletter: 
+https://docs.google.com/file/d/0B8ljui4BNLG8NTg5WXBfa3E3ODQ/edit
+
+#### Phase 3:
+Include the additional manuals.
+
+#### Phase 3 (Optional):
+Begin redrawing the original drawings with beautiful CAD drawings, so they can be cut by a CNC machine.
