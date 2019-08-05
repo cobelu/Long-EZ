@@ -25,7 +25,7 @@ Reading forum posts regarding the Open-EZ led me to believe that many tried to d
 NO! My job is to digitize the plans as they were originally published. After that, the next phase will be to update the plans according to the mandates in the Canard Pusher newsletter. There are several deviations which are very practical, but the purpose of this is \*cough\* historical preservation.
 
 #### Why are you doing this?
-I tried to build a Long-EZ from original plans and failed. It was too expensive and too physically large for me to store it. The lack of authority telling me what was safe and what was not safe was frustrating to say the least. Choosing materials to replace the now-nonexistant material originally used was a complete guessing game, which I did not appreciate. The Vans RVs are successful because everything gets updated. Everything is trackable. Vans understands organization. If the canard community worked in the same way, we'd have a much higher completion rate.
+The Vans RVs are successful because everything gets updated. Everything is trackable. Vans understands organization. If the canard community worked in the same way, we'd have a much higher completion rate.
 
 ### TO DO
 #### Phase 1:
