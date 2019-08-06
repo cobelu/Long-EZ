@@ -4,7 +4,7 @@
 ### FAQ:
 
 #### Can I Help?
-YES. Please, help! Let's keep the canard community going and preserve an awesome aircraft. Please message me, and we can talk about next steps. It's very boring work that is a lot for one person but would go super fast with 5 dedicated people.
+YES. Please, help! Let's keep the canard community going and preserve an awesome aircraft. Please message me, and we can talk about next steps. It's very boring work that is a lot for one person but would go super fast with 5 dedicated people. Please see the [TODO page](TODO.md) to see how things are going and what's next.
 
 #### Why the Long-EZ?
 Rutan released it into the public domain. It makes sense to start here.
@@ -26,68 +26,3 @@ NO! My job is to digitize the plans as they were originally published. After tha
 
 #### Why are you doing this?
 The Vans RVs are successful because everything gets updated. Everything is trackable. Vans understands organization. If the canard community worked in the same way, we'd have a much higher completion rate.
-
-### TO DO
-#### Phase 1:
-- [ ] Chapter 1 Text
-- [ ] Chapter 1 Images
-- [ ] Chapter 2 Text
-- [ ] Chapter 2 Images
-- [ ] Chapter 3 Text
-- [ ] Chapter 3 Images
-- [ ] Chapter 4 Text
-- [ ] Chapter 4 Images
-- [ ] Chapter 5 Text
-- [ ] Chapter 5 Images
-- [ ] Chapter 6 Text
-- [ ] Chapter 6 Images
-- [ ] Chapter 7 Text
-- [ ] Chapter 7 Images
-- [ ] Chapter 8 Text
-- [ ] Chapter 8 Images
-- [ ] Chapter 9 Text
-- [ ] Chapter 9 Images
-- [ ] Chapter 10 Text
-- [ ] Chapter 10 Images
-- [ ] Chapter 11 Text
-- [ ] Chapter 11 Images
-- [ ] Chapter 12 Text
-- [ ] Chapter 12 Images
-- [ ] Chapter 13 Text
-- [ ] Chapter 13 Images
-- [ ] Chapter 14 Text
-- [ ] Chapter 14 Images
-- [ ] Chapter 15 Text
-- [ ] Chapter 15 Images
-- [ ] Chapter 16 Text
-- [ ] Chapter 16 Images
-- [ ] Chapter 17 Text
-- [ ] Chapter 17 Images
-- [ ] Chapter 18 Text
-- [ ] Chapter 18 Images
-- [ ] Chapter 19 Text
-- [ ] Chapter 19 Images
-- [ ] Chapter 20 Text
-- [ ] Chapter 20 Images
-- [ ] Chapter 21 Text
-- [ ] Chapter 21 Images
-- [ ] Chapter 22 Text
-- [ ] Chapter 22 Images
-- [ ] Chapter 23 Text
-- [ ] Chapter 23 Images
-- [ ] Chapter 24 Text
-- [ ] Chapter 24 Images
-- [ ] Chapter 25 Text
-- [ ] Chapter 25 Images
-- [ ] Chapter 26 Text
-- [ ] Chapter 26 Images
-
-#### Phase 2:
-Update the original plans with the changes from the Canard Pusher newsletter: 
-https://docs.google.com/file/d/0B8ljui4BNLG8NTg5WXBfa3E3ODQ/edit
-
-#### Phase 3:
-Include the additional manuals.
-
-#### Phase 3 (Optional):
-Begin redrawing the original drawings with beautiful CAD drawings, so they can be cut by a CNC machine.
