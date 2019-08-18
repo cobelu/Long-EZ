@@ -1,7 +1,7 @@
 # Long-EZ
-## Digitizing the Rutan Long-EZ Plans
+## A Digital Copy of the Rutan Long-EZ Plans
 
-![](../images/00/00_00.png)
+![](images/00/00_00.png)
 
 ### FAQ:
 
