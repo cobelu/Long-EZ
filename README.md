@@ -1,6 +1,8 @@
 # Long-EZ
 ## Digitizing the Rutan Long-EZ Plans
 
+![](../images/00/00_00.png)
+
 ### FAQ:
 
 #### Can I Help?
