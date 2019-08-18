@@ -22,7 +22,7 @@ Markdown provides a fast and easy way to digitally write up a document. Word has
 Reading forum posts regarding the Open-EZ led me to believe that many tried to digitize the plans with typed text and even CAD, but nobody was effectively working together. Git allows everyone to see the progress, and divide tasks to help prevent everyone from drawing the same part at once.
 
 #### Do you encourage deviations from the plans?
-NO! My job is to digitize the plans as they were originally published. After that, the next phase will be to update the plans according to the mandates in the Canard Pusher newsletter. There are several deviations which are very practical, but the purpose of this is \*cough\* historical preservation.
+NO! My job is to digitize the plans as they were originally published. After that, the next phase will be to update the plans according to the mandates in the Canard Pusher newsletter. There are several deviations which are very practical, but the purpose of this is **\*cough\*** historical preservation.
 
 #### Why are you doing this?
-The Vans RVs are successful because everything gets updated. Everything is trackable. Vans understands organization. If the canard community worked in the same way, we'd have a much higher completion rate. This also sets a precedence for the idea of open-sourcing aviation. One purpose of open-sourcing is not only to have an available final result, but also to allow everyone to learn from **how** the project was made.
+The Vans RVs are successful because everything gets updated. Everything is trackable. Vans understands organization. If the canard community worked in the same way, we'd have a much higher completion rate. This also sets a precedence for the idea of open-sourcing aviation. Sure, it's nice to benefit from the final result, but there's a lot to be learned from **how** the project was done.
