@@ -28,3 +28,9 @@ NO! My job is to digitize the plans as they were originally published. After tha
 
 #### Why are you doing this?
 The Vans RVs are successful because everything gets updated. Everything is trackable. Vans understands organization. If the canard community worked in the same way, we'd have a much higher completion rate. This also sets a precedence for the idea of open-sourcing aviation. Sure, it's nice to benefit from the final result, but there's a lot to be learned from **how** the project was done.
+
+### How do you convert a .tiff to a .png?
+
+`mogrify -format png -strip *.*`
+
+`rm *.tiff`
