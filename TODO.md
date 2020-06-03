@@ -23,15 +23,11 @@
 *  Chapter 17 Images Insert
 *  Chapter 18 Images Insert
 *  Chapter 19 Images Insert
-*  Chapter 20 Text Edit
 *  Chapter 20 Images Insert
-*  Chapter 21 Text Edit
 *  Chapter 21 Images Insert
 *  Chapter 22 Images Insert
-*  Chapter 23 Text Edit
 *  Chapter 23 Images Insert
 *  Chapter 24 Images Insert
-*  Chapter 25 Text Edit
 *  Chapter 25 Images Insert
 *  Chapter 26 Images Insert
 *  Back Cover Images Insert
