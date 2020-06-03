@@ -7,10 +7,6 @@
 *  Chapter 2 Images Insert
 *  Chapter 3 Text Edit
 *  Chapter 3 Images Insert
-*  Chapter 4 Images Insert
-*  Chapter 5 Images Insert
-*  Chapter 6 Images Insert
-*  Chapter 7 Images Insert
 *  Chapter 8 Images Insert
 *  Chapter 9 Images Insert
 *  Chapter 10 Images Insert
@@ -28,6 +24,7 @@
 *  Chapter 22 Images Insert
 *  Chapter 23 Images Insert
 *  Chapter 24 Images Insert
+*  Chapter 25 Text Edit
 *  Chapter 25 Images Insert
 *  Chapter 26 Images Insert
 *  Back Cover Images Insert
