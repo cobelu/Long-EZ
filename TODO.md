@@ -2,7 +2,6 @@
 
 #### Phase 1:
 
-*  Chapter 1 Text Edit
 *  Chapter 1 Images Insert
 *  Chapter 2 Text Edit
 *  Chapter 2 Images Insert
