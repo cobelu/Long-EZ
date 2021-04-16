@@ -6,7 +6,7 @@
 
 Each sentence should be on it's own line.
 
-#### Example:
+#### Example 1
 
 ```
 This is a sentence.
@@ -21,7 +21,7 @@ There should be a newline character after the comma.
 The conjuction should start the next line.
 Note that this is a flexible suggestion.
 
-#### Example:
+#### Example 2
 
 ```
 This is a clause,
@@ -38,13 +38,13 @@ Note that this is a somewhat flexible suggestion since it is truly an opinion.
 
 Paragraps should be split with a single, blank line in-between.
 
-#### Example:
+#### Example 3
 
 ``` markdown
 This is a paragraph.
 
 This is another paragraph.
-``` 
+```
 
 ## Styling
 
@@ -54,9 +54,8 @@ There is  no consistent styling in the original plans.
 
 There does not exist an underline command in Markdown.
 Instead, use `_` to bold the characters.
-This is due 
 
-#### Example: 
+#### Example 4
 
 ``` markdown
 This will be __underlined__.
