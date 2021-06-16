@@ -55,7 +55,6 @@ Weight the cores to be sure they sit flat on the table and allow to cure.
 
 ![Elevator tube weights](../images/11/11_03.png) Figure 11-4 Prep for glue
 
-
 ### STEP 2 - Installation of the top skin
 
 It should take about 1 1/2 hours and you can do it alone.
@@ -121,7 +120,7 @@ The sides of the mass balance are painted with epoxy.
 
 ### STEP 5 - Installation of belcranks and hinge brackets
 
-Should take about two hours. 
+Should take about two hours.
 With the elevators, bottom side up on your work bench, the CS2 hinge brackets and CS12 belcranks are installed.
 Align the CS9 plug and CS12 belcrank and drill as shown.
 
@@ -148,7 +147,7 @@ The hinge bracket is located fore and aft, by nesting the fitting against the tu
 Care should be taken to sand off any bumps or dicontinuities that may keep the CS2 bracket from fitting correctly.
 With all the CS2 hinge brackets sitting on the elevator, sight through the bushings to assure that they line up within 1/16".
 With the brackets located properly, drill the #30 holes (three).
-One of these holes is into the bottom glass skin 
+One of these holes is into the bottom glass skin
 It serves only to locate the hinge bracket, not for strength.
 Apply wet flox to the CS2 flange.
 Position it over the previously-drilled holes and install the bracket with two pop rivets.
@@ -160,7 +159,7 @@ Drill the center hole out to #12 drill size and counter­sink it (100° counters
 
 Installing the MS21042-3 nuts on the flush screws requires a **long** 1/4" box end wrench.
 This is easy to make using a cheap ignition wrench and a four-foot long stick or dowel of wood, as shown.
-When the 5 minute cures you can bend the wrench so it is even with the edge. 
+When the 5 minute cures you can bend the wrench so it is even with the edge.
 
 ![make 1/4" wrench](../images/11/11_14.png) Figure 11-15 Make 1/4" 4 ft long wrench
 
@@ -198,7 +197,7 @@ Bondo the jig blocks to the canard to hold the elevator securely in place.
 Bolt the CS3 hinge brackets to the CS2's and
 mark the area where they strike the canard.
 This should be approximately in the center of the canard's high density foam inserts.
-Don't set your brackets off center more than ± 0.3 . Use a drill with a 1/4" bit and rout a slot 
+Don't set your brackets off center more than ± 0.3 . Use a drill with a 1/4" bit and rout a slot
 in the canard's high density foam inslots along the marks.
 **Don't** drill through the top skin, but do remove foam down to the top skin.
 Unbolt the CS3's and drop them down in the slots for a trial fit.
@@ -240,7 +239,5 @@ CS3's and CS12's are made from 1/8" thick 2023T3 aluminum. Use the full size pat
 ![CS9 plug](../images/11/11_30.png) Figure 11-31: CS9 Plug dimensions
 
 ![Verify elevator tolerances](../images/11/11_31.png) Figure 11-32: Verify Elevator tolerances
-
-![Blank](../images/11/11_33.png)
 
 ![Elevator travel template](../images/11/11_32.png) Figure 11-33: Elevator Travel Template

@@ -55,28 +55,28 @@ If A is less, forward visibility will be less.
 Dimension B at 15" forward of firewall should be 12.3" so the canopy will fair in well with the cowl.
 Adjust blocks if necessary.
 
-### Step 3 - Assembline the canopy frame foam core 
+### Step 3 - Assembline the canopy frame foam core
 
 This step should take two to three hours.
 This step involves mounting some over-sized urethane foam blocks all around the canopy.
-These are later carved to 
+These are later carved to
 the shape of the canopy frame.
 Round up your box of 2"-thick urethane foam scraps.
 Fit pieces of 2" urethane to the canopy plexiglass and fuselage sides as shown.
-Working with 1 to 2-foot long pieces at a time is fairly easy. 
+Working with 1 to 2-foot long pieces at a time is fairly easy.
 Bondo and micro the blocks as shown.
 The micro and Bondo are applied to the foam block, then it is held in place while the Bondo sets.
-Where foam blocks join, keep the micro joint low (no squeeze­out on surface) to make later carving easier. 
+Where foam blocks join, keep the micro joint low (no squeeze­out on surface) to make later carving easier.
 
-### Step 4 - Carving the outside to shape 
+### Step 4 - Carving the outside to shape
 
 This step should take about two to three hours.
-Use your foam shaping tools to carve the outside to shape, as shown in the photos and sketches. 
+Use your foam shaping tools to carve the outside to shape, as shown in the photos and sketches.
 
 Note: Photos in this chapter are VariEze.
-Ignore presence of fuel tank and any dimensional reference. 
+Ignore presence of fuel tank and any dimensional reference.
 
-### Step 5 - Glassing the outside of the canopy frame 
+### Step 5 - Glassing the outside of the canopy frame
 
 This step should take two hours.
 The fuselage sides within 8 inches of the firewall should be sanded dull for bond­ing.
@@ -89,51 +89,51 @@ Do not knife trim into the plexiglass!
 The scratches from this would give cracks a place to begin.
 If trimming is required along the taped plexiglass edges, it is done after a full cure, using a round bit in your dremel (grind down just to the tape edge as shown).
 Be careful to cut the fiber­glass and not into the plexiglass under the tape.
-Let the layup cure for 48 hours. 
+Let the layup cure for 48 hours.
 
-### Step 6 - Trimming, jigging, and removing the canopy 
+### Step 6 - Trimming, jigging, and removing the canopy
 
 This step should take two hours.
 Use your hacksaw to cut the canopy front and rear as shown.
-Don't cut into the longeron or the instrument panel or your finger! 
+Don't cut into the longeron or the instrument panel or your finger!
 
 When you have the front and rear cuts done, Bondo on a bunch of lumber (front, back and sides like in photo) to keep the canopy frame from warping while working on the inside.
 When the Bondo is hard, use your butcher knife to pop the sides loose from the longerons.
 Don't just pull or the Bondo blobs on the longerons will break big hunks out of the inside foam.
-Lift the canopy off of the fuselage and set it upside down on your work bench. 
+Lift the canopy off of the fuselage and set it upside down on your work bench.
 
-### Step 7 - Carving the inside foam 
+### Step 7 - Carving the inside foam
 
 This step should take one to two hours.
 Carve the inside foam surfaces on the fuselage as shown.
 Carve the inside foam surfaces of the canopy as shown.
 
-Remove all of the foam (down to top skin) in the areas shown for hinge and latch reinforcements. 
+Remove all of the foam (down to top skin) in the areas shown for hinge and latch reinforcements.
 
-### Step 8 - Laying up the hinge and latch reinforcements and the inside glass skins 
+### Step 8 - Laying up the hinge and latch reinforcements and the inside glass skins
 
-This step should take about three to four 
+This step should take about three to four
 man-hours.
-Mix a batch of wet flox. 
+Mix a batch of wet flox.
 Fill the holes carved for latch and hinge reinforcements by alternating layers of flox with BID plies.
-Overfill the holes slightly so the reinforcements can be sanded flush after they cure. 
+Overfill the holes slightly so the reinforcements can be sanded flush after they cure.
 Trial fit the contoured canopy to your fuselage to check its fit.
-Then take it back to your work bench and lay 
+Then take it back to your work bench and lay
 up the inside glass as shown.
 Glass the inside surface of the rear cover on the fuselage with one ply BID lapping onto the firewall as shown.
-This layup is easy if the fuselage is turned over. 
+This layup is easy if the fuselage is turned over.
 
 ### Step 9 - Installing the vent and cross bracing tubes
 
-This step should take you two hours. 
-Carve a green urethane block as shown. 
+This step should take you two hours.
+Carve a green urethane block as shown.
 Glue it to the inside of the canopy frame as shown with a blob of 5MIN. Glass over the foam block with three plies BID.
-Lap onto the inside glass of the canopy an inch. 
+Lap onto the inside glass of the canopy an inch.
 
 After cure, use the dremel to cut the skin along the pattern shown, and remove the foam.
 The result is a NACA flush scoop that provides excellent ventilation for both cockpits.
-The sim­plest valve for the vent is a plug, carved to fit tight (carve from dark blue PV). 
-The plug stops all flow when fitted straight and allows partial flow when stuck in sideways. 
+The sim­plest valve for the vent is a plug, carved to fit tight (carve from dark blue PV).
+The plug stops all flow when fitted straight and allows partial flow when stuck in sideways.
 
 Carve holes through the glass at the canopy frame side in six places, as shown, with your dremel.
 Cut three lengths of 5/16 OD fiberglass arrow shaft tubing to fit across the canopy.
@@ -155,14 +155,14 @@ Be sure these holes go through the rein­forcement pads of the canopy (two holes
 Counter-bore the top of the frame for an MS21042-3 nut to sit below contour.
 Install as shown.
 Don't be upset if you can't get the canopy to fit perfectly.
-The frame or fuselage can be filled with dry micro and sanded to fair in. 
+The frame or fuselage can be filled with dry micro and sanded to fair in.
 
 ### Step 11 - Installing the canopy latches
 
 This step should take from one to four hours, depending on how well everything fits!
-Refer to the full-size drawing on 18-9 and 18-10 for the details of the canopy latch locations and hardware. 
+Refer to the full-size drawing on 18-9 and 18-10 for the details of the canopy latch locations and hardware.
 Make all of the metal parts shown, and install the three pivot bolts, C1L and C2 arms, and pushrods (C3, C4, C5, and C6) on the longerons.
-With these items installed, take your C7 and C8 extrusions and a batch of Bondo, climb into the cock­pit, close the canopy, and (one at a time) 
+With these items installed, take your C7 and C8 extrusions and a batch of Bondo, climb into the cock­pit, close the canopy, and (one at a time)
 position the C7 and C8's on the canopy frame to match the pivots and arms.
 Hold the C7 and C8's in position while the Bondo hardens, then open the canopy gently and drill in as shown.
 Install all latches with AN525-10R12 screws (install wet with flox, wipe excess).
@@ -178,22 +178,22 @@ Poor canopy reten­tion on your airplane can ruin your whole day.
 The C9 plate and bolt head on C1-L engage in such a fashion that you have to move C1-L. forward **and** pull it inboard to unlock the canopy.
 This prevents it from being bumped open inadvertently.
 To keep your canopy from banging on the fuel tank when open and to provide some shock absorbsion if a strong wind gust blows the canopy open, a cable retainer with a shock cord is mounted as shown.
-This can be made from a motorcycle or bicycle-type bungee strap . 
+This can be made from a motorcycle or bicycle-type bungee strap .
 
-### Step 12 - Glassing and installing the front top fuselage cover 
+### Step 12 - Glassing and installing the front top fuselage cover
 
-This step should take about two hours. 
+This step should take about two hours.
 The front cover is the hunk of glass and foam, forward of the canopy that was left in place on the fuselage, way back in step 6.
 Pop the forward cover free of the front bulkhead and longerons.
 Remove the tape and take the cover to your work bench.
 Contour the inside foam surface so that the foam is about 1/2" thick.
 
 Glass the inside foam surfaces with one ply BID, allow to cure an hour or two, then flip the cover over and install on the fuselage with flox.
-Layup a BID tape over the outside as shown, to join the outside skin to the fuselage skin, and to F28. 
+Layup a BID tape over the outside as shown, to join the outside skin to the fuselage skin, and to F28.
 
 ### Step 13 - Safety Catch
 
-Refer to the drawing for the SC-1 canopy safety catch. 
+Refer to the drawing for the SC-1 canopy safety catch.
 This catch keeps the canopy from opening more than 1" if the pilot forgets to lock it for takeoff.
 Do not skip this installation thinking you will never forget.
 Experience has shown that the most proficient pilots forget if the conditions are unusual.
@@ -202,15 +202,95 @@ All of us at RAF have forgotten on at least one occasion.
 Canopy up 1" is easily handled in any flight situation; however, canopy fully open is an extremly dangerous flight condition requiring good pilot ability to maintain aircraft control.
 Several pilots of VariEzes have handled this successfully, but in at least two cases it has resulted in an accident.
 The SC-1 automatically engages the AN525/CS13 bolt when the canopy is closed (locked or not).
-To open normally, you lift the canopy up about 1", then push inward on SC-1 to disengage (similar to safty catch on a car hood). 
+To open normally, you lift the canopy up about 1", then push inward on SC-1 to disengage (similar to safty catch on a car hood).
 
 Do not omit the knob on C7 – it is required to close the canopy in high winds.
 
-### Step 14 - Door 
+### Step 14 - Door
 
 The door shown provides a hole to reach through, allowing you to fully lock the C-1L handle when you are outside your aircraft.
-The door also allows emergency canopy 
+The door also allows emergency canopy
 opening from the outside.
 Print the letters "EMERGENCY CANOPY OPENING" on the outside of the door.
-Apply the lable shown on the inside of the door. 
-If you desire to install a key lock to secure your aircraft from radio theft, install a small drawer­ type key lock (available from hardware stores). 
+Apply the lable shown on the inside of the door.
+If you desire to install a key lock to secure your aircraft from radio theft, install a small drawer­ type key lock (available from hardware stores).
+
+![](../images/18/18_00.png) Figure 18-1: 
+![](../images/18/18_01.png) Figure 18-2: 
+![](../images/18/18_02.png) Figure 18-3: 
+![](../images/18/18_03.png) Figure 18-4: 
+![](../images/18/18_04.png) Figure 18-5: 
+![](../images/18/18_05.png) Figure 18-6: 
+![](../images/18/18_06.png) Figure 18-7: 
+![](../images/18/18_07.png) Figure 18-8: 
+![](../images/18/18_08.png) Figure 18-9: 
+![](../images/18/18_09.png) Figure 18-10: 
+
+![](../images/18/18_10.png) Figure 18-11: 
+![](../images/18/18_11.png) Figure 18-12: 
+![](../images/18/18_12.png) Figure 18-13: 
+![](../images/18/18_13.png) Figure 18-14: 
+![](../images/18/18_14.png) Figure 18-15: 
+![](../images/18/18_15.png) Figure 18-16: 
+![](../images/18/18_16.png) Figure 18-17: 
+![](../images/18/18_17.png) Figure 18-18: 
+![](../images/18/18_18.png) Figure 18-19: 
+![](../images/18/18_19.png) Figure 18-20:
+
+![](../images/18/18_20.png) Figure 18-21: 
+![](../images/18/18_21.png) Figure 18-22: 
+![](../images/18/18_22.png) Figure 18-23: 
+![](../images/18/18_23.png) Figure 18-24: 
+![](../images/18/18_24.png) Figure 18-25: 
+![](../images/18/18_25.png) Figure 18-26: 
+![](../images/18/18_26.png) Figure 18-27: 
+![](../images/18/18_27.png) Figure 18-28: 
+![](../images/18/18_28.png) Figure 18-29: 
+![](../images/18/18_29.png) Figure 18-30:
+
+![](../images/18/18_30.png) Figure 18-31: 
+![](../images/18/18_31.png) Figure 18-32: 
+![](../images/18/18_32.png) Figure 18-33: 
+![](../images/18/18_33.png) Figure 18-34: 
+![](../images/18/18_34.png) Figure 18-35: 
+![](../images/18/18_35.png) Figure 18-36: 
+![](../images/18/18_36.png) Figure 18-37: 
+![](../images/18/18_37.png) Figure 18-38: 
+![](../images/18/18_38.png) Figure 18-39: 
+![](../images/18/18_39.png) Figure 18-40:
+
+![](../images/18/18_40.png) Figure 18-41: 
+![](../images/18/18_41.png) Figure 18-42: 
+![](../images/18/18_42.png) Figure 18-43: 
+![](../images/18/18_43.png) Figure 18-44: 
+![](../images/18/18_44.png) Figure 18-45: 
+![](../images/18/18_45.png) Figure 18-46: 
+![](../images/18/18_46.png) Figure 18-47: 
+![](../images/18/18_47.png) Figure 18-48: 
+![](../images/18/18_48.png) Figure 18-49: 
+![](../images/18/18_49.png) Figure 18-50:
+
+![](../images/18/18_50.png) Figure 18-51: 
+![](../images/18/18_51.png) Figure 18-52: 
+![](../images/18/18_52.png) Figure 18-53: 
+![](../images/18/18_53.png) Figure 18-54: 
+![](../images/18/18_54.png) Figure 18-55: 
+![](../images/18/18_55.png) Figure 18-56: 
+![](../images/18/18_56.png) Figure 18-57: 
+![](../images/18/18_57.png) Figure 18-58: 
+![](../images/18/18_58.png) Figure 18-59: 
+![](../images/18/18_59.png) Figure 18-60:
+
+![](../images/18/18_60.png) Figure 18-61: 
+![](../images/18/18_61.png) Figure 18-62: 
+![](../images/18/18_62.png) Figure 18-63: 
+![](../images/18/18_63.png) Figure 18-64: 
+![](../images/18/18_64.png) Figure 18-65: 
+![](../images/18/18_65.png) Figure 18-66: 
+![](../images/18/18_66.png) Figure 18-67: 
+![](../images/18/18_67.png) Figure 18-68: 
+![](../images/18/18_68.png) Figure 18-69: 
+![](../images/18/18_69.png) Figure 18-70:
+
+![](../images/18/18_70.png) Figure 18-71: 
+![](../images/18/18_71.png) Figure 18-72:
