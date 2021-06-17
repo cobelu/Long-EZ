@@ -104,3 +104,10 @@ These can be broken down into smaller sentences in order to improve readability.
 
 Remember: the project goal is to preserve and improve.
 The project goal is *not* to create substantial changes.
+
+### Canard Pusher Newsletter Changes
+
+Changes to text due to updates from the Canard Pusher (CP) Newsletter should be reflected with the use of Markdown's strikethrough operator.
+You can strikethrough text with two tildas (~) on each side of the text like so:
+
+`~~Old way to do it.~~ Use this new way (CP##).`
