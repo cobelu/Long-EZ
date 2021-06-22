@@ -4,7 +4,7 @@
 
 This chapter is a listing of the materials and components which are required to build a Long-EZ. The parts are catagorized by type for your convenience when ordering. The parts are also categorized by plans chapter to assist you in locating them during construction.
 
-RAF maintains a close liaison with the distributors listed to assure proper materials specification and quality control. The distributors listed here are the only approved sources for materials. Do not make substitutions for the structural materials shown. The indicated materials were selected, developed, tested, and optimized for ease of construction and structural integrity. RAF cannot provide assistance in the application of substitute materials. Each authorized distributor has a catalog or descrip­tive price list of the materials and components that they provide. The catalogs often cover a range of items beyond the basic requirements shown in this B.O.M. and serve as a very handy reference. Those distributors who charge for their catalogs will refund the catalog charge with your first order. 
+RAF maintains a close liaison with the distributors listed to assure proper materials specification and quality control. The distributors listed here are the only approved sources for materials. Do not make substitutions for the structural materials shown. The indicated materials were selected, developed, tested, and optimized for ease of construction and structural integrity. RAF cannot provide assistance in the application of substitute materials. Each authorized distributor has a catalog or descrip­tive price list of the materials and components that they provide. The catalogs often cover a range of items beyond the basic requirements shown in this B.O.M. and serve as a very handy reference. Those distributors who charge for their catalogs will refund the catalog charge with your first order.
 
 | AIRCRAFT SPRUCE & SPECIALTY | WICKS AIRCRAFT SUPPLY |
 | --- | --- |
@@ -32,26 +32,24 @@ RAF maintains a close liaison with the distributors listed to assure proper mate
 | Compass |
 | Engine | Due to the many options, refer to Chapter 22 and Chapter 21 and order to suit |
 
-| TOOLS | |
-| --- | --- |
-| 2 pcs. 16"x48" | Birch aircraft plywood for templates |
-| Box of 200 | Disposable co-polymer examination gloves |
-| (1 lb) jar | Ply No.9 Gell Skin Protector |
-| (1 pint) | Epo Cleanse, epoxy hand cleaner |
-| (2 each) | 6-in long rubber squeegee |
-| | 8 oz. unwaxed paper epoxy mixing cups |
-| (200 each) | Lily Bristle paint brushes |
-| (100 each) |1-in wide scissors |
-| (50 each) | 2-in wide scissors |
-| 1 pair | Wiss model 20W |
-| (1 each) | Wood straight edge 1" x 4" x 72" |
-| | Decimal tape measure |
-| (1 each) | Stanley #61-112 |
-| Box of 500 | Wood mixing sticks |
-| | Disston Abrader #401C |
-| | 5/8" counter bore with 1/4" pilot and 10" long shank |
+| TOOLS | | |
+| --- | --- | --- |
+| 1 pcs. | ~~2 pcs 16" x 48"~~ 1/16" or 1/8" thick x 24" x 48" | Birch aircraft plywood for templates |  {CP 25 PC 15 MEO} |
+| Box of 200 | Disposable co-polymer examination gloves |  |
+| (1 lb) jar | Ply No.9 Gell Skin Protector |  |
+| (1 pint) | Epo Cleanse, epoxy hand cleaner |  |
+| (2 each) | 6-in long rubber squeegee |  |
+| (200 each) | 8 oz. Lily unwaxed paper epoxy mixing cups |  |
+| (100 each) | 1-in wide Bristle paint brushes |  |
+| (50 each) | 2-in wide Bristle paint brushes |  |
+| 1 pair | Wiss model 20W scissors |  |
+| (1 each) | Wood straight edge 1" x 4" x 72" |  |
+| (1 each) | Decimal tape measure Stanley #61-112 |  |
+| Box of 500 | Wood mixing sticks |  |
+| (1 each) | Disston Abrader #401C |  |
+| (1 each) | 5/8" counter bore with 1/4" pilot and 10" long shank |  |
 
-![paddle bit](../images/02/10_inch_paddle_bit.PNG)Figure 2-1:10 inch paddle bit 
+![Counter bore](../images/02/10_inch_spot_face.PNG)Figure 2-1:10 inch counter bore tool
 
 | PEEL PLY | |
 | --- | --- |
@@ -73,78 +71,88 @@ Note: Aircraft Spruce catalog lists a large variety of composite-working tools.
 
 Catalog $2 - shows photos of all parts
 
-| | CUSTOM PREFAB PARTS | CHAPTER |
-| --- | --- | --- |
-| (1) | STEP - Formed aluminum | 8 |
-| (2) | LMGA Assembly | 9 |
-| (2) | AX 5 Main gear axle 1 1/4" dia. | 9 |
-| (1) | LB-12345 Weldment | 9 |
-| (1) | LB-6 Spacer| 9 |
-| (1) | LB-10 Arm | 9 |
-| (1) | LB-11 Spring clip | 9 |
-| (1) | LB-131415 Handle assy. with bearing | 9 |
-| (2) | LB-16 Spacer | 9 |
-| (2) | LB-18 Brackets | 9 |
-| (1) | LB-21 Rod | 9 |
-| (2) | CLT Lift tab | 10 |
-| (7) | CS2 Formed hinge with bushing | 11 |
-| (9) | CS3 Bracket | 11 |
-| (2) | CS9 Plug | 11 |
-| (2) | CS10 Lead weight | 11 |
+| | CUSTOM PREFAB PARTS | CHAPTER | Canard Pusher |
+| --- | --- | --- | --- |
+| (1) | STEP - Formed aluminum | 8 | |
+| (2) | LMGA Assembly | ~~9~~ 5 | {CP 26 PC 34 MEO} |
+| (2) | LMBG1 forward main gear attach brackets | 5 | {CP 35 PC 109 MEO} |
+| (2) | LMBG2 aft main gear attach brackets | 5 | {CP 35 PC 109 MEO}  |
+| (2) | AX 5 Main gear axle 1 1/4" dia. | 9 | |
+| (4) | A4-84 Axle spacers | 9| {CP 29 PC 71 MEO} | |
+| (2) | J1.25 Axle nut    | 9 | {CP 29 PC 71 MEO} | |
+| (1) | LB-12345 Weldment | 9 | |
+| (1) | LB-6 Spacer| 9 | |
+| (1) | LB-10 Arm | 9 | |
+| (1) | LB-11 Spring clip | 9 | |
+| (1) | LB-131415 Handle assy. with bearing | 9 | |
+| (2) | LB-16 Spacer | 9 | |
+| (2) | LB-18 Brackets | 9 | |
+| (1) | LB-21 Rod | 9 | |
+| (2) | CLT Lift tab | 10 | |
+| (7) | CS2 Formed hinge with bushing | 11 | |
+| (9) | CS3 Bracket | 11 | |
+| (2) | CS9 Plug | 11 | |
+| (2) | CS10 Lead weight | 11 | |
 | (2) | CS11 Lead weight | 11 |
 | (2) | CS12 Belhorn with bushing | 11 |
-| (1) | PTB Belcrank | 11 |
-| (2) | CNL Aluminum bushing | 12 |
-| (2) | CN2 STL bushing | 12 |
-| (1) | Word-drive retract assy. including hand crank | 13 |
-| (1) | NG6 Casting | 13 |
-| (1) | NG15A Casting | 13 |
-| (1) | NG16 Casting | 13 |
-| (1) | NG-3 Bracket | 13 |
-| (1) | NG-4 Bracket | 13 |
-| (1) | NG 10A/NG9 Assembly (pushrod) | 13 |
-| (1) | NG6 Assy including NG7 and NG23 Bracket | 13 |
-| (2) | NG8 Plates | 13 |
-| (1) | NG401A Lower node gear assy with tire tube friction, bolts, etc. | 13 |
-| (2) | LE2026 Welded rudder pedal (1 left, 1 right) | 13 |
-| (4) | CS13 Steel pushing | 13 |
-| (2) | SH1 Strap | 14 |
-| (2) | CS15 Belcrank with bearing | 15 |
-| (2) | CS71 Brackets | 15 |
-| (2) | CS72 Pulley brackets (2 pieces each) | 15 |
-| (2) | CS75 Steel Bushings | 15 |
-| (2) | BA Brake arms | 15 |
-| (2) | CS171 Brackets | 15 |
-| (2) | Stick grips - rubber | 16 |
-| (10) | CS1 Inserts | 16 |
-| (2) | CS1A Inserts | 16 |
-| (4) | CS17 Spacer | 16 |
-| (2) | CS131 Spacer | 16 |
-| (2) | CS128 Belcrank with bearing| 16 |
-| (4) | CS127 Bracket | 16 |
-| (2) | CS201 Steel bushings | 16 |
-| (2) | CS132L Welded belhorn | 16 |
-| (1) | CS122/124 Welded belhorn | 16 |
-| (2) | CS202 Aluminum bushings | 16 |
-| (3) | CS181 Inserts | 16 |
-| (2) | CS112 Steel bushings | 16 |
-| (1) | PTH Handle | 17 |
-| (1) | RT1 Handle | 17 |
-| (2) | RT2 Brackets (1 left, 1 right) | 17 |
-| (1) | C1-L Handle | 18 |
-| (2) | C2-L Arm | 18 |
-| (2) | C3 Lug | 18 |
-| (1) | C4 Block | 18 |
-| (2) | C5 Rod | 18 |
-| (2) | C6 Tube | 18 |
-| (1) | SC1 Catch | 18 |
-| (1) | C21 Machined handle | 18 |
-| (2) | CS13 Spacer | 18 |
-| (12) | LWA9 Aluminum bushings | 19 |
-| (2) | A2 Brackets | 19 |
-| (4) | A5 Brackets | 19 |
-| (2) | CS301 Steel belhorn (1 left, 1 right | 20 |
-| (2) | FT-18 Fuel cap assembly | 21 |
+| (1) | PTB Belcrank | 11 | |
+| (2) | CNL Aluminum bushing | 12 | |
+| (2) | CN2 STL bushing | 12 | |
+| (1) | Word-drive retract assy. including hand crank | 13 | |
+| (1) | NG5 Plate   | 1 | {CP 29 PC 71 MEO} |
+| (1) | NG6 Casting | 13 | |
+| (1) | NG15A Casting | 13 | |
+| (1) | NG16 Casting | 13 | |
+| (1) | NG-3 Bracket | 13 | |
+| (1) | NG-4 Bracket | 13 | |
+| (1) | NG 10A/NG9 Assembly (pushrod) | 13 | |
+| (1) | NG6 Assy including NG7 and NG23 Bracket | 13 | |
+| (2) | NG8 Plates | 13 | |
+| (1) | NG401A Lower node gear assy with tire tube friction, bolts, etc. | 13 |  |
+| (2) | LE2026 Welded rudder pedal (1 left, 1 right) | 13 |  |
+| (4) | CS13 Steel bushing | 13 |  |
+| (2) | SH1 Strap | 14 |  |
+| (2) | CS15 Belcrank with bearing | 15 |  |
+| (2) | CS71 Brackets | 15 |  |
+| (2) | CS72 Pulley brackets (2 pieces each) | 15 |  |
+| (2) | CS75 Steel Bushings | 15 |  |
+| (2) | BA Brake arms | 15 |  |
+| (2) | CS171 Brackets | 15 |  |
+| (2) | Stick grips - rubber | 16 |  |
+| (10) | CS1 Inserts | 16 |  |
+| (2) | CS1A Inserts | 16 |  |
+| (4) | CS17 Spacer | 16 |  |
+| (2) | CS131 Spacer | 16 |  |
+| (2) | CS128 Belcrank with bearing| 16 |  |
+| (4) | CS127 Bracket | 16 |  |
+| (2) | CS201 Steel bushings | 16 |  |
+| (2) | CS132L Welded belhorn | 16 |  |
+| (1) | CS122/124 Welded belhorn | 16 |  |
+| (2) | CS202 Aluminum bushings | 16 |  |
+| (3) | CS181 Inserts | 16 |  |
+| (2) | CS112 Steel bushings | 16 |  |
+| (1) | PTH Handle | 17 |  |
+| (1) | RT1 Handle | 17 |  |
+| (2) | RT2 Brackets (1 left, 1 right) | 17 |  |
+| (1) | C1-L Handle | 18 |  |
+| (2) | C2-L Arm | 18 |  |
+| (2) | C3 Lug | 18 |  |
+| (1) | C4 Block | 18 |  |
+| (2) | C5 Rod | 18 |   |
+| (2) | C6 Tube | 18 |   |
+| (1) | SC1 Catch | 18 |   |
+| (1) | C21 Machined handle | 18 |  |
+| (2) | CS13 Spacer | 18 |  |
+| (12) | LWA9 Aluminum bushings | 19 |  |
+| (2) | A2 Brackets | 19 |  |
+| (4) | A5 Brackets | 19 |  |
+| (2) | CS301 Steel belhorn (1 left, 1 right | 20 |  |
+| (2) | FT-18 Fuel cap assembly | 21 |  |
+| (1) | Lycoming exhaust system |    | {CP 35 PC 109 MEO} |
+| (4) | Dynafocal engine mounts |    | {CP 35 PC 109 MEO} |
+| (4) | Conical engine mounts   |    | {CP 35 PC 109 MEO} |
+| (4) | A484 back up rings (4 required 2 each) |    | {CP 35 PC 109 MEO} |
+| (1) | LE2-LL landing light mount kit |    | {CP 35 PC 109 MEO} |
 
 Note: Brock also has available the individual parts for all assemblies listed.
 
@@ -160,7 +168,7 @@ Note: Brock also has available the individual parts for all assemblies listed.
 | NG-1L | Node gear strut 2.8 lb S-glass |
 | | Plexiglass canopy bubble |
 
-Note: This list is complete **only** if you purchase all available prefab parts. If you decide to build a prefab part, refer to its drawing and order material and hardware as required. **Do** obtain catalogs from all distributors. They contain photos of available parts and a considerable amount of information on hardware, components and use of them. 
+Note: This list is complete **only** if you purchase all available prefab parts. If you decide to build a prefab part, refer to its drawing and order material and hardware as required. **Do** obtain catalogs from all distributors. They contain photos of available parts and a considerable amount of information on hardware, components and use of them.
 
 ___
 
@@ -207,9 +215,6 @@ ___
 | 1    | Pcs. 1" x 1" x 12” Spruce                  |
 | 1    | Pc. 24" x 36" 5-ply Birch ¼” Plywood       |
 
-
-
-
 | Aluminum Extrusions |                                          |      |   |
 |---------------------|------------------------------------------|------|---|
 | 90 Degree angle     |                                          |      |   |
@@ -220,15 +225,17 @@ ___
 | 2024 T3             | 2” x 0.25”                               | 60”  | 1 |
 | 2024 T3             | 2” x 0.25”                               | 30”  | 1 |
 
-| Sheet Metal |                 |            |       |   |
-|-------------|-----------------|------------|-------|---|
-| 301 or 302  | Stainless Steel | 24” x 30”  | 0.16” | 1 |
-| 2024T3      | Aluminum        | 3” x 10”   | 0.16” | 1 |
-| 6061-0      | Soft Aluminum   | 20” x 24”  | 0.20” | 1 |
-| 2024T3      | Aluminum        | 12” x 8”   | 0.25” | 1 |
-| 2024T3      | Aluminum        | 1.5” x 8”  | 0.32” | 1 |
-| 6061T6      | Aluminum        | 8” x 10”   | 0.32” | 1 |
-| 2024T3      | Aluminum        | 6” x 8”    | 0.63” | 1 |
+| Sheet Metal |                 |            |       |   |  |
+|-------------|-----------------|------------|-------|---| --- |
+| 301 or 302  | Stainless Steel | 24” x 30”  | 0.16” | 1 | {CP 25 PC 25 DES see  note 1} |
+| 2024T3      | Aluminum        | 3” x 10”   | 0.16” | 1 |  |
+| 6061-0      | Soft Aluminum   | 20” x 24”  | 0.20” | 1 |  |
+| 2024T3      | Aluminum        | 12” x 8”   | 0.25” | 1 |  |
+| 2024T3      | Aluminum        | 1.5” x 8”  | 0.32” | 1 |  |
+| 6061T6      | Aluminum        | 8” x 10”   | 0.32” | 1 |  |
+| 2024T3      | Aluminum        | 6” x 8”    | 0.63” | 1 |  |
+
+***Note 1: {CP 25 PC 25 DES} 2024T3 24" x 30" Aluminum can be substituted for the steel firewall. Thickness was not specified in the changes.***
 
 | Metal Tubing and Rod |              |         |                        |   |
 |----------------------|--------------|---------|------------------------|---|
@@ -245,22 +252,22 @@ ___
 | Cold Rolled          | Steel        | 36”     | 0.375”                 | 4 |
 | Piano wire           | Steel (hard) | 12”     | 0.32”                  | 1 |
 
-| Airframe Bolts |    |
-|----------------|----|
-| 3/16”          |    |
-| AN3-4A         | 2  |
-| AN3-5A         | 14 |
-| AN3-6A         | 18 |
-| AN3-7A         | 25 |
-| AN3-10A        | 5  |
-| AN3-12A        | 1  |
-| AN3-13A        | 6  |
-| AN3-15A        | 2  |
-| AN3-16A        | 2  |
-| AN3-20A        | 2  |
-| AN3-6          | 1  |
-| AN3-7          | 1  |
-| AN3-11         | 16 |
+| Airframe Bolts |    |   |
+|----------------|----| ---  |
+| 3/16”          |    |   |
+| AN3-4A         | 2  |   |
+| AN3-5A         | 14 |   |
+| AN3-6A         | 18 |   |
+| AN3-7A         | 25 |   |
+| AN3-10A        | 5  |   |
+| AN3-12A        | 1  |   |
+| AN3-13A        | 6  |   |
+| AN3-15A        | 2  |   |
+| AN3-16A        | 2  |   |
+| AN3-20A        | 2  |   |
+| AN3-6          | 1  |   |
+| AN3-7          | 1  |   |
+| ~~AN3-11~~ AN3-11A        | 16 | {CP25 PC 14 MEO}  |
 
 | __1/4"__      |    |
 |---------|----|
@@ -321,19 +328,19 @@ ___
 | AN363-624 | 2   |
 | AN363-820 | 6   |
 
-| Washers    |     |
-|------------|-----|
-| AN960-10L  | 200 |
-| AN960-10   | 150 |
-| AN960-416L | 150 |
-| AN960-416  | 8   |
-| AN960-616  | 4   |
-| AN960-816L | 10  |
-| AN960-816  | 12  |
-| AN960-1016 | 2   |
-| AN970-3    | 28  |
-| AN970-4    | 5   |
-| AN970-5    | 2   |
+| Washers    |     |     |
+|------------|-----| ---- |
+| AN960-10L  | 200 |     |
+| AN960-10   | 150 |     |
+| AN960-416L | 150 |     |
+| AN960-416  | 8   |     |
+| AN960-616  | 4   |     |
+| AN960-816L | 10  |     |
+| AN960-816  | 12  |     |
+| AN960-1016~~8~~ | 2   | {CP30 PC83 MEO}    |
+| AN970-3    | 28  |     |
+| AN970-4    | ~~5~~ 11   | {CP28 PC 55 MEO}    |
+| AN970-5    | 2   |     |
 
 Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 
@@ -614,74 +621,74 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 
 #### <u>Chapter 13: Nose and Nose Gear</u>
 
-| Nose and Nose Gear |    |                                                            |
-|--------------------|----|------------------------------------------------------------|
-| Prefab Parts       | 1  | NG1-L ‘S’ Glass Strut                                      |
-|                    | 1  | SC Fiberglass strut cover                                  |
-|                    | 1  | Worm Drive Retraction assy. (includes belcrank components) |
-|                    | 1  | NG3 Bracket                                                |
-|                    | 1  | NG4 Bracket                                                |
-|                    | 1  | NG10A / NGO Assembly                                       |
-|                    | 1  | NG6 Assembly                                               |
-|                    | 2  | NG8 Plates                                                 |
-|                    | 1  | NG401A Castering Nose wheel Assy.                          |
-|                    | 2  | LE 2026 Rudder Pedals                                      |
-|                    | 4  | CS13 Bushings                                              |
-|                    | 1  | SC Fiberglass strut cover                                  |
-| Hardware           | 3  | AN525-10R10 Screws                                         |
-|                    | 2  | AN526-832-14 Screws                                        |
-|                    | 8  | AN509-10R14 Screws                                         |
-|                    | 4  | AN509-10R28 Screws                                         |
-|                    | 3  | AN4-10RA Bolts                                             |
-|                    | 1  | AN4-15A Bolts                                              |
-|                    | 2  | AN4-41A Bolts                                              |
-|                    | 1  | AN5-41A Bolts                                              |
-|                    | 2  | AN3-6A Bolts                                               |
-|                    | 2  | AN3-7A Bolts                                               |
-|                    | 2  | K1000-3 Nut Plates                                         |
-|                    | 2  | AN364-832 Nuts                                             |
-|                    | 19 | MS21042-3 Nuts                                             |
-|                    | 6  | MS21042-4 Nuts                                             |
-|                    | 1  | AN365-524 Nuts                                             |
-|                    | 2  | AN316-6 Nuts                                               |
-|                    | 14 | AN960-10 Washers                                           |
-|                    | 6  | AN970-3 Washers                                            |
-|                    | 7  | AN970-4 Washers                                            |
-|                    | 2  | AN970-5 Washers                                            |
-|                    | 4  | AN426AD3-3 Rivet                                           |
-|                    | 10 | AN509 8R8 Screws                                           |
-|                    | 10 | K1000-08 Nut plates                                        |
-|                    | 20 | AN426AD3-4 Rivet                                           |
-| Glass              |    | 7 yds BID                                                  |
-| Epoxy              |    | ½ gallon                                                   |
-| Foam               | 1  | 10 sq. ft. 2” thick urethane foam                          |
-|                    | 1  | 4.5 sq. ft. 0.2” thick type R250 dark red                  |
-| Metal              | 1  | 2.5 x 3 x 1/8” 2024T3 aluminum sheet                       |
-|                    | 1  |  4 ft ¼” O.D. x 0.035 wall 5052-0 Aluminum                 |
-|                    | 1  | 8” x 10” of 0.32 6061T6 alum. Tube                         |
-| Misc               | 1  |  4 ft 3/8” O.D. x ¼” I.D. Tygon tubing                     |
-|                    | 1  | 0715-153 tee                                               |
-|                    | 2  | 0700-153 adapters                                          |
-|                    | 2  | HM-6 rodends (RE4M6)                                       |
+| Nose and Nose Gear |    |                                                            |  |
+|---|---|---|---|
+| Prefab Parts       | 1  | NG1-L ‘S’ Glass Strut  |  |
+|                    | 1  | SC Fiberglass strut cover  |  |
+|                    | 1  | Worm Drive Retraction assy. (includes belcrank components) |  |
+|                    | 1  | NG3 Bracket                                                |  |
+|                    | 1  | NG4 Bracket                                                |  |
+|                    | 1  | NG10A / NGO Assembly                                       |   |
+|                    | 1  | NG6 Assembly                                               |  |
+|                    | 2  | NG8 Plates                                                 |  |
+|                    | 1  | NG401A Castering Nose wheel Assy.                          |  |
+|                    | 2  | LE 2026 Rudder Pedals                                      |  |
+|                    | 4  | CS13 Bushings                                              |  |
+|                    | ~~1~~  | ~~SC Fiberglass strut cover~~                                  | {CP 30 PC 79 INFO} |
+| Hardware           | 3  | AN525-10R10 Screws                                         |  |
+|                    | 2  | AN526-832-14 Screws                                        |  |
+|                    | 8  | AN509-10R14 Screws                                         |  |
+|                    | 4  | AN509-10R28 Screws                                         |  |
+|                    | 3  | AN4-10RA Bolts                                             |  |
+|                    | 1  | AN4-15A Bolts                                              |  |
+|                    | 2  | AN4-41A Bolts                                              |  |
+|                    | 1  | AN5-41A Bolts                                              |  |
+|                    | 2  | AN3-6A Bolts                                               |  |
+|                    | 2  | AN3-7A Bolts                                               |  |
+|                    | 2  | K1000-3 Nut Plates                                         |  |
+|                    | 2  | AN364-832 Nuts                                             |  |
+|                    | 19 | MS21042-3 Nuts                                             |  |
+|                    | 6  | MS21042-4 Nuts                                             |  |
+|                    | 1  | AN365-524 Nuts                                             |  |
+|                    | 2  | AN316-6 Nuts                                               |  |
+|                    | 14 | AN960-10 Washers                                           |  |
+|                    | 6  | AN970-3 Washers                                            |  |
+|                    | 7  | AN970-4 Washers                                            |  |
+|                    | 2  | AN970-5 Washers                                            |  |
+|                    | 4  | AN426AD3-3 Rivet                                           |  |
+|                    | 10 | AN509 8R8 Screws                                           |  |
+|                    | 10 | K1000-08 Nut plates                                        |  |
+|                    | 20 | AN426AD3-4 Rivet                                           |  |
+| Glass              |    | 7 yds BID                                                  |  |
+| Epoxy              |    | ½ gallon                                                   |  |
+| Foam               | 1  | 10 sq. ft. 2” thick urethane foam                          |  |
+|                    | 1  | 4.5 sq. ft. 0.2” thick type R250 dark red                  |  |
+| Metal              | 1  | 2.5 x 3 x 1/8” 2024T3 aluminum sheet                       |  |
+|                    | 1  |  4 ft ¼” O.D. x 0.035 wall 5052-0 Aluminum                 |  |
+|                    | 1  | 8” x 10” of 0.32 6061T6 alum. Tube                         |  |
+| Misc               | 1  |  4 ft 3/8” O.D. x ¼” I.D. Tygon tubing                     |  |
+|                    | 1  | 0715-153 tee                                               |  |
+|                    | 2  | 0700-153 adapters                                          |  |
+|                    | 2  | HM-6 rodends (RE4M6)                                       |  |
 
 #### <u>Chapter 14: Center Section Spar</u>
-| Center Section Spar |    |                                         |
-|---------------------|----|-----------------------------------------|
-| Prefab Parts        | 2  | SH1 Aluminum Straps                     |
-| Hardware            | 4  | AN4-15A Bolts                           |
-|                     | 10 | AN4-16A Bolts                           |
-|                     | 32 | AN960-416L Washers                      |
-|                     | 16 | MS21042-4 Nuts                          |
-|                     | 2  | AN4-17A Bolts                           |
-| Glass               | 1  | 1 yd UND                                |
-|                     | 1  | 18 yd BID                               |
-| Epoxy               |    | 2 gallons                               |
-| Foam                | 9  | 10 sq ft ½” thick, type R100 red foam   |
-|                     | 6  | 10 sq ft 1” thick, urethane foam        |
-| Metal               | 1  | 3 ft 1/8” x 1” x 1” 2024-T3 Alum. angle |
-|                     | 1  | 30” 1/8” x 2” 2024-T3 alum bar          |
-|                     | 1  | 12” ¼” x 2” 2024-T3 alum. Bar           |
-| Wood                | 1  | 1 ft 1”x 1” Spruce                      |
+| Center Section Spar |    |                                         |  |
+|---------------------|----|-----------------------------------------| --- |
+| Prefab Parts        | 2  | SH1 Aluminum Straps                     |  |
+| Hardware            | 4  | AN4-15A Bolts                           |  |
+|                     | 10 | AN4-16A Bolts                           |  |
+|                     | 32 | AN960-416L Washers                      |  |
+|                     | 16 | MS21042-4 Nuts                          |  |
+|                     | 2  | AN4-17A Bolts                           |  |
+| Glass               | 1  | 1 yd UND                                |  |
+|                     | 1  | 18 yd BID                               |  |
+| Epoxy               |    | 2 gallons                               |  |
+| Foam                | 9  | 10 sq ft ½” thick, type R100 red foam   |  |
+|                     | 6  | 10 sq ft 1” thick, urethane foam        |  |
+| Metal               | 1  | 3 ftc~~1.8~~ 1/8” x 1” x 1” 2024-T3 Alum. angle | {CP25 PC 21 MEO}  |
+|                     | 1  | 30” 1/8” x 2” 2024-T3 alum bar          |  |
+|                     | 1  | 12” ¼” x 2” 2024-T3 alum. Bar           |  |
+| Wood                | 1  | 1 ft 1”x 1” Spruce                      |  |
 
 #### <u>Chapter 15: Firewall and Accessories</u>
 

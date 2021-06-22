@@ -60,7 +60,7 @@ Now you must trim the leading edges at the axles to clear the brake calipers (se
 
 Refer to Section VI (Landing brake) install this system now.
 Note that the rudder conduit will later fit outside LB 17 rather than as shown in Section VI.
-Refer to Chapter 24 for the required left arm rest installation.
+Refer to Chapter 14 for the required left arm rest installation and other important landing brake details. {CP27 PC112 MEO}
 
 Due to different armrest dimensions, substitute an AN-26A bolt for the AN4-22A bolt and use two LB16 spacers.
 
@@ -87,7 +87,7 @@ Make certain that the center line of the gear leg is in line with the fuselage c
 
 Don't be concerned if the tabs do not set exactly flat on the gear leading and trailing edges. Just do the best you can to match them up as shown in ~~figure 2~~ Figure 9-9.
 
-Use the aft face of the center section spar as a vertical reference at B.L. 26.75 and F.S. 125.5 (refer to chapter 8) for setting the fore and aft position of the gear leg.
+Use the aft face of the center section spar as a vertical reference at B.L. 26.75 and F.S. 125.5 (refer to chapter ~~8~~ 14 {CP36 PC112 MEO}) for setting the fore and aft position of the gear leg.
 This is done by holding a straight edge vertical against the back face of the center section spar and moving the gear leg until the axle center line is 15" forward of the straight edge (see ~~sketch 1A~~Figure 9-9).
 
 ![main gear Install](../images/09/09_06.png) Figure 9-9:Align main gear
@@ -99,7 +99,7 @@ Now trowel a generous blob of Bondo between the plywood and gear leg.
 This must be capable of supporting the plywood blocks while you layup the outer glass tabs (~~figure 3~~Figure 9-10).
 Also, Bondo the steel tube to the plywood block, just a tiny dab will do (~~figure 2~~Figure 9-8).
 
-![Glass tab layup](../imagea/09/09-22.png) Figure 9-10: Glass tab layup
+![Glass tab layup](../imagea/09/09_22.png) Figure 9-10: Glass tab layup
 
 After the Bondo has cured, carefully remove the AN6-80A through bolt and lift the gear leg off the fuselage.
 Set it down on its axle ends and support it well.
@@ -202,7 +202,7 @@ Get a scrap of urethane foam and carve it to fit under the steel tube and a reas
 Now layup 2 plies of BID at 45º wrapping around the 5/8" steel tubes, over the small carved piece of urethane foam and down onto the gear leg.
 Make sure it also laps onto the inside face of each glass tab.
 
-Flox an AN960-1018 steel washer onto the outside faces of each glass tab (see ~~figure 5~~ Figure 9-18) and layup 2 plies of BID over the washers and lapping onto the glass tabs. Cure, then trim. Press the machined steel plugs (~~figure 6~~ Figure 9-19) into the ends of each steel tube.
+Flox an AN960-101~~8~~6 {CP30 PC83 MEO} steel washer onto the outside faces of each glass tab (see ~~figure 5~~ Figure 9-18) and layup 2 plies of BID over the washers and lapping onto the glass tabs. Cure, then trim. Press the machined steel plugs (~~figure 6~~ Figure 9-19) into the ends of each steel tube.
 
 ![LMGAB Steel plugs](../images/09/09_25.png) Figure 9-19: LMGAB
 
@@ -241,10 +241,12 @@ Cut two pieces of 3/16" O.D. x 0.025 wall high-pressure Nylaflow nylon tubing ab
 
 ![spacer](../images/09/09_27.png)
 
-![brake line lower instal](../images/09/09_15.png) Figure 9-22: Install brake lines
+![brake line lower instal](../images/09/09_15.png) Figure 9-22: Install brake line inside of the right main gear leg
+
+***Note: Keep the brake line on the inside of the main gear leg.{CP31 PC89 MEO}***
 
 Now install one end into the top of each brake caliper.
-Use a short (1/2" long) piece of brass tubing such as the telescoping tubing found in hobby stores, inserted into the end of the Nylaflow tubing so that the fitting makes a better clamp on the nylon line, allowing higher pressure (figure 11).
+Use a short (1/2" long) piece of brass tubing such as the telescoping tubing found in hobby stores, inserted into the end of the Nylaflow tubing so that the fitting makes a better clamp on the nylon line, allowing higher pressure (figure ~~11~~9-22).
 The tube required is 1/8" dia. x 0.015" wall x 1/2" long.
 You will need four of these, two on each brake caliper and two in each brake master cylinder.
 Route the brake line tubing up the trailing edge of each gear leg to the glass attach tabs, then coil them up and tape them together to keep them out of your way.

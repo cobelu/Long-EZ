@@ -180,7 +180,7 @@ The variable voltage control can be obtained from a Long-Ez distributor, or you 
 
 The cutter should <u>only</u> be used on the blue or white styrofoam. A hazardous gas is emitted if you try to cut urethane.
 
-You can substitute 0.25 nicrome wire which can be run at a lower current (about 2 amp) but nicrome wire is difficult to find. Adjust the current to obtain a wire temperature which will allow the wire to cut the foam at a rate of one inch every four to siz seconds when pulled with a light load (less than 1/2 pound). This can be checked with a small scrap f foam. If temperature is correct, foam will have a smooth hairy surface. A cratered surface means too much heat. If the wire is too cold, the cutter will have to be forced hard, causing the wire to lag. Lag should not exceed 1/2 inch over the top and bottom of the wing and nt over 1/8 inch around th eleading edge. If the wire is too hot, it will burn away too much foam, making the part too small and will result in ruts i the foam if the wire is inadvertently stopped during cutting. The wire should be tightened until the wire starts to yield. Check this by tightening the wire while plunkint it listening to the sound. The pitch will increase until the wire yields. 
+You can substitute 0.25 nicrome wire which can be run at a lower current (about 2 amp) but nicrome wire is difficult to find. Adjust the current to obtain a wire temperature which will allow the wire to cut the foam at a rate of one inch every four to siz seconds when pulled with a light load (less than 1/2 pound). This can be checked with a small scrap f foam. If temperature is correct, foam will have a smooth hairy surface. A cratered surface means too much heat. If the wire is too cold, the cutter will have to be forced hard, causing the wire to lag. Lag should not exceed 1/2 inch over the top and bottom of the wing and nt over 1/8 inch around th eleading edge. If the wire is too hot, it will burn away too much foam, making the part too small and will result in ruts i the foam if the wire is inadvertently stopped during cutting. The wire should be tightened until the wire starts to yield. Check this by tightening the wire while plunkint it listening to the sound. The pitch will increase until the wire yields.
 
 #### Jig Table
 
@@ -208,7 +208,7 @@ Basic processes using these materials will also be discussed.
 
 ### <u>Glass</u>
 
-The most basic structural material in your LongEz is glass cloth. Glass cloth is available commercially in hundreds of different weights, weaves, strengths, and working properties. The use of glass in aircraft structures, particularly structural sandwich composites, is a recent development. Very few of the commercially available glass cloth types are compatible with aircraft requirements for high strength and light weight. Even fewer are suitable for the handlayup techniques developed by RAF for the homebuilder. The glass cloth used in the LongEz has been specifically selected for the optimum combination of workability, strength, and weight. 
+The most basic structural material in your LongEz is glass cloth. Glass cloth is available commercially in hundreds of different weights, weaves, strengths, and working properties. The use of glass in aircraft structures, particularly structural sandwich composites, is a recent development. Very few of the commercially available glass cloth types are compatible with aircraft requirements for high strength and light weight. Even fewer are suitable for the handlayup techniques developed by RAF for the homebuilder. The glass cloth used in the LongEz has been specifically selected for the optimum combination of workability, strength, and weight.
 The glass cloth in your LongEz carries primary loads, and its correct application is of vital importance. Even though doing your glass work correctly is important, this doesn't mean that it is difficult; in fact it's VariEze!
 
 ![Glass types](../images/03/03_08.png)Figure 3-6: Types of Fiberglass
@@ -239,7 +239,7 @@ The fiber orientation called for in each materials list is importand and shouldn
 
 ### <u>Epoxy</u>
 
-In recent years the term "epoxy" has become a household word. Unfortunately "epoxy" is a general term for a vas number o specialized resin/hardener systems, the same as "aluminum" is a general term for a whole family of specialized metal alloys. Just as the "aluminum" in the spar of high performance aircraft is vastly different from the "aluminum" pots and pans in your kitchen, the "epoxy" in your LongEz is vastly different from the hardware store variety. 
+In recent years the term "epoxy" has become a household word. Unfortunately "epoxy" is a general term for a vas number o specialized resin/hardener systems, the same as "aluminum" is a general term for a whole family of specialized metal alloys. Just as the "aluminum" in the spar of high performance aircraft is vastly different from the "aluminum" pots and pans in your kitchen, the "epoxy" in your LongEz is vastly different from the hardware store variety.
 
 Epoxy is the adhesive matrix that keeps the plies of load-carrying glass cloth together. Epoxy alone is weak and heavy. It is important to use it properly so that the full benefits of its adhesive capability are obtained without unnecessary weight. A large portion of you educatio in composit structural work will be spent learning how to get the full strength of an epocy/glass mixture with the minimum weight. This section will discuss the terminology and techniques for working with epoxy resin and its hardener.
 
@@ -267,46 +267,46 @@ If you are using the homebuilt balance, follow this procedure. Place the resin (
 
 The working temperature has a substantial effect on the pot life and cure time. Very hot conditions will cause the cure to speed up. In cold working conditions the cure will be delayed and if it is cold enough, epoxy may not cure at all. Working temperatures must be 65 to 95 degrees F. A range of 75 to 85 F is best. Be sure to get a wall thermometer (approx. $1.50 at any general store) to check the temperature of your work area. At 75F, 5-min must be used within four minutes, RAEF must be used within 20 minutes and RAES must be used within 50 minutes.
 
-Cold epoxy results in increased time required to do a layup, since it takes longer to wet and squeeze the cloth. A layup at 65F may take almost twice the time as a 75F. On most layups (except for joining foam cores) its best to have 70F to 80F room temperature and 80F to 90F epoxy. Resin and hardener can be kept warmer than room temperature by keeping it in a cabinet with a small light bulb on. Do not store your resin or hardener on a cold floor if you plan to use it within the next several hours. If you let your shop get cold between working periods, keep some resin & hardener in the warmest place of your house for use on the next layup. 
+Cold epoxy results in increased time required to do a layup, since it takes longer to wet and squeeze the cloth. A layup at 65F may take almost twice the time as a 75F. On most layups (except for joining foam cores) its best to have 70F to 80F room temperature and 80F to 90F epoxy. Resin and hardener can be kept warmer than room temperature by keeping it in a cabinet with a small light bulb on. Do not store your resin or hardener on a cold floor if you plan to use it within the next several hours. If you let your shop get cold between working periods, keep some resin & hardener in the warmest place of your house for use on the next layup.
 
-Save your mixing cups, as they can be used as a quality check of your epoxy. After a day or two take a sharp knife point or scribe and scratch the surface of epoxy in the cured cup. If the epoxy cured properly the scribe will make a <u>white scratch mark</U>. If the epoxy hasn't cured the scribe will make a dull ridge, indicating a soft surface. If this occurs the epoxy is not cured either due to inadequate time or temperature, or bad mixing or bad epoxy. Refer to page 3-15 for details on the new SAF-T-Epoxy. 
+Save your mixing cups, as they can be used as a quality check of your epoxy. After a day or two take a sharp knife point or scribe and scratch the surface of epoxy in the cured cup. If the epoxy cured properly the scribe will make a <u>white scratch mark</U>. If the epoxy hasn't cured the scribe will make a dull ridge, indicating a soft surface. If this occurs the epoxy is not cured either due to inadequate time or temperature, or bad mixing or bad epoxy. Refer to page 3-15 for details on the new SAF-T-Epoxy.
 
 ### <u>Microspheres</u>
 
-Microspheres are a very light filler or thickening material used in a mixture with epoxy. Micro, as the mixture is called, is used to fill voids and low areas, to glue foam blocks together, and as a bond between foams and glass skins. Several different types of microspheres and microballoons are available commercially. The quartz-type supplied by RAF distributors is lighter and cheaper than most common types. Microballoons must be kept dry. If moisture is present it will make them lumpy. Bake them at 250F then sift with a flour sifter to remove lumps. Keep the microballoon container covered. 
+Microspheres are a very light filler or thickening material used in a mixture with epoxy. Micro, as the mixture is called, is used to fill voids and low areas, to glue foam blocks together, and as a bond between foams and glass skins. Several different types of microspheres and microballoons are available commercially. The quartz-type supplied by RAF distributors is lighter and cheaper than most common types. Microballoons must be kept dry. If moisture is present it will make them lumpy. Bake them at 250F then sift with a flour sifter to remove lumps. Keep the microballoon container covered.
 
 Micro is used in three consistancies: a "slurry" which is a one-to-one by volume mix of epoxy and micro-spheres, "wet micro" which is about two-to-four parts microspheres by volume to one part epoxy, and "dry micro" which is a mix of epoxy and enough mirospheres to obtain a paste which will not sag or run (about five parts-to-one by volume). In all three, microspheres are added to <u>completely mixed</u> epoxy.
 
-You do not have to accurately mix the microspheres; just dump them in until the desired consistancy is obtained. Micro slurry is used to paint over foams before glass cloth is appied over them.  Slurry is almost the same viscosity as the pure epoxy and is runny enough to apply with a brush. However, the easiest way to apply slurry is to pour it onto the surface and spread it out evenly using a squeege. When skinning urethane foam use a <u>full thick</u> coat of slurry. Inadequate slurry on urethane can result in a poor skin bond. 
+You do not have to accurately mix the microspheres; just dump them in until the desired consistancy is obtained. Micro slurry is used to paint over foams before glass cloth is appied over them.  Slurry is almost the same viscosity as the pure epoxy and is runny enough to apply with a brush. However, the easiest way to apply slurry is to pour it onto the surface and spread it out evenly using a squeege. When skinning urethane foam use a <u>full thick</u> coat of slurry. Inadequate slurry on urethane can result in a poor skin bond.
 
 Wet micro is used to join foam blocks and, while it is much thicker than slurry, it is till thin enough to sag and run (like thick honey).
 
 Dry micro is used to fill low spots and voids and is mixed so that it is a dry paste that won't sag at all. 
 
-In all three micro types, you don't measure, just add microspheres until the desired consistancy is obtained. Use micro only as specifically shown - <u>never</u> use micro between glass layers. 
+In all three micro types, you don't measure, just add microspheres until the desired consistancy is obtained. Use micro only as specifically shown - <u>never</u> use micro between glass layers.
 
 ### <u>Joining foam blocks with microspheres / epoxy</u>
 
 <u>Always</u> use the followng method to join foam blocks. This is extremely important. Always use RAES or SAF-T-POXY.
 
-1. Check that the foam blocks fit closely together. If there are voids over 1/16 inch, sand to fit, or fill the void with a sliver of foam. 
-2. Paint a light coat of micro slurry on both surfaces. If joining foam to fiberglass paint pure mixed epoxy (no microspheres) on the fiberglass surface and micro slurry on the foam surface. 
-3. Refer to the sketch and trowel wed or dry micro in the center of the joint. Thus, when joined the micro is pushed outward expelling (rather than trapping) air. If the fit is excellent use wet micro. If it is open enough and vertical such that epoxy may run out, use dry micro. 
-4. Push the two pieces together, wiggling each to move the micro toward the surfaces. Be sure the mciro is no thicker than 0.1 inch at any place, to avoid exotherm. Wipe off any excess. Do not be concerned if the micro does not completely reach the surface. That void can be filled immediately before skinning the part. 
+1. Check that the foam blocks fit closely together. If there are voids over 1/16 inch, sand to fit, or fill the void with a sliver of foam.
+2. Paint a light coat of micro slurry on both surfaces. If joining foam to fiberglass paint pure mixed epoxy (no microspheres) on the fiberglass surface and micro slurry on the foam surface.
+3. Refer to the sketch and trowel wed or dry micro in the center of the joint. Thus, when joined the micro is pushed outward expelling (rather than trapping) air. If the fit is excellent use wet micro. If it is open enough and vertical such that epoxy may run out, use dry micro.
+4. Push the two pieces together, wiggling each to move the micro toward the surfaces. Be sure the mciro is no thicker than 0.1 inch at any place, to avoid exotherm. Wipe off any excess. Do not be concerned if the micro does not completely reach the surface. That void can be filled immediately before skinning the part.
 
 ![microballons](../images/03/03_12.png)Figure 3-10: Microballons
 
 ### <u>Flox</u>
 
-Flox is a mixture of cotton fiber (flocked cotton) and epoxy. The mixture is used in structural joints and in areas where a very hard durable buildup is required. Flox is mixed much the same as dry micro, but only about two parts flock to one part epoxy is required. Mix in just enough flock to make the mixture stand up. If "wet flox" is called out, mix it so it will sag or run. 
+Flox is a mixture of cotton fiber (flocked cotton) and epoxy. The mixture is used in structural joints and in areas where a very hard durable buildup is required. Flox is mixed much the same as dry micro, but only about two parts flock to one part epoxy is required. Mix in just enough flock to make the mixture stand up. If "wet flox" is called out, mix it so it will sag or run.
 
-When using flox to bond a metal part be sure to sand the metal dull with 220-grit sandpaper and paint pure mixed epoxy (no flox) on the metal part. 
+When using flox to bond a metal part be sure to sand the metal dull with 220-grit sandpaper and paint pure mixed epoxy (no flox) on the metal part.
 
 ### <u>Bondo</u>
 
 Throughout these plans the term "Bondo" is used as a general term for automotive, polyester body filler. Bondo is used for holding jig blocks in place and other temporary fastening jobs. We use it because it hardens in a very short time and can be chipped or sanded off without damaging the fiberglass. Bondo is usually a dull gray color until a clored hardener is mixed with it. The color of the mixture is used to judge how fast it will set. The more hardener you add, the brighter the color of the mixture gets., and the faster it hardens. This simple guide works up to a point where so much hardener is added that the mixture never hardens. Follow the general directions on the Bondo can for fast setting Bondo. Mixing is done on a scrap piece of cardboard or plywood (or almost anything) using a hard squeege or putty knife. A blob of Bondo is scooped out of the can and dropped on the mixnig board. A small amount of hardener is squeezed out onto the blob and then you mix to an even color. You will mix the blob for about a minute. You will then have two or three minutes to apply it before it hardens.
 
-Be sure to clean the board and putty knife off before the Bondo is completely hard. MEK will clean Bondo off your putty knife and squeegee if it isn't completely hardened. 
+Be sure to clean the board and putty knife off before the Bondo is completely hard. MEK will clean Bondo off your putty knife and squeegee if it isn't completely hardened.
 
 ### <u>Foam</u>
 
@@ -314,9 +314,9 @@ Three different types of rigid, closed-cell foam are used in you Long-Ez (and se
 
 Low deinsity 2 lb/cu ft green (or light tan) <u>urethane</u> foam is used only in non-structural areas, where its ease of carving is important (nose and canopy). Urethane foam is fantastically easy to carve and contour. The urethane used is U-Thane 210 or equivalent.
 
-PolyVinyl, PC core foam is low, medium and high densities is used extensively. The dark blue color 3 lb/cu ft type R45 is ussed in the fuselage and fuel tanks. It has excellent comprssive strength (75 psi), good laminate peel strength and is completely fule compatible. The light red color, 6 lb/cu ft type R100 PV-core is used in the center section spar and canard inserts. Dark red color, 16 lb/cu ft type R250 PC-core is used in several bulkheads in Chapters 4 and 13. 
+PolyVinyl, PC core foam is low, medium and high densities is used extensively. The dark blue color 3 lb/cu ft type R45 is ussed in the fuselage and fuel tanks. It has excellent comprssive strength (75 psi), good laminate peel strength and is completely fule compatible. The light red color, 6 lb/cu ft type R100 PV-core is used in the center section spar and canard inserts. Dark red color, 16 lb/cu ft type R250 PC-core is used in several bulkheads in Chapters 4 and 13.
 
-Do not substitute other foams. The Styrofoam has greater peel strength than the standard blue styrofoam sold by some distributors. Alos, we considered teh "fire resistant" BROWN urethane instead of the green or tan 2-lb urethane, but found it's physical properties to be much lower than U-thane 210. Do not confuse Styrofoam with white expanded polystyrene. Expanded polystyrene is a molded, white, low density, soft foam whcih has the appearance of many spheres pressed together. It's compression strength and modulus is too low. 
+Do not substitute other foams. The Styrofoam has greater peel strength than the standard blue styrofoam sold by some distributors. Alos, we considered teh "fire resistant" BROWN urethane instead of the green or tan 2-lb urethane, but found it's physical properties to be much lower than U-thane 210. Do not confuse Styrofoam with white expanded polystyrene. Expanded polystyrene is a molded, white, low density, soft foam whcih has the appearance of many spheres pressed together. It's compression strength and modulus is too low.
 
 All three types of foams, PV, urethane and polystyrenes are manufactured in a wide variety of flexibilities, densities and cell sizes. Getting the wrong material for you airplane can result in more work and / or degraded structural integrity. Sun damages foam. Keep it covered.
 
@@ -326,17 +326,17 @@ All three types of foams, PV, urethane and polystyrenes are manufactured in a wi
 
 The airfoil-shaped surfaces of your Long-Ez are formed by hot wire cutting the blue styrofoam of 2 lb/ft3 density. The hot wire process gives airfoils that are true to contour, tapered, properly twisted, and swept with a minimum of effort and simplest of tools. The tetails for making your hot wire saw are shown on page 3-2.
 
-The hot wire saw is a piece of stainless steel safety wire, streatched tight between tw pieces of tubing. The wire gets hot when an electricial current passes through it and this thin, hot wire burns through the foam. by making smooth steady passes, the hot wire gives a smooth, even surface. The foam offers little resistance to the hot wire's passage. To get a smooth accurate cut, a template is required. Tempates are made from thin plywood, sheet metal, masonite or formica. A variable voltage control is used to supply the electrical current that heats the wire. 
+The hot wire saw is a piece of stainless steel safety wire, streatched tight between tw pieces of tubing. The wire gets hot when an electricial current passes through it and this thin, hot wire burns through the foam. by making smooth steady passes, the hot wire gives a smooth, even surface. The foam offers little resistance to the hot wire's passage. To get a smooth accurate cut, a template is required. Tempates are made from thin plywood, sheet metal, masonite or formica. A variable voltage control is used to supply the electrical current that heats the wire.
 
 The blue foam used n your flying surfaces was selected for a cmbination of reasons and its hot wire cutting ability was one of them. Other types of foams are readily hot wire cut, but some (white expanded polystyrene) have poor physical properties and others (urethane) give off poisonous gases when hot wire cut. Use only the recommended materials!
 
 ### <u>HOT WIRE TEMPLATES</u>
 
-Hot wire templates can be made from 1/16 to 1/4 inch plywood, formica, or masonite or .032 to .064 sheet metal. It is important to have smooth edges on the templates. A rough edge may cause the wire to hang up and burn into the foam excessively. Templates are required on both ends of the foam being cut. The size, shape, and orientation of the two templates is varied to taper, and twist the foam core as required. The <u>planform</u> (span and sweek) is set by squaring up the foam block before the templates are used. In general, the <u>trailing edge</u> of the wing is the reference; a "trim line" on the templates is lined up on the trailing edge. 
+Hot wire templates can be made from 1/16 to 1/4 inch plywood, formica, or masonite or .032 to .064 sheet metal. It is important to have smooth edges on the templates. A rough edge may cause the wire to hang up and burn into the foam excessively. Templates are required on both ends of the foam being cut. The size, shape, and orientation of the two templates is varied to taper, and twist the foam core as required. The <u>planform</u> (span and sweek) is set by squaring up the foam block before the templates are used. In general, the <u>trailing edge</u> of the wing is the reference; a "trim line" on the templates is lined up on the trailing edge.
 
 Full-size template drawings are provided in the plans. To make your templates, just glue the template drawings to a piece of plywwod or sheet metal and trim to the contours shown. There are a number of markings on each template which aid in the alignment and cutting of the foam core. 
 
-Each template has a waterline (W.L.) marked on it which is used to aligh the <u>twist</u> of the foam core. Each template's waterline is leveled using a carpenters bubble level. This assures that the relative twist at each template is correct. The template is then nailed to the foam block to obtain the correct <u>planform</u>; a foam trim line is provided near the trailing edge of each template which is lined up on the foam edge before cutting. 
+Each template has a waterline (W.L.) marked on it which is used to aligh the <u>twist</u> of the foam core. Each template's waterline is leveled using a carpenters bubble level. This assures that the relative twist at each template is correct. The template is then nailed to the foam block to obtain the correct <u>planform</u>; a foam trim line is provided near the trailing edge of each template which is lined up on the foam edge before cutting.
 
 ![Hot Wiring Template](../images/03/03_14.png)Figure 3-12:Hot Wire Template
 
@@ -352,30 +352,30 @@ Cutting straight down along template with hotwire.
 
 Note the diagnol cut being made by correctly positioning the verticl tempates and passing the hotwire downward along them.
 
-Each template has symbols for the general location of holes for the nails, (Circle with a "+") 4D (four penny) nails are good for this use. The holes in the templates should be a close fit for the nails. Be careful not to angle the nails so that the hot wire can catch on them! Some rib templates are used several times, for both inboard and outboard, {because of} this {you} may have to transfer the talking numbers, pause marks, trim line, and waterline to the opposite side of the template. 
+Each template has symbols for the general location of holes for the nails, (Circle with a "+") 4D (four penny) nails are good for this use. The holes in the templates should be a close fit for the nails. Be careful not to angle the nails so that the hot wire can catch on them! Some rib templates are used several times, for both inboard and outboard, {because of} this {you} may have to transfer the talking numbers, pause marks, trim line, and waterline to the opposite side of the template.
 
 ![hotwiring an airfoil](../images/03/03_17.png)Figure 3-15: Hotwiring an airfoil
 
 ===
-The use of the hot wire saw is a simple thing if your equipment is set up properly. Proper wire tension and wire temperature should be maintained for good cutting. The wire tension should be tightened after the wire is hot by twisting one tube with a pair of pliers. The wire should be as tight as possible. The wire should be hot enough to cut one inch of foam in four to siz seconds without having to force the wire. A wire that is too hot will burn the foam away excessively. To cool an over-heated wire, simply turn voltage control to a lower voltage setting. If you use a battery charger, you wil lhave to add length to the wire. To warm up a cool wire, just increase the voltage setting or, with the charger shorten the wire. Although the foam offers only mild resistance to the hot wire, a long cut will cause the middle of your wire to lage behind the ends. Wire lag can cause problems in tight curves like the leading edge of an airfoil. To reduce lag there, the cutting speed is reduced to about one inch in 8 to 10 seconds. The arifoil templates have notations in the areas where reduced speed cutting is necessary an dpause marks where it is necessary to allow the lag to catch up completely. 
+The use of the hot wire saw is a simple thing if your equipment is set up properly. Proper wire tension and wire temperature should be maintained for good cutting. The wire tension should be tightened after the wire is hot by twisting one tube with a pair of pliers. The wire should be as tight as possible. The wire should be hot enough to cut one inch of foam in four to siz seconds without having to force the wire. A wire that is too hot will burn the foam away excessively. To cool an over-heated wire, simply turn voltage control to a lower voltage setting. If you use a battery charger, you wil lhave to add length to the wire. To warm up a cool wire, just increase the voltage setting or, with the charger shorten the wire. Although the foam offers only mild resistance to the hot wire, a long cut will cause the middle of your wire to lage behind the ends. Wire lag can cause problems in tight curves like the leading edge of an airfoil. To reduce lag there, the cutting speed is reduced to about one inch in 8 to 10 seconds. The arifoil templates have notations in the areas where reduced speed cutting is necessary an dpause marks where it is necessary to allow the lag to catch up completely.
 
 The most common hot wire error is wire lag which causes a bow in the leading edge. The following method solves this problem and thus we recommend you use it for cutting the canard, wings and winglets. Instead of making one cut all around, glue nails on the template at the waterline at the leading edge as shown. Now, cut the core in two phases: one from the leading edge up over the top to the trailing edge, the other from the leading edge under the nail down under the bottom to the trailing edge. The thin "flash" of foam left on the leading edge due to the thickness of the nails is easily removed with your butcher knife. The result is a perfectly straight leading edge. Care must be taken to assure that both ends simultaneously approach the template at teh leading edge. Use the following vocal commands "wire is moving toward the nail, now resting on the nail 1/2 inch from the template (confirm both ends on that position), moving toward template 1/4 inch away, 1/8" away, on the template, moving up and "X" (talking number), "Y" (talking number)...". When approaching the trailing edge overlap notch (see sketch) slow down and pause 3 seconds on the notch to assure full, sharp, accurate surface for the skin overlap. See chapter 10, 19 and 20 for clarificatin of the trailing edge overlap.
 
-![hotwiring from the front](../images/03/03_18.png)Figure 3-16:Hotwiring from the leading edge 
+![hotwiring from the front](../images/03/03_18.png)Figure 3-16:Hotwiring from the leading edge
 
 The hot wire should be guided around the templates with light pressure. Pushing too hard against the template may move them or flex the foam block with results in an under cut foam core.
 
-The correct set-up is just as important as using the correct tools and materials. Foam is a fairly flexible material and an improper set-up can cause deflection. The foam block should be well supported at each end, so that it doesn't sag and doesn't move aruond while being cut. 
+The correct set-up is just as important as using the correct tools and materials. Foam is a fairly flexible material and an improper set-up can cause deflection. The foam block should be well supported at each end, so that it doesn't sag and doesn't move aruond while being cut.
 
-You need clearance for the hot wire cutter to pass by the table and the weights used to hold the foam steady. 
+You need clearance for the hot wire cutter to pass by the table and the weights used to hold the foam steady.
 
 Foam is manufactured in sizes that are often too small to get a solid core from a single block. It is necessary to use two foam blocks to get the size required for the wing cores. These blocks have to be joined using an eposy / microsphere mixture. The hot wire won't cut through the micro joint, so all of the hot wire cutting is done with the blocks temporarily joined. Nails or blobs of 5-minute epoxy are used for temporary foam joints, but the hot wire won't cut through these. Thus they have to be placed carefully so that the wire doesn't have to pass through them. 
 
-Don't be overly concerned if you don't make perfect foam cuts: ridges o the foam core fro inadvertently lifting the hot wire off the templates are easily faired in with a sanding block. A less-than-perfect leading edge can be blended in by sanding after the foam core is assembled. gouges in the foam can be smoothed and filled with dry micro to contour after applying the glass skins. The foam is too expensive to throw away because of a minor gouge. 
+Don't be overly concerned if you don't make perfect foam cuts: ridges o the foam core fro inadvertently lifting the hot wire off the templates are easily faired in with a sanding block. A less-than-perfect leading edge can be blended in by sanding after the foam core is assembled. gouges in the foam can be smoothed and filled with dry micro to contour after applying the glass skins. The foam is too expensive to throw away because of a minor gouge.
 
 ![foam gouge repair](../images/03/03_19.png)Figure 3-17: Repairing a foam gouge
 
-A finished foam core may warp out of shape after it is removed from the original block. This is due to nternal stresses in the foam from the manufacturing process, and is no cause for concern. 
+A finished foam core may warp out of shape after it is removed from the original block. This is due to nternal stresses in the foam from the manufacturing process, and is no cause for concern.
 
 A warped core is simply weighted into the jib blocks and shimmed straight. Once the skin has been installed, the foam is held firmly in position.
 
@@ -383,29 +383,29 @@ A warped core is simply weighted into the jib blocks and shimmed straight. Once 
 
 One of the real treats in the construction of your Long-EZ will be shaping and contouring urethane foam. Urethane is a delightful material that shapes with ease using only simple tools. A buter knife, old wire brush, sandpaper, and scraps of the foam itself are the basic urethane working tools. A vacuum cleaner is convenient to have handy since working urethane produces a large quantity of foam dust. A knife is ussed to rough cut the foam to size. The knife needs to be kept reasonably sharp, a sander or file is an adequate knife sharpener since its a frequent task an da razor edge isn't necessary. Coarse grit sandpaper (36 grit) glued to a board as shown on page 3-1 is used for rough shaping outside contours.
 
-![foam gouge repair](../images/03/03_20.png)Figure 3-18: Foam gouge repair 
+![foam gouge repair](../images/03/03_20.png)Figure 3-18: Foam gouge repair
 
 Inside contours or "dishing" is done by using a ragged old wire brush to rough out the bulk of th efoam and following up with a scrap foam piece to smooth the surface. The foam scrap conforms to the shape of the surface resulting to a very smooth contour.
 
 ![Dishing an interior curve](../images/03/03_21.png)Figure 3-19: Dishing an Interior curve
 
-Outside contours are roughed out with a sanding block and finished using a foam scrap. Dry micro and flow are used to fill voids and pot fasteners in a number of places. All foam shaping should b efinished before any micro filing is done, because the filler is much harder than the foam and makes smooth contouring very difficult. Your best carving template is your eyeball; an occasional check on the depth of a contour is about the only measurement necessary. 
+Outside contours are roughed out with a sanding block and finished using a foam scrap. Dry micro and flow are used to fill voids and pot fasteners in a number of places. All foam shaping should b efinished before any micro filing is done, because the filler is much harder than the foam and makes smooth contouring very difficult. Your best carving template is your eyeball; an occasional check on the depth of a contour is about the only measurement necessary.
 
 Keep your shop swept reasonably well. The foam dust can contaminate your glass cloth and your lungs. <u>Use a dust respirator mask while carving urethane.</u> Try not to aggrivate the better half by leaving a green foam dust trail into the house.
 
 ### <u>Glass Layup</u>
 
-The glass layup techniques used in your Long-EZ have been specifically developed to minimize the difficulty that glass workers have traditionally endured. Most of the layups that you will do will be on a flat horizontal surface without the molds vacuum bags, and other special equipment that are common in glass rok. The layups that you do will cure at room temperature; no ovens or special heating is required. If you have suffered through a projec that requires you to build more molds and tools than airplane components, then you are in for a real treat. 
+The glass layup techniques used in your Long-EZ have been specifically developed to minimize the difficulty that glass workers have traditionally endured. Most of the layups that you will do will be on a flat horizontal surface without the molds vacuum bags, and other special equipment that are common in glass rok. The layups that you do will cure at room temperature; no ovens or special heating is required. If you have suffered through a projec that requires you to build more molds and tools than airplane components, then you are in for a real treat.
 
 The techniques that you will use are very easy, but they still need to be done correctly. 90% of the work that you will do is covered in the next few paragraphs, so make sure that you read and understnd this section very well. If you learn these basics, your airplane will be very easy indeeb. If you skip ver this information, you will probably end up very frustrated.
 
 #### <u>Step 1: Personal Preparation</u>
 
-Before you get started with a layup, plan ahead. Some major layups take several hours and before gettng you hands in the epoxy, it's a good idea to make a pit stop at the restroom. 
+Before you get started with a layup, plan ahead. Some major layups take several hours and before gettng you hands in the epoxy, it's a good idea to make a pit stop at the restroom.
 
 ![Applying skin barrier cream](../images/03/03_22.png)Figure 3-20: Skin barrier cream
 
-Do not start a large layup if tired. Get some rest and do it when fresh. Its best to have three people for any large layup, two laminators and one person to mix epoxy. Be sure the shop is clean before your start. 
+Do not start a large layup if tired. Get some rest and do it when fresh. Its best to have three people for any large layup, two laminators and one person to mix epoxy. Be sure the shop is clean before your start.
 
 Take the recommended health precautions (discussed later in detail) using gloves or barrier skin cream. Get your grubby, old cloths on or at least a shop apron. Make sure that your tools are clean from the last layup and ready to use. Your working area should be between 65F and 95F. Best results are obtained at 75 to 85F. Below 70F the epoxy is thicker making it more difficult to wet the cloth. Above 85F the possibility of an exotherm is greater.
 
@@ -429,49 +429,51 @@ Mix epoxy only when needed, not before. Epoxy, micro and flox may b needed at va
 
 #### <u>Step 5: Lay on the Cloth</u>
 
-Lay on the cloth in the specified orientation. Pull the edges to straighten the cloth out and to remove wrinkles. Maximum strength and stiffness is obtained if the fibers are not wavy or wrinkled. If the cloth is to be applied around and into a sharp corner, you will find the job easier to do if the fiber orientatio is at 45 degrees to the corner. Don't get depressed if the layup looks like a hopeless mess at this point. Press on with patience and things will work out fine. To remove wrinkles, study the direction of fibers, follow the fibers to teh outeredge of the cloth and <u>pull</u> on the <u>outside edge</u>. <u>Pushing</u> a wrinkle off the part is incorrect. Once the part is free of wrinkles use a squeege and make light passes <u>from the center outwards</u> to smooth the cloth.
+Lay on the cloth in the specified orientation. Pull the edges to straighten the cloth out and to remove wrinkles. Maximum strength and stiffness is obtained if the fibers are not wavy or wrinkled. If the cloth is to be applied around and into a sharp corner, you will find the job easier to do if the fiber orientatio is at 45 degrees to the corner. Don't get depressed if the layup looks like a hopeless mess at this point. Press on with patience and things will work out fine. To remove wrinkles, study the direction of fibers, follow the fibers to the outern edge of the cloth and <u>pull</u> on the <u>outside edge</u>. <u>Pushing</u> a wrinkle off the part is incorrect. Once the part is free of wrinkles use a squeege and make light passes <u>from the center outwards</u> to smooth the cloth.
 
 ![Lay out the cloth](../images/03/03_24.png)Figure 3-22: Layout Fiberglass cloth
 
 #### <u>Step 6: Wet Out the Cloth</u>
 
-Wet out the cloth by brushing on a thin coat of epoxy. Do not use micro <u>between</u> plies of cloth. Extra epoxy {may} not be necessary if there is enough epoxy under the cloth to be brought to the surface. This is done by "stippling", which involves a verticle stabbing motion of a paint brush over the cloth. This brings excess epoxy up from below to wet out the cloth, resulting in a weight savings as compared to adding more epoxy on top. __REMEMBER__, epoxy adds no strength beyond what is needed to wet out the white color of the cloth and fill air voids; any further addition of epoxy is only dead weight. 
+WET OUT - Squeegee cloth from center outward aligning the the fibers straight and removing wrinkles.  Pull the outside edges to straighten any wrinkles.  Brush or stipple epoxy into any dry areas or pour on additional epoxy and squeegee out uniformly.  Check for excess epoxy "ridge" with the squeegee.  (~~page 3-11~~ Step 7). {CP28 PC57, MEO}
 
-Where multiple plies are required, the first plies may be laid up wet and the esxcess resin brought up by squeegeeing and stippling to help wet out the middle plies. To do this, <u>pour</u> epoxy onto the part and move it around the surface with a squeegee. Your work will go much faster if you make the layup too wet, then remove excess epoxy with many <u>light</u> passes with the squeegee. Do not squeegee too hard, as this can starve the surface of micro and introduce air. Continue to inspect for air (tiny white flecks or bubbles) and stipple or squeegee in more epoxy to remove the air. A handy squeegee can be cut from flexible plastic found on a coffee can lid. You may also find a paint roller handy for spreading around the epoxy. Special stipple rollers are available at Long-EZ distributors. The final plies are ambitiously stippled and additional epoxy is applied sparingly. When in doubt - stipple it out or squeegee.
+~~Wet out the cloth by brushing on a thin coat of epoxy. Do not use micro <u>between</u> plies of cloth. Extra epoxy {may} not be necessary if there is enough epoxy under the cloth to be brought to the surface. This is done by "stippling", which involves a verticle stabbing motion of a paint brush over the cloth. This brings excess epoxy up from below to wet out the cloth, resulting in a weight savings as compared to adding more epoxy on top. __REMEMBER__, epoxy adds no strength beyond what is needed to wet out the white color of the cloth and fill air voids; any further addition of epoxy is only dead weight.
+
+Where multiple plies are required, the first plies may be laid up wet and the esxcess resin brought up by squeegeeing and stippling to help wet out the middle plies. To do this, <u>pour</u> epoxy onto the part and move it around the surface with a squeegee. Your work will go much faster if you make the layup too wet, then remove excess epoxy with many <u>light</u> passes with the squeegee. Do not squeegee too hard, as this can starve the surface of micro and introduce air. Continue to inspect for air (tiny white flecks or bubbles) and stipple or squeegee in more epoxy to remove the air. A handy squeegee can be cut from flexible plastic found on a coffee can lid. You may also find a paint roller handy for spreading around the epoxy. Special stipple rollers are available at Long-EZ distributors. The final plies are ambitiously stippled and additional epoxy is applied sparingly. When in doubt - stipple it out or squeegee.~~
 
 ![Crazy guy stippling](../images/03/03_25.png)Figure 3-23: Stippling
 
 As you wet out each ply, scissor trim to within 1/2" of any overhang (trailing edge, etc.). This 1/2" will be knife trimmed after the layup cures. If an overhanging ply isn't trimmed, it lifts the edge up and makes a bubble.
 
-After scissor trimming, restipple the edges to be sure there are no voids. Wet the cloth beyond the trim line at least 1/4" to allow easy knife trimming later. 
+After scissor trimming, restipple the edges to be sure there are no voids. Wet the cloth beyond the trim line at least 1/4" to allow easy knife trimming later.
 
 ![Importance of Scissor triming](../images/03/03_26.png)Figure 3-24: Scissor Trimming
 
 #### <u>Step 7: Squeegeeing</u>
 
-Squeegee out excess epoxy. This involves drawing a plastic or rubber squeegee over the layup as shown. Plastic squeegees (scrapers) are available at any paint store. If excess epox exists, it will be pushed off the edge of the piece. Remember, excess epoxy is much better on the floor than on the airplane. it is possible to squeegee too hard and make the layup too dry. If this occurs, teh surface will appear white, indicating the presence of air. If this occurs, wet the cloth by painting on a little more epoxy and stippling it down into the layup. The best quality layup is obtained if <u>each layer</u> of a multilayer layup is <u>squeegeed</u>. The excess epoxy which is pushed off the edge can be recovered and returned into the cup. This is easily done by catching the epoxy on the squeegee and scraping it on the side of the cup. 
+Squeegee out excess epoxy. This involves drawing a plastic or rubber squeegee over the layup as shown. Plastic squeegees (scrapers) are available at any paint store. If excess epox exists, it will be pushed off the edge of the piece. Remember, excess epoxy is much better on the floor than on the airplane. it is possible to squeegee too hard and make the layup too dry. If this occurs, the surface will appear white, indicating the presence of air. If this occurs, wet the cloth by painting on a little more epoxy and stippling it down into the layup. The best quality layup is obtained if <u>each layer</u> of a multilayer layup is <u>squeegeed</u>. The excess epoxy which is pushed off the edge can be recovered and returned into the cup. This is easily done by catching the epoxy on the squeegee and scraping it on the side of the cup.
 
 The finished layup should appear smooth and green so that the weave of the cloth is clearly visible, but not so dry that <u>any</u> area appears white in color. If you've done an excellent job, the weight of resin will be about 1/2 of the weight of cloth used.
 
-To check if there is too much epoxy in the layup, pull a squeegee across the surface, stopping befre you reach the edge. Lift the squeegee up and look for a large "ridge" of epoxy where the squeegee stopped. The ridge under the top ply indicates that the layup is too wet and you should spend time with the squeegee to remove epoxy off of the sides.
+To check if there is too much epoxy in the layup, pull a squeegee across the surface, stopping before you reach the edge. Lift the squeegee up and look for a large "ridge" of epoxy where the squeegee stopped. The ridge under the top ply indicates that the layup is too wet and you should spend time with the squeegee to remove epoxy off of the sides.
 
-Don't hesitate to usse your stippling roller or brush on an area after squeegeeing. Some places are not suited to the use of a squeegee and the dry brush or roller must be used to expel the excess epoxy. On a given layup, about 1/2 of your time should be spent squeegeeing.
+Don't hesitate to use your stippling roller or brush on an area after squeegeeing. Some places are not suited to the use of a squeegee and the dry brush or roller must be used to expel the excess epoxy. On a given layup, about 1/2 of your time should be spent squeegeeing.
 
 ![Crazy guy squeegeeing](../images/03/03_27.png)Figure 3-25: Squeegeeing
 
 #### <u>Step 8: General Inspection</u>
 
-After you have finished the layup, take a few minutes and give it a <u>good</u> general inspection for trapped air, dry glass, excess epoxy, and delamination. It is much easier to correct these things while the layup is wet than to repair the cured layup. Also, have <u>someone else</u> inspect it, usually a different person can find air flecks or bubbles that are missed by one inspector. Carry a good light around for inspection. Glance the light off the surface at various angles to look for airflecks. <u>If any air is visible, stipple it out</u>. Exception: It is allowable to have many tiny bubbles of air <u>at the foam surface</u> of the low density PV (dark blue) foam. These are difficult to remove. More than adequaate peel and sheer strength exists with them present. They should be considered normal. Do not confuse this with air between plies. 
+After you have finished the layup, take a few minutes and give it a <u>good</u> general inspection for trapped air, dry glass, excess epoxy, and delamination. It is much easier to correct these things while the layup is wet than to repair the cured layup. Also, have <u>someone else</u> inspect it, usually a different person can find air flecks or bubbles that are missed by one inspector. Carry a good light around for inspection. Glance the light off the surface at various angles to look for airflecks. <u>If any air is visible, stipple it out</u>. Exception: It is allowable to have many tiny bubbles of air <u>at the foam surface</u> of the low density PV (dark blue) foam. These are difficult to remove. More than adequaate peel and sheer strength exists with them present. They should be considered normal. Do not confuse this with air between plies.
 
 Be sure the overlaps on the edges are perfect. If, due to a sharp corner etc. you have a problem eliminating an air bubble, use one of the following two methods:
 
-(1) Lift the cloth up off the foam, trowel some wet micro into the troublesome area, add more epoxy as you stipple the cloth back down. 
+(1) Lift the cloth up off the foam, trowel some wet micro into the troublesome area, add more epoxy as you stipple the cloth back down.
 
 (2) Add excess epoxy over the bubble, cover the surface with Saran wrap (thin plastic wrap) then push firmly outwards to force the air out to the sides. The Saran wrap will seal the surface to keep air from being drawn in. This method will force the cloth to stay down een around a sharp corner.
 
 #### <u>Step 9: Preliminary Contour Fill</u>
 
-Certain areas, like over the spar and along the trailing edge (see cross section views) require a dry micro fill. It is preferred to apply this fill within 2-3 hours of finishing fiberglass layup. However where the micro filler obscures the structure underneath, like over the spar cap, FAA inspection should be completed before dry micro filling. Areas like the trailing edge where the structure can be inspected from the other side should be filled while the layup is still tacky (within three hours of the layup). If you wait until the layup cures, you will have to sand the fiber-glass surface to a dull finish before applying the micro. So, mix up a "dry" micro mix and trowel it into low aeas while the layup is still wet, and save the work of sanding where feasable. 
+Certain areas, like over the spar and along the trailing edge (see cross section views) require a dry micro fill. It is preferred to apply this fill within 2-3 hours of finishing fiberglass layup. However where the micro filler obscures the structure underneath, like over the spar cap, FAA inspection should be completed before dry micro filling. Areas like the trailing edge where the structure can be inspected from the other side should be filled while the layup is still tacky (within three hours of the layup). If you wait until the layup cures, you will have to sand the fiber-glass surface to a dull finish before applying the micro. So, mix up a "dry" micro mix and trowel it into low aeas while the layup is still wet, and save the work of sanding where feasable.
 
 #### <u>Step 10: Cleanup</u>
 
@@ -481,11 +483,11 @@ Clean the squeegees the same way.
 
 If you use skin barrier cream (Ply No. 9) the epoxy and cream will wash off easily with soap and water. When you get epoxy on unprotected skin, Epo-cleanse is used to remove the epoxy. Both of these products are available through RAF distributors and are listed in the bill of materials. Once you are sure your skin is clean, <u>wash again thoroughly</u> with soap & water, even if your hands were protected with plastic gloves.
 
-If you get epoxy on tools or metal parts, clean them with acetone or MEK before the epoxy cures. 
+If you get epoxy on tools or metal parts, clean them with acetone or MEK before the epoxy cures.
 
 The only good way to protect your clothing is not to get epoxy on anything that you care for. Use a shop apron and don't make layups in good cloths. A surplus flight suit or other cheap coveralls are a good investment.
 
-You may feel that layups are real messy work after your first experience with them. However after you've <u>done</u> several, you will have learned not to wipe you hands on your clothing (keep a roll of paper towels handy), <u>not to scratch your ears, eyes etc. during a layup.</u> If your tools and work area are clean and organized well and you are disciplined with the epoxy, the job can be alot less messy than working with other materials. 
+You may feel that layups are real messy work after your first experience with them. However after you've <u>done</u> several, you will have learned not to wipe you hands on your clothing (keep a roll of paper towels handy), <u>not to scratch your ears, eyes etc. during a layup.</u> If your tools and work area are clean and organized well and you are disciplined with the epoxy, the job can be alot less messy than working with other materials.
 
 #### <u>Step 11: Knife Trim</u>
 
@@ -507,7 +509,7 @@ One of the unique features of the glass-foam-glass composite construction techni
 
 When making a layup, do not be concerned if the brush occasionally sheds a few bristles-these do not need to be removed. If the bristle count exceeds about 10 per square foot, change your brush and remove bristles.
 
-Occasional sanding through the weave in the first kin ply is not ground for scrapping the part. Care should be exercised in areas, such as the skin joints not to weaken the structure in pursuit of an optimum finish. (Refer to chapter 25 for details).  An excess of resin (wet) will make your airplane heavy and does weaken the layup but usually not enough to reject the part for strength reasons. 
+Occasional sanding through the weave in the first kin ply is not ground for scrapping the part. Care should be exercised in areas, such as the skin joints not to weaken the structure in pursuit of an optimum finish. (Refer to chapter 25 for details).  An excess of resin (wet) will make your airplane heavy and does weaken the layup but usually not enough to reject the part for strength reasons.
 
 <u>Bump/Joggle/Dip Criteria</u> - the best way to check this is to lay a 12-inch straightedge on the part <u>spanwise</u>. Move it all over the surface in the critical areas. If you can see 1/16" gap in any area, the part <u>must</u> be repaired. It is best to repair or beef up lumpy areas even if they meet this criteria. Better yet, do a good job in core preparation and use your squeegee well in layup to avoid the lumps in the first place.
 
@@ -532,7 +534,7 @@ Major wrinkles or bumps along more than 2" or chord are cause for rejectionn in 
 
 ### <u>Corner Treatment</u>
 
-A variety of structural corners are employed in the construction of your Ez. There are two basic types of corners; one where the glass fibers are continuous around the corner, and the other where a structural filler is used and glass is bonded to the filler. The corner with the glass fibers running completely around it is used where maximum strength is required. 
+A variety of structural corners are employed in the construction of your Ez. There are two basic types of corners; one where the glass fibers are continuous around the corner, and the other where a structural filler is used and glass is bonded to the filler. The corner with the glass fibers running completely around it is used where maximum strength is required.
 
 Inside corners can be laid up quite abrupt and only a very slight wipe of dry micro is needed to get the glass to lay into it. BID cut at 45 degrees is used on this type of corner.
 
@@ -542,10 +544,9 @@ Outside corners require a radiused edge. Where the glass fibers run directly aro
 
 ![Fiber orientation at corner](../images/03/03_34.png)Figure 3-32: Minimum corner radius
 
-In some areas a sharp corner is desirable and maximum strength isn't required. In these areas a flox corner is used. A simple unsupported glass corner has very poor strength. To strengthen this corner a triangle of flox is used to bond the glass plies together. The flox corner is done just before one glass surface is applied for a wet bond to one surface. The other glass surface has to be sanded dull in preparation as shown. 
+In some areas a sharp corner is desirable and maximum strength isn't required. In these areas a flox corner is used. A simple unsupported glass corner has very poor strength. To strengthen this corner a triangle of flox is used to bond the glass plies together. The flox corner is done just before one glass surface is applied for a wet bond to one surface. The other glass surface has to be sanded dull in preparation as shown.
 
 ![support a corner](../images/03/03_35.png)Figure 3-33: Supporting an inside corner with flox
-
 
 ![support a corner](../images/03/03_36.png)Figure 3-34: How to flox a corner
 
@@ -557,7 +558,7 @@ If a specific size of flox corner is desirable, an approximate dimension may be 
 
 Peel ply is a layer of 2.7 oz dacron fabric which is layed up over a fiberglass layup while the fiberglass is still wet, and is later removed by lifting an edge and "peeling" it off. The most convienient form of dacron to use is "surface tapes", normally used is covering fabric aircraft. These are available in rolls. You will need several rolls, 1", 2" and 4" wide. Peel ply is used for two purposes:
 
-\(1.\) Peel ply any area that will later be structurally attached to another fiberglass layup. Once the dacron is peeled off, the surface is ready for another layup, without sanding. If you do not use peel ply you will havae to sand the surface completely dull (no shiny spots). This sandng is hard, itchy work and ruins the strength of the outer ply of fiberglass. So, remember to peel ply the followng areas: leading and trailing edges of all flying surfaces, outboard 15" of wings and lower 10" of winglet (for chapter 24 layups), canard & wing shear web surfaces (for sparcap layups) all joining edges of Bulkheads & Fuselage sides, fuselage skin on both ends, fuel tanks, and at Landing brake, and all other places where a <u>Future</u> layup will be made. Not that to peel ply the trailing edge overlap area, the peel ply is the <First> ply made to the foam core. Lay a strip of dacron down on the overlap notch & secure it with tacks or staples so it doesn't move when you laup the skin. 
+\(1.\) Peel ply any area that will later be structurally attached to another fiberglass layup. Once the dacron is peeled off, the surface is ready for another layup, without sanding. If you do not use peel ply you will havae to sand the surface completely dull (no shiny spots). This sandng is hard, itchy work and ruins the strength of the outer ply of fiberglass. So, remember to peel ply the followng areas: leading and trailing edges of all flying surfaces, outboard 15" of wings and lower 10" of winglet (for chapter 24 layups), canard & wing shear web surfaces (for sparcap layups) all joining edges of Bulkheads & Fuselage sides, fuselage skin on both ends, fuel tanks, and at Landing brake, and all other places where a <u>Future</u> layup will be made. Not that to peel ply the trailing edge overlap area, the peel ply is the <First> ply made to the foam core. Lay a strip of dacron down on the overlap notch & secure it with tacks or staples so it doesn't move when you laup the skin.
 
 ![roll out peel ply](../images/03/03_38.png)Figure 3-36: Peel ply preparation
 
@@ -571,7 +572,7 @@ Peel ply is a layer of 2.7 oz dacron fabric which is layed up over a fiberglass 
 
 ### <u>Skin Protection</u>
 
-If you work with epoxy on your bare skin, you can develop an allergy to it. This "sensitization" to epoxy is an unpleasant experience and is to be avoided. You generally have to get epoxy on your unprotected skin to become sensetized. If you use a protective barrier skin cream like Ply No. 9 (available from Lont-EZ distributors) or disposable plastic medical examination gloves (also available from Lont-EZ distributors) the allergy can be avoided. The barrier skin cream also allows you to clean up with soap and water after a layup. 
+If you work with epoxy on your bare skin, you can develop an allergy to it. This "sensitization" to epoxy is an unpleasant experience and is to be avoided. You generally have to get epoxy on your unprotected skin to become sensetized. If you use a protective barrier skin cream like Ply No. 9 (available from Lont-EZ distributors) or disposable plastic medical examination gloves (also available from Lont-EZ distributors) the allergy can be avoided. The barrier skin cream also allows you to clean up with soap and water after a layup.
 
 The RA epoxy systems are low toxicity (SPI-2). However, many people (about 5 to 7 percent) are sensitive to epoxy to a great extent and thus will find it impossible to build their airplane without extensive skin rash, facial swelling, etc. These people can get some help by using doctor perscribed anti-allergy medicines and / or by using elaborate masks/multigloves, etc. to reduce exposure, however in many cases the allergy is sufficiently stron to preclude their ability to make layups. Remember to <u>Always</u> use skin protection, never let epoxy come in contact with bare skin, even if you have no reaction to it. Sensitivity is accumulative, such that you may <u>later</u> develop an allergy unless you protect your skin.
 
@@ -581,14 +582,18 @@ Sanding or grinding fiberglass and foams creates dust that can be harmful to you
 
 ### <u>Ventalation</u>
 
-Mix and work with your epoxy in a ventilated area. Some epoxy / hardner systems may irritate your eyes (like cutting onions) in a poorly ventilated work area. If your shop is not ventilated, set up a small fan to move a small flow of air in or out. 
+Mix and work with your epoxy in a ventilated area. Some epoxy / hardner systems may irritate your eyes (like cutting onions) in a poorly ventilated work area. If your shop is not ventilated, set up a small fan to move a small flow of air in or out.
 
 __DO NOT HOTWIRE URETHANE__
 
 ## <u>Construction Hints</u>
 
+### <u>Rod End cantilevered off one side of a bellhorn</u>
+
+<u>Anytime</u> a rodend is cantilevered off one side of a belhorn, the bolt head <u>must</u> be on the belhorn side {with a washer between the bolt head and the rodend to protect the rodend from the bolt head.  {CP 30, pg 9, LPC #81, MAN-GRL}}
+
 ### <u>Drilling, Grinding and Sawing</u>
-Drilling through cured glass tends to tear the surface plies on the back side. Backup a glass layup with a wood block for drilling as shown and drill at medium speed. 
+Drilling through cured glass tends to tear the surface plies on the back side. Backup a glass layup with a wood block for drilling as shown and drill at medium speed.
 
 ![Drilling cured glass](../images/03/03_41.png)Figure 3-39: Drilling cured glass
 
@@ -612,7 +617,7 @@ One of the most important things you must know is how to inspect for the presenc
 2. Small bubbles of air scattered throughout an area, or
 3. in adequate filling of the outer ply.  
 
-Make a layup of 3 ply BID in a 6-inch square over a scrap piece of foam, trying to achieve thse 3 types of dryness. Let it cure with the defects. This will be a handy sample to use to instruct others who will help you inspect. 
+Make a layup of 3 ply BID in a 6-inch square over a scrap piece of foam, trying to achieve thse 3 types of dryness. Let it cure with the defects. This will be a handy sample to use to instruct others who will help you inspect.
 
 ![dry layup examples](../images/03/03_45.png)Figure 3-43: Examples of dry layups
 
@@ -628,14 +633,14 @@ If you use Quarts Q-Cell balloons, due to alkaline, the cure will be delayed, de
 If you are building in a cold garage in the winter you can still use the new Safe-T-Poxy if you take the following precautions:
 
 1. Warm the resin and hardner evenly to 85 to 90F prior to mixing. Do not try to hurry this. Use a light bulb under the ratio pump 3-4 hours prior to use, or keep your resin jugs in a cabinet with a light bulb inside.
-2. It's important to have <u>everything</u> thoroughly warm prior to starting work. This also cannot be rushed. It takes time to get the parts (wings, foam blocks, etc.) up to a stable temperature through out. If you are stating from a very cold garage, the warming process could take 4 hours or mor. Don't think just because the air is warm that all the material is warm. 
+2. It's important to have <u>everything</u> thoroughly warm prior to starting work. This also cannot be rushed. It takes time to get the parts (wings, foam blocks, etc.) up to a stable temperature through out. If you are stating from a very cold garage, the warming process could take 4 hours or mor. Don't think just because the air is warm that all the material is warm.
 3. Use an electric hair dryer to warm the area as you work, being carefull not to over heat the part or epoxy. When, due to cool temperatures, a part is slow to wet out, a few quick passes with a hair dryer will greatly speed the layup time. Do not use a hair dryer to heat a cup of epoxy. This can give local hot spots and ruin pot life.
 
 What shop temperature is satisfactory? That has a lot to do with the size of the job. Small jobs can be worked to as low as 65F but the working time will be excessive. It will also be more difficult to remove excess epoxy, resulting in a heavier part. On large layups like the fueslage, wings, etc. where there is a lot of epoxy to drag around, 77F should be considered the minimum. That epoxy prewarmed to 85-90F and all parts, glass, foam, tools, table -- everything up to 77F for 4 hours then go to work. Those temperatures are minimums, add 5 to 10F and your working time will be greatly reduced and parts built lighter.
 
 # <u> Some More Hints</u>
 
-You can generally tell teh quality of a men's workmanship just by looking at his shop. Clean up and sweep after every step. Keep your tools organized and clean. Dirt in or under a layup will increase weight and decrease strength. A clean shop will reflect on your airplane, and will make construction more pleasant. 
+You can generally tell teh quality of a men's workmanship just by looking at his shop. Clean up and sweep after every step. Keep your tools organized and clean. Dirt in or under a layup will increase weight and decrease strength. A clean shop will reflect on your airplane, and will make construction more pleasant.
 
 A flour sifter is excellent for getting any lumps out of micro. Keep micro bag closed to avoid moisture.
 
@@ -671,9 +676,9 @@ __REPAIR__ Determine number of plies damaged. Repair as shown in "bump" repair a
 
 __ERROR:__ Due to incomplete wetting of layup I have several pin holes in my winig fuel tank so it will not meet leak check.
 
-__REPAIR__ Pull a mild vaccuum (1500 ft) on the tank. Hold the vaccuum for 1/2 hour as you brush, stipple, or rub epoxy over the area with pin holes. Then vent tank to equalize pressure. Paint a coat of epoxy over affected area. Be sure tank is vented during cure. 
+__REPAIR__ Pull a mild vaccuum (1500 ft) on the tank. Hold the vaccuum for 1/2 hour as you brush, stipple, or rub epoxy over the area with pin holes. Then vent tank to equalize pressure. Paint a coat of epoxy over affected area. Be sure tank is vented during cure.
 
-__ERROR:__ Due to a poor or heavy layup, elevator or aileron will not balance to specification. 
+__ERROR:__ Due to a poor or heavy layup, elevator or aileron will not balance to specification.
 
 __REPAIR__ Start over; sloppy workmanship cannot be patched on these parts.
 
@@ -693,10 +698,10 @@ Protect your work bench by taping waxed paper over an area about 24" by 24", (or
 
 Laminate the six plies on top of the waxed paper. Try to do your best job of stippling and squeegeeing so that the plies are <u>completely wetted</u> but not full of excess epoxy. Let the layup cure to knife trim, about four hours. Carefully mark a 10-in. by 16-in rectangle and knife trim the layup to that size using a sharp razor blade or trim knife. Allow the layup to cure completely. If you forget the knife trim, cut the cured piece with a coping saw or band saw.
 
-Take the cured 10"x16" piece to your post office, or any accurate scale, and ask them to weigh it for you . Your laminate should weigh between 10-1/2 and 12-1/2 ounces. A 10-1/2 ounce layup is about as light as can be done <u>without voids</u> (white areas). A 12-1/2 ounce layup has too much resin, and if you make all of the layups in the airplane this wet, your Long-EZ may be as much as 40 pounds over weight. An 11-ounce layup is just about perfect. Save this piece; it will be useful material later on. 
+Take the cured 10"x16" piece to your post office, or any accurate scale, and ask them to weigh it for you . Your laminate should weigh between 10-1/2 and 12-1/2 ounces. A 10-1/2 ounce layup is about as light as can be done <u>without voids</u> (white areas). A 12-1/2 ounce layup has too much resin, and if you make all of the layups in the airplane this wet, your Long-EZ may be as much as 40 pounds over weight. An 11-ounce layup is just about perfect. Save this piece; it will be useful material later on.
 
 ##__Confidence Layup__
-The second practice layup is one intended to give you confidence in the <u>strength</u> of your work. This layup is a sample of composite sandwich structure and is typical of the load carrying structures in your Long-EZ. When this layup is finished and completely cured, you will subject it to a simple load test and thus demonstrate the strength of your workmanship. 
+The second practice layup is one intended to give you confidence in the <u>strength</u> of your work. This layup is a sample of composite sandwich structure and is typical of the load carrying structures in your Long-EZ. When this layup is finished and completely cured, you will subject it to a simple load test and thus demonstrate the strength of your workmanship.
 
 First, tape a piece of waxed paper about 30 inches long to the top of your work table. Shape a piece of green foam as shown.
 
@@ -734,9 +739,9 @@ Cut the two blocks of green urethane foam (2 lb/cu ft) as shown.
 
 Cut three plies of BID as shown.
 
-![Confidence layup BID direction](../images/03/03_57.png)Figure 3-55:BID orientation 
+![Confidence layup BID direction](../images/03/03_57.png)Figure 3-55:BID orientation
 
-Mix 4 oz of RAEF epoxy; using about 1 oz, make a small batch of micro slurry and coat the foam as shown. Make dry micro from the leftover slurry and make a <u>small</u> radius with it as shown. 
+Mix 4 oz of RAEF epoxy; using about 1 oz, make a small batch of micro slurry and coat the foam as shown. Make dry micro from the leftover slurry and make a <u>small</u> radius with it as shown.
 
 ![Confidence layup Micro slurry](../images/03/03_58.png)Figure 3-56: Apply Micro slurry
 
@@ -752,13 +757,13 @@ After the first layup has cured and the edges have been trimmed, the thicker foa
 
 ![Confidence layup sand the edges](../images/03/03_61.png)Figure 3-59: Sand the edges
 
-Put a generous radius on the foam edges and sand the 1/4" wide glass edges dull for glass to glass bond. Use your wire brush to rough out a depression in the middle of the block. 
+Put a generous radius on the foam edges and sand the 1/4" wide glass edges dull for glass to glass bond. Use your wire brush to rough out a depression in the middle of the block.
 
 Finish smoothing the depression by rubbing it with a scrap of green foam. Radius the corners of the depression. Blow or brush all of the foam dust off the surface.
 
 ![Confidence layup verticle block depression](../images/03/03_62.png)Figure 3-60: Dish out depression in verticle block
 
-Cut three plies of BID as shown. 
+Cut three plies of BID as shown.
 
 ![Confidence layup Bid cut](../images/03/03_64.png)Figure 3-61: Cut BID for Verticle block
 
@@ -766,7 +771,7 @@ Mix RAEF, make a small batch of slurry and save the remaining epoxy. Slurry the 
 
 ![Confidence layup sharp forming](../images/03/03_65.png)Figure 3-62: Layup depression on verticle block
 
-Before laying the third BID ply down, place yor favorite photo in the depression, and then lay the third BID ply over it. Scissor trim the excess glass cloth. Allow the cure and knife trim the edges. 
+Before laying the third BID ply down, place yor favorite photo in the depression, and then lay the third BID ply over it. Scissor trim the excess glass cloth. Allow the cure and knife trim the edges.
 
 ![Confidence layup photo in book end](../images/03/03_66.png)Figure 3-63: Put a photo in book end
 
@@ -774,7 +779,7 @@ Before laying the third BID ply down, place yor favorite photo in the depression
 
 The lower edge is trimmed flush with the bottom of the foam block.
 
-Wait until the second layup is fully cured. Remove the 1 in foam block with a butcher knife and sanding block. Remove foam from a 1/4" flox corner and sand the glass surface dull. 
+Wait until the second layup is fully cured. Remove the 1 in foam block with a butcher knife and sanding block. Remove foam from a 1/4" flox corner and sand the glass surface dull.
 
 ![Confidence layup trim bottom foam](../images/03/03_68.png)Figure 3-65: Trim bookend bottom
 
@@ -786,7 +791,7 @@ Wait until the second layup is fully cured. Remove the 1 in foam block with a bu
 
 ![Confidence layup UND plies](../images/03/03_72.png)Figure 3-69: layup UND plies
 
-Mix RAEF, a small batch of flox, and a small batch of micro slurry. Fill the corner with flox and slurry the foam. Lay up the four UND plies with the orientation shown. 
+Mix RAEF, a small batch of flox, and a small batch of micro slurry. Fill the corner with flox and slurry the foam. Lay up the four UND plies with the orientation shown.
 
 ![Confidence layup sanding](../images/03/03_73.png)Figure 3-70: Sand bookend
 
@@ -802,7 +807,7 @@ It may at this time seem a bit ridiculous to use three layups, about four hours 
 
 # AIRCRAFT MEASUREMENT REFERENCE SYSTEM
 
-To ease the engineer's task of defining where things go in these odd-shaped gadgets called aircraft, a fairly standard system of references has been developed. Fortunately the Long-EZ is so simple that an elaborate measurement system is not necessary. It is, however, convenient to use the standard terminology for reference occasionally and you should b efamiliar with its meaning. 
+To ease the engineer's task of defining where things go in these odd-shaped gadgets called aircraft, a fairly standard system of references has been developed. Fortunately the Long-EZ is so simple that an elaborate measurement system is not necessary. It is, however, convenient to use the standard terminology for reference occasionally and you should b efamiliar with its meaning.
 
 The three basic references are called butt lines, fuselage stations, and waterlines. Don't blame us for the absurd names, we didn't set the system up. All three are given in inches from some arbitrarily chosen reference, so, fuselage station 100 is not 100 inches away from fuselage station 0, and similarly for butt lines and waterlines. Being as lazy as anybody else, we abbreviate these as F.S., B.L., and W.L.  We use these abbreviations with periods, F.S not FS, so that they are't confused with part numbers like CS, which do not use periods.
 
@@ -840,13 +845,13 @@ creep is rare on teh main gear since this part is post-cured. However, the main 
 
 ## 1.0 SCOPE
 
-This document has been prepared to assist inspection personnel by providing recommended acceptance criteria and acceptable repair practices for the Long-EZ amateur-built composite sandwich structure. 
+This document has been prepared to assist inspection personnel by providing recommended acceptance criteria and acceptable repair practices for the Long-EZ amateur-built composite sandwich structure.
 
 ## 2.0 Background Information
 
 ### 2.1 Design Criteria
 
-The materials, methods, and practices employed by the amateur builder in the construction of the Long-EZ type are new to light aircraft construction and may be unfamiliar to the inspection personnel involved with the licensing of amateur-built aircraft. Structural design criteria for the Long-EZ exceed F.A.R. part 23 requirements. In-house component testing of the prmary flight structure has been conduction to 200% design limits. Detail documentation of text data is on file at Rutan Aircraft Factory. The aircraft is considered to be a utility category aircraft. Long-EZ builders are being supplied with a complete owner's manual which specifies all placards, operating limitations, normal and emergency operations, flying qualities, maintenance specifications, inspection procedures, and initial flight test procedures. 
+The materials, methods, and practices employed by the amateur builder in the construction of the Long-EZ type are new to light aircraft construction and may be unfamiliar to the inspection personnel involved with the licensing of amateur-built aircraft. Structural design criteria for the Long-EZ exceed F.A.R. part 23 requirements. In-house component testing of the prmary flight structure has been conduction to 200% design limits. Detail documentation of text data is on file at Rutan Aircraft Factory. The aircraft is considered to be a utility category aircraft. Long-EZ builders are being supplied with a complete owner's manual which specifies all placards, operating limitations, normal and emergency operations, flying qualities, maintenance specifications, inspection procedures, and initial flight test procedures.
 
 ### 2.2 Structural Approach
 
@@ -890,7 +895,7 @@ In all instances, it is good practice to have the glass fibers laying flat and w
 
 ### 3.6 Finishing Damage
 
-Damage to the external structure by sanding in preparation for surface fill and paint can occur. Occassional sanding through the weave of the first skin ply is not grounds for rejection. Sanding through areas greater than 2 inches in diameter completely through the first ply or any damage to interior plies must be repaired in accordance with paragraph 4. A damp rag passed over the sanded surface will make the plies show up to determine how many plies have been sanded away. 
+Damage to the external structure by sanding in preparation for surface fill and paint can occur. Occassional sanding through the weave of the first skin ply is not grounds for rejection. Sanding through areas greater than 2 inches in diameter completely through the first ply or any damage to interior plies must be repaired in accordance with paragraph 4. A damp rag passed over the sanded surface will make the plies show up to determine how many plies have been sanded away.
 
 ### 3.7 Service Damage
 
@@ -906,16 +911,16 @@ Where multiple types of small defects occur in a laminate (voids, fiber disloaca
 
 ## 4.0 Repairs
 
-There are seldom single defects so massive that a major component must be scrapped. The repair procedures described here may be applied throughout the Long-EZ andVariViggen SP composite sandwich structures. 
+There are seldom single defects so massive that a major component must be scrapped. The repair procedures described here may be applied throughout the Long-EZ andVariViggen SP composite sandwich structures.
 
 ### 4.1 Small Void Repairs
-Voids up to 2 inches in diameter may be repaired by drilling a small hole into the void and injecting the void full of epoxy. A vent hole opposite the injection point is required to allow air to escape. 
+Voids up to 2 inches in diameter may be repaired by drilling a small hole into the void and injecting the void full of epoxy. A vent hole opposite the injection point is required to allow air to escape.
 
 ### 4.2 Large Defects
-Excessively large voids, lean areas, finishing damage, fiber disruptions, major fiber wrinkles, or service damage may be repaired using this procedure. Remove the rejected or damaged area by sanding or grinding and taper the glass laminate on a slope of approximately 1 inch per ply in all directions. The plies are visible as the sanding is done. The tapered glass edges and surrounding two inches of glass surface must be sanded completely dull Damaged underlyin foam should be removed and the void filled with a dry microsphere/epoxy mixture or replacement foam piece. The damaged area is then laminated over using the same type an dorientation of glass plies removed, each ply lapping onto the undamaged glass at least one inch. The whole repair area is covered with an additional bi-directional glass ply. 
+Excessively large voids, lean areas, finishing damage, fiber disruptions, major fiber wrinkles, or service damage may be repaired using this procedure. Remove the rejected or damaged area by sanding or grinding and taper the glass laminate on a slope of approximately 1 inch per ply in all directions. The plies are visible as the sanding is done. The tapered glass edges and surrounding two inches of glass surface must be sanded completely dull Damaged underlyin foam should be removed and the void filled with a dry microsphere/epoxy mixture or replacement foam piece. The damaged area is then laminated over using the same type an dorientation of glass plies removed, each ply lapping onto the undamaged glass at least one inch. The whole repair area is covered with an additional bi-directional glass ply.
 
 ### 4.3 Delaminations
-A delaminated joint should be spread, the mating surfaces sanded dull, gap filled with flox (epoxy/flocked cotton mixture), then clamped shut while it cures. 
+A delaminated joint should be spread, the mating surfaces sanded dull, gap filled with flox (epoxy/flocked cotton mixture), then clamped shut while it cures.
 
 ## 5.0 Materials
 
@@ -930,35 +935,34 @@ These acceptance criteria are different from and, in some cases, much looser tha
 # Education Supplement
 Rip this page out of your plans and staple it to the wall of your shop. While it is a handy reference, it's still a good idea to real <u>all</u> the words in the education chapter once in a while. Don't skip the details - they're all important.
 
-
 ## URETHANE FOAM SHAPING
 
 __BASIC TOOLS:__ Sharp butcher knife, sanding block, surfoam file, wire brush and blocks / scraps of urethane. Use a dust mask. Hack away, have fun.
 
 ## HOT WIRE CUTTING STYROFOAM
 
-Hot wire tool has two lengths: 62" for wings and 43" for winglets, canard and elevators. Wire must be <u>tight</u>. The adjustable voltage control is best, but the job can be done with a 12 volt, 6-amp battery charger or 12-volt car batterys. Foam block must be well supported and weighted. Templates must be nailed on tight. First cut the basic block to size; <u>this determines the planform size and shape</u>. Level the template level lines <u>this determines correct twist</u>. Set hot wire temperature for about 1" travel through the foam in about 4 to 6 seconds with light pressure. Do the actual cutting at about 1" ever 6-7 seconds (8-10 seconds around the leading edge). Practice on scraps first. 
+Hot wire tool has two lengths: 62" for wings and 43" for winglets, canard and elevators. Wire must be <u>tight</u>. The adjustable voltage control is best, but the job can be done with a 12 volt, 6-amp battery charger or 12-volt car batterys. Foam block must be well supported and weighted. Templates must be nailed on tight. First cut the basic block to size; <u>this determines the planform size and shape</u>. Level the template level lines <u>this determines correct twist</u>. Set hot wire temperature for about 1" travel through the foam in about 4 to 6 seconds with light pressure. Do the actual cutting at about 1" ever 6-7 seconds (8-10 seconds around the leading edge). Practice on scraps first.
 
 ![How to recognize](../images/03/03_92.png)Figure 3-79: Bolts, nuts and washers
 
 ## BASIC LAYUP PROCEDURE
 
 1. <u>PREPARATION:</u> PLY 9 or gloves on hands, shop temperature 75F +/- 10F.
-2. <u>CLOTH CUTTING:</u> You can get by with just a standard pair of good fabric scissors, but the job is much easier with the large pair of industrial scissors (Weiss model 20W). They're $20 (gulp!) but worth it in the long run. 
+2. <u>CLOTH CUTTING:</u> You can get by with just a standard pair of good fabric scissors, but the job is much easier with the large pair of industrial scissors (Weiss model 20W). They're $20 (gulp!) but worth it in the long run.
 
 ![Cutting Cloth](../images/03/03_82.png)Figure 3-80: Cutting cloth recommendation
 
-3. <u>SURFACE PREPARATION:</u> 
-Foam -- Hot-wire-cut surface needs no preparation. Sand ledges or bumps even, fill holes or gouges with dry micro <u>immediately</u> before the layup. Brush or blow away dust. 
+3. <u>SURFACE PREPARATION:</u>
+Foam -- Hot-wire-cut surface needs no preparation. Sand ledges or bumps even, fill holes or gouges with dry micro <u>immediately</u> before the layup. Brush or blow away dust.
 
-Glass - <u>Always</u> sand <u>comopletely dull</u> any cured glass surface (36-grit or 60-grit sandpaper). Resand if it has been touched with greasy fingers. 
+Glass - <u>Always</u> sand <u>comopletely dull</u> any cured glass surface (36-grit or 60-grit sandpaper). Resand if it has been touched with greasy fingers.
 
 Metal - Dull with 220-grit sandpaper.
 
 ![Surface preparation](../images/03/03_84.png)Figure 3-81: pre-layup surface preparation
 
 
-4. <u>MIX EPOXY:</u> Follow <u>all</u>mixing steps shown on your epoxy balance. Mix two minutes, 80% stirring and 20% scraping the sides and bottom. Don't mix with a brush. 
+4. <u>MIX EPOXY:</u> Follow <u>all</u>mixing steps shown on your epoxy balance. Mix two minutes, 80% stirring and 20% scraping the sides and bottom. Don't mix with a brush.
 
 * Micro Slurry - Approximately equal volumes of <u>mixed</u> epoxy and microspheres.
 
@@ -966,17 +970,17 @@ Metal - Dull with 220-grit sandpaper.
 
 * Dry Micro - Enough Micro so it won't run.
 
-* Wet Flox - Thick, but pourable mixture of epoxy and flocked cotton. 
+* Wet Flox - Thick, but pourable mixture of epoxy and flocked cotton.
 
 ![Mix Epoxy](../images/03/03_83.png)Figure 3-82: Mix epoxy
 
 5. <u>APPLY TO SURFACE:</u>
 
-Lay over foam - Brush or squeegee on a thin micro slurry (thick over urethane). 
+Lay over foam - Brush or squeegee on a thin micro slurry (thick over urethane).
 
-Lay over Glass - Brush on a coat of epoxy. 
+Lay over Glass - Brush on a coat of epoxy.
 
-6. <u>LAY ON CLOTH:</u> Pull edges to straighten wrinkles. If working alone on a long piece, roll the cloth, then unroll it onto the surface. 
+6. <u>LAY ON CLOTH:</u> Pull edges to straighten wrinkles. If working alone on a long piece, roll the cloth, then unroll it onto the surface.
 
 7. <u>WET OUT:</u>  Don't slop on excess resin; bring epoxy up from below with a verticle "stab" of the brush ("stippling"). Start in the center and work out to sides. <u>Most</u> of the time of a layup is spent stippling. Stipple resin up from below or if required, down from above. "Not Wet, Not White".
 
@@ -988,11 +992,11 @@ Lay over Glass - Brush on a coat of epoxy.
 
 ![Squeegee](../images/03/03_87.png)Figure 3-85: Squeegee
 
-9. <u>PRELIMINARY CONTOUR FILL:</u> Save sanding by trowling dry micro over low areas while the glass layup is still tacky. This is done at trailing edges, spar caps, or over any low areas. The low places are overfilled with micro then sanded smooth after full cure. 
+9. <u>PRELIMINARY CONTOUR FILL:</u> Save sanding by trowling dry micro over low areas while the glass layup is still tacky. This is done at trailing edges, spar caps, or over any low areas. The low places are overfilled with micro then sanded smooth after full cure.
 
 ![Preliminary Contour fill](../images/03/03_89.png)Figure 3-86: Preliminary contour fill
 
-10. <u>KNIFE TRIM:</u> Save work of sawing and sanding edges by razor trimmin the edges at the "knife trim stage" which is about 3-4 hours after the layup. 
+10. <u>KNIFE TRIM:</u> Save work of sawing and sanding edges by razor trimmin the edges at the "knife trim stage" which is about 3-4 hours after the layup.
 
 ![Knife trim](../images/03/03_88.png)Figure 3-87: Knife trim
 
@@ -1005,13 +1009,3 @@ Lay over Glass - Brush on a coat of epoxy.
 ![Using wing templates](../images/03/03_91.png)Figure 3-89: Using wing templates
 
 ![Minimum radius outside corners](../images/03/03_93.png)Figure 3-90: Minimum radius outside corners
-
-
-
-
-
-
-
-
-
-

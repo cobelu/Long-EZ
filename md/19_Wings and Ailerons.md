@@ -562,16 +562,19 @@ Hook up the pushrod.
 Adjust it so the stop bolt stops the motion at 20° up aileron.
 A Sears "Angle Finder" is real handy to check control surface travels.
 
-![](../images/19/19_45.png)
-![](../images/19/19_46.png)
-![](../images/19/19_47.png)
-![](../images/19/19_48.png)
-![](../images/19/19_49.png)
-![](../images/19/19_50.png)
-![](../images/19/19_51.png)
-![](../images/19/19_52.png)
-![](../images/19/19_53.png)
-![](../images/19/19_54.png)
+![](../images/19/19_45.png) Figure 19-46
+![](../images/19/19_46.png) Figure 19-47
+![](../images/19/19_47.png) Figure 19-48
+![](../images/19/19_48.png) Figure 19-49
+![](../images/19/19_49.png) Figure 19-50
+![](../images/19/19_50.png) Figure 19-51
+![](../images/19/19_51.png) Figure 19-52
+![](../images/19/19_52.png) Figure 19-53 Views E-E, H-H, I-I, J-J, K-K, L-L
+
+![rodend correction](../images/19/19_52-correction.png) Figure 19-54: Correct connection method of belhorn to rod end
+
+![](../images/19/19_53.png) Figure 19-55
+![](../images/19/19_54.png) Figure 19-56: View G-G, M-M, N-N
 ![](../images/19/19_55.png)
 
 ### Step 11 Attachment - Wing to Centersection Spar

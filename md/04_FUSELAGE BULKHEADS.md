@@ -1,10 +1,10 @@
 # CHAPTER 4
 
-## FUSELAGE BULKHEADS 
+## FUSELAGE BULKHEADS
 
 ![Bulkhead overview](../images/04/04_00.png)Figure 4-1: Fuselage Bulkheads
 
-**Overview** – In this chapter you will manufacture the six bulkheads that go into your Long-EZ fuselage. Two of the bulkheads are your front and rear seat backs, another doubles as your instrument panel, and still another is the firewall. 0.2-inch thick, high density Red PV core is used in the instrument panel and other forward bulkheads. Type R-45 PV core (dark blue) is used in the seat back bulkheads. Birch plywood is used in the firewall bulkhead. You will find that there are many short jobs in this chapter with cure cycles in between, so you may want to work on several of the bulkheads simultaneously or even do some work in following chapters while waiting for a cure. Appro­ximately 20 man-hours are required for bulkheads. 
+**Overview** – In this chapter you will manufacture the six bulkheads that go into your Long-EZ fuselage. Two of the bulkheads are your front and rear seat backs, another doubles as your instrument panel, and still another is the firewall. 0.2-inch thick, high density Red PV core is used in the instrument panel and other forward bulkheads. Type R-45 PV core (dark blue) is used in the seat back bulkheads. Birch plywood is used in the firewall bulkhead. You will find that there are many short jobs in this chapter with cure cycles in between, so you may want to work on several of the bulkheads simultaneously or even do some work in following chapters while waiting for a cure. Appro­ximately 20 man-hours are required for bulkheads.
 
 ### <u>STEP 1 - Front seat bulkhead</u>
 
@@ -16,7 +16,9 @@ Refer to chapter 5 to see how the inclined front seat bulkhead fits in the fusel
 
 ![Peel ply front seat bulkhead](../images/04/04_03.png)Figure 4-4: Peel ply front seat bulkhead
 
-After cure, flip over, taper and round the other end (0.7" also) and round the side edges. The one ply BID glass skin on the back not only covers the back and taper but also folds around the side edges to meet the glass on front. Support the bulkhead up about 1" above the table so the glass edges can hang down unobstructed by the table surface. Use a 1/4" flex corner all around. After cure, use a finetooth coping saw and notch the corners as shown to fit the fuselage longerons. 
+***Note: micro slurry is used on Type 45R PV Foam - see chapter 3. The presence of tiny air flecks on the foam surface is normal. CP29 PC68 MEO***
+
+After cure, flip over, taper and round the other end (0.7" also) and round the side edges. The one ply BID glass skin on the back not only covers the back and taper but also folds around the side edges to meet the glass on front. Support the bulkhead up about 1" above the table so the glass edges can hang down unobstructed by the table surface. Use a 1/4" flex corner all around. After cure, use a finetooth coping saw and notch the corners as shown to fit the fuselage longerons.
 
 ![Holes for control system](../images/04/04_04.png)Figure 4-5: Control system pass thru
 
@@ -26,9 +28,9 @@ This bulkhead serves as the lumbar support for the passenger and helps support t
 
 ![Dimensions rear seat bulkhead](../images/04/04_05.png)Figure 4-6: Rear bulkhead dimensions
 
-![](../images/04/04_06.png)Figure 4-7: Rear bulkhead top and bottom slopes
+![Rear bulkhead](../images/04/04_06.png)Figure 4-7: Rear bulkhead top and bottom slopes
 
-![](../images/04/04_07.png)Figure 4-8: Rear bulkhead side slopes
+![Rear side slopes](../images/04/04_07.png)Figure 4-8: Rear bulkhead side slopes
 
 Now use a butcher knife and sanding block to remove the foam at the side edges as shown. This provides a strong edge and allows the bulkhead to sit back in the correct position in the fuselage.
 
@@ -48,12 +50,22 @@ Full-size patterns for the instrument panel, F22 and F28 forward bulkheads are s
 
 ![](../images/04/04_12.png)Figure 4-13: Instrument panel layups
 
+***Clarification:  "both sides" means "left and right, on the forward face only"!  The foam doubler goes on aft face, with no additional plies at this time.  See Section A-A, B-B and C-C on page A3. {From CP25 PC 17 MEO}***
+
 ### <u>STEP 4 - Firewall</u>
 
-A full-size layout of the plywood and stainless firewall is shown on page A4. But the plywood outline to shape. Lay up one ply BID over the aft face. While layup is wet, roll the 0.040 FiberFrax sheet out flat over it. Trim the FiberFrax to the outside contour of the plywood. Cut the stainless sheet to size. Be careful; stainless can cut you easily. Clamp the plywood over the stainless on your work bench and drill the 6 pully bracket holes and notches for the 4 aluminum extrusions (shown on page A4) through the plywood, FiberFrax, and stainless. The stainless firewall is now set aside – it is not permanently installed until after the fuselage is assembled. Countersink the six holes for the rudder system pulley bracket into the **forward** face of the plywood. Epoxy the 6 AN509-10R10 screws in position, then lay up one ply BID over the front face of the plywood. Fill the screw heads with epoxy, so they can bond to the glass ply. These six screw heads are covered by the spar when the fuselage is assembled. The epoxy will keep them from turning until the rudder pulley brackets are installed. Knife trim and cure. Use a coping saw or saber saw to cut the four rectangular holes and two square (0.7 x 0.7) holes in the plywood to allow the six longerons to pass through during fuselage assembly.
+A full-size layout of the plywood and stainless firewall is shown on page A4. But the plywood outline to shape. Lay up one ply BID over the aft face. While layup is wet, roll the 0.040 FiberFrax sheet out flat over it. Trim the FiberFrax to the outside contour of the plywood. Cut the stainless sheet to size. Be careful; stainless can cut you easily. Clamp the plywood over the stainless on your work bench and drill the 6 pully bracket holes and notches for the 4 aluminum extrusions (shown on page A4) through the plywood, FiberFrax, and stainless. The stainless firewall is now set aside – it is not permanently installed until after the fuselage is assembled.
+
+***Note: Aluminum can be substituted for the steel firewall, don't install fiberfrax now.  Wait until after cowling installation.  This allows you to wrap the fuselage skin around onto plywood and allows you to layup the 1 ply inside lip on the cowl lip. You will then have to remove things bolted to the firewall to install the fiberfrax and aluminum.  Install fiberfrax with silicone rubber, not epoxy. {From CP25, PC 25 DES}***
+
+Countersink the six holes for the rudder system pulley bracket into the **forward** face of the plywood. Epoxy the 6 AN509-10R10 screws in position, then lay up one ply BID over the front face of the plywood. Fill the screw heads with epoxy, so they can bond to the glass ply. These six screw heads are covered by the spar when the fuselage is assembled. The epoxy will keep them from turning until the rudder pulley brackets are installed. Knife trim and cure. Use a coping saw or saber saw to cut the four rectangular holes and two square (0.7 x 0.7) holes in the plywood to allow the six longerons to pass through during fuselage assembly.
 
 ![](../images/04/04_13.png)Figure 4-14: Firewall Mount points
 
 ![](../images/04/04_14.png)Figure 4-15: Firewall overview
 
 Note: The 970-F Fiberfrak is a new, excellent, high temperature insullation replacing the asbestos previously used for firewall protection.
+
+Note 2: {CP27 PC 47 DES} Due to probable rubbing of the rudder cable on the aileron pushrod, the left hand rudder assembly pully bracket should be moved up 0.6". If you have already mounted the 3 bolts in the firewall such that yu cannot make this change, you can provide cable clearance by carefully bending the rudder pully bracket to move the pully aft approximately 0.2". Bend as shown in Figure 4-16 below.
+
+![bend pully](../images/04/04_14a.png) Figure 4-16: Bend rudder pully to clear aileron pushrod.

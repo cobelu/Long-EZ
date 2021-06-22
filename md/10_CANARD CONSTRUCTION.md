@@ -25,14 +25,14 @@ The top skin is 4 ply: 3 UND and 1 BID.
 
 This step should take about 2 hours.
 You will need an assistant for the hot wire cuts.
-Make the four hot wire cutting templates shown on page A-2, by gluing them to a 1/16" thick piece of plywood, and trinrning to the edges.
+Make the four hot wire cutting templates shown on page A-2, by gluing them to a 1/16" thick piece of plywood, and triming to the edges.
 Since these templates must be used on both ends of the foam blocks, transfer the numbers and level lines to the other side of each template.
 
 ![Lift Tab](../images/10/10_03.png) Figure 10-4: Lift Tab
 
 Note: your normal lamingating epoxy works well to glue paper tempaltes to the 1/16" plywood template material. Squeegee in place. Avoid water-based glue they shrink paper.
 
-Place two of your 7" x 14" x 64" foam blocks on your table, and using the straight trim templates, pages A-9 and A-10, cut them up as shown in the sketch.
+Place one {CP27 PC44 MEO} of your 7" x 14" x 64" foam blocks on your table, and using the straight trim templates, pages A-9 and A-10, cut them up as shown in the sketch.
 
 ![Canard foam block 1](../images/10/10_04.png) Figure 10-5: Cutting Canard foam block 1
 
@@ -40,7 +40,7 @@ This will give you 2 foam blocks 3.4" x 9.3" x 50.5", from which you will cut th
 The 1.9" x 4.7" x 64" pieces must be saved to make your elevators, see Chapter 11.
 The tapered foam block 5.1" x 14" x 64" must be saved to cut the center trailing edge cores for the wings, see Chapter 19, step 2.
 
-Now cut up two 7" x 14" x 41" foam blocks per sketch, which will give you the foam to hot wire cut the canard outboard cores, and leave you with two 4.3" x 14" x 41" blocks that must be saved for making your winglets, see chapter 13.
+Now cut up two 7" x 14" x 41" foam blocks per sketch, which will give you the foam to hot wire cut the canard outboard cores, and leave you with two 4.3" x 14" x 41" blocks that must be saved for making your winglets, see chapter 20 {CP27 PC51 MEO}.
 
 ![Canard foam block 2](../images/10/10_05.png) Figure 10-6: Cutting Canard foam block 2
 
@@ -74,7 +74,7 @@ Bondo a pair of 8-ft 2x4's to your table as shown.
 
 The 2x4's don't have to be perfectly straight nor very accurately aligned.
 
-Grab the two aft inboard foam cores and mark a centerline on the shear web face (WL 19.4). Sand a 1/8" radius on the corners shown.
+Grab the two aft inboard foam cores and mark a ~~centerline~~ WL 19.4 line {CP25 PC16 MEO} on the shear web face (WL 19.4). Sand a 1/8" radius on the corners shown.
 Push large nails into these foam cores behind the spar trough spaced about a foot apart.
 
 ![Preping inboard aft core](../images/10/10_11.png) Figure 10-12: Prep inboard aft core for bonding
@@ -83,7 +83,7 @@ Rest the nails as shown on the 2x4's with the cores' trailing edges down.
 
 ![setup core for assembly](../images/10/10_12.png) Figure 10-13: Inboard foam cores preped for bonding
 
-Butt the center foam faces of the two cores together and check the alignment by holding a tight string or straightedge spanwise and lining up the foam centerlines to a straight line.
+Butt the center foam faces of the two cores together and check the alignment by holding a tight string or straightedge spanwise and lining up the foam ~~centerlines~~ WL19.4 lines {CP25 PC16 MEO} to a straight line.
 
 With the two blocks roughly aligned, which may require shimming or relocating some nails, bondo the nails of one core to the 2x4's.
 A small dab of Bondo where each nail touches a 2x4 is enough to securely position the core.

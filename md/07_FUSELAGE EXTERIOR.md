@@ -30,7 +30,7 @@ The next job is to cut out and contour the area in the forward top of the fuse­
 
 Now, contour the top longeron and foam side behind the canard cutout as shown in the sketches.
 
-![F28](../images/07/07_05.png)Figure 7-8: Round fuselage at F28
+![F28](../images/07/07_05.png)Figure 7-8: Round fuselage at F28 {CP27 PC50 MEO}
 
 Refer to the sketch and mark the outline of the fuel sight gauge on both sides of the fuselage. Sand the foam away from the fuel gauge as shown. Remove the 2 1/2" width of grey tape installed back on page 5-2. Do not contanimate this area. It must be **clean** to allow good fuel level visability.
 

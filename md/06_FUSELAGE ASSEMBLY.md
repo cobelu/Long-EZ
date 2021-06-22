@@ -43,12 +43,11 @@ Install them in the following order: front seat, instrument panel, F22, rear sea
 
 ![Fuselage upside down](../images/06/06_06.png)Figure 6-5: Assemble fuselage upside down
 
-![Check side is verticle](../images/06/06_07.png)Figure 6-6: Fuselage side verticle alignment
-
+![Check side is verticle](../images/06/06_06a.png)Figure 6-6: Fuselage side verticle alignment
 
 Place some scrap lumber along the outsides of the fuselage and hold together with rubber bands to hold the sides flat against the front seat bulkhead or at any place where they will not stay in place.
 
-![Hold sides together](../images/06/06_08.png)Figure 6-7: Use verticle boards and rubber bands to hold sides verticle
+![Hold sides together](../images/06/06_07.png)Figure 6-7: Use verticle boards and rubber bands to hold sides verticle
 
 Now, use the carpenters level and square to check the squareness of the temporary jigged fuse­lage. Refer to the top view sketch and check the symmetry of the fuselage.
 
@@ -59,8 +58,8 @@ Now, use the carpenters level and square to check the squareness of the temporar
 ![Level and square](../images/06/06_08.png)Figure 6-10: Sides equally spaced, verticle and level top and bottom.
 
  It may be difficult to get everything exact­ly straight, but do your best to at least get the straight top longerons level and parallel, and to not get the firewall crooked.
- 
- ![Lower longerens level](../images/06/06_09.png)Figure 6-11: Check that the lower longerons are level (they are o top at this point)
+
+ ![Lower longerens level](../images/06/06_09.png)Figure 6-11: Check that the lower longerons are level (they are on top at this point)
 
 ![level upper longerons](../images/06/06_10.png)Figure 6-12: Check level underneith the upper longerons
 
@@ -80,7 +79,12 @@ The front F22 bulkhead gets tapes only in the area shown (its other reinforce­m
 
 ![F22 install](../images/06/06_18.png)Figure 6-16: F22 corner tape
 
-![F28](../images/06/06_15.png)Figure 6-17: Install F28
+![F28](../images/06/06_15.png)Figure 6-17: Install F28 and doublers
+
+Carefully measure the 5.9 inch dimension shown and mount the F28 small bulkhead and the two .7 x 1.0 x 3 wood doublers. The bulkhead and wood doublers are installed with wet flox and held with clamps or staples until cured. 
+
+After cure The 1" x .7" x 3" wood doubler should be glassed over with 1 ply BID at 45 degrees, lapping .4" onto F28, top longeron and fuselage side. {CP34 PC 105 MEO}
+
 
 Recheck alignment and leave alone without moving anything for 12 hours.
 
