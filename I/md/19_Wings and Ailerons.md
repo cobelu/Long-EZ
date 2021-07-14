@@ -455,6 +455,7 @@ Remove the 3" wide strips of peel ply around the attach depressions.
 Layup 3" wide UND strips as shown in Figure 19-37 (layup 5) wrapping around the metal areas and lapping back 12" onto the wing skins, top and bottom.
 Two plies are required, each is 30" long.
 Fibers orient along **long** dimension.
+
 Then, layup 3 plies BID in the rib hollow (layup 6) {Figure 19-52} section F-F.
 One of the 3 plies laps 4" inboard, covering the previous UND reinforcement.
 After cure, cut out the attach depression holes as shown in Figure 19-38.
@@ -468,7 +469,9 @@ Also {Figure 19-52} sections C-C, {Figure 19-54} Section E-E, and {Figure 19-53}
 Note how the 0.6 inch foam "shell" is completely removed for glass­-to-glass layup around all outside edges and at the forward face where the CS127 brackets will mount.
 The foam is also completely removed at the **LWA6** (1/4" thick aluminium) block.
 Note also the local removal at the CS 132L belhorn ({Figure 19-56} Section G-G and {Figure 19-54} Section E-E).
+
 **Caution** – leave the 0.6" directly above the inboard wing attach ({Figure 19-53} view M-M and {Figure 19-52} section C-C).
+
 Using a knife, rotary file and sandpaper, conduct the required surgery on the shell.
 Use care to not damage the nylon rudder conduit.
 Then layup a 3 ply rib in the **entire** area (layup# 7).
@@ -732,23 +735,27 @@ If your gascolator bowl is aluminum, wrap it with approved fire sleeve material 
 
 ### Step 16: Vortilons {CP47 PC126 MAN-GRD}
 
-Vortilons are installed on the leading edge of each main wing in order to improve the stall margin of the main wing over the canard, precluding overweight LongEZs from entering a complete stall. Figure 19-64 provides full scale outlines for the vortilons, while Figure 19-65 shows mounting locations.
+Vortilons are installed on the leading edge of each main wing in order to improve the stall margin of the main wing over the canard, precluding overweight LongEZs from entering a complete stall. Figure 19-64 provides full scale outlines for the vortilons, while Figure 19-65 shows mounting locations and Figure 19-66 provides an alignment tool.
 
-### Note: The following directions assume the Vortilons are installed during wing construction after the underside of the wing has been skinned and the leading edge block of foam at B.L. 55.5 has been removed. 
+### Note: The following directions assume the Vortilons are installed during wing construction after the top and bottom of the wing has been skinned and the leading edge block of foam at B.L. 55.5 has been removed enabling the measurements shown in Figure 19-66 to be made
 
 Make the 3 vortilons for one side from a 6 ply BID solid glass layup of a 8" x 8" square.
-Apply resin, let cure.
+Layup the BID on plastic wrap, apply resin, let cure.
 
 After cure cut out the six Vortilons (there are 3 different sizes) see Figure 19-64.
 Sand both sides of the wing side edge of the Vortilons in preparation for mounting.
 
-![Voltrons](../images/19/19_63a.png) Figure 19-64: Voltrons templates
+![Voltrons](../images/19/19_63.png) Figure 19-64: Voltrons templates
 
 Create 1" wide flanges on each side of each Vortilon from two ply BID.
-Cut out (12) 4" x 2" BID strips for each wing.
+Cut out (12) 7" x 2" BID strips for each wing.
 
-With each wing top side up mark the Vortilon locations (BL 80.0", BL 106.5", BL 126.8")
-as shown in Figure 19-65. Also note that the Vortilons are placed by measurement from the wing leading edge "notch" as shown in Figure 19-65.
+Make the installation tool shown in Figure 19-65 out of 1/4" plywood.
+
+![Voltrons](../images/19/19_66.png) Figure 19-65: Vortilons installation jig
+
+With the wing top side up mark the Vortilon locations (BL 80.0", BL 106.5", BL 126.8")
+as shown in Figure 19-65. Also note that the Vortilons are placed by measurement from the wing leading edge "notch" measuring along the wing as shown in Figure 19-66. The following table provides these measurements.
 
 |Vortilon B.L.  | Leading edge offset |
 | ------------- | ------------------- |
@@ -756,11 +763,22 @@ as shown in Figure 19-65. Also note that the Vortilons are placed by measurement
 | B.L. 106.5"   |     47 1/4"         |
 | B.L. 126.8"   |     73 3/4"         |
 
-The Vortilons are parallel with the wing tip at B.L. 157 and do not cant outboard or inboard. Vortilons should appear verticle. Use the curve of the Vortilon to match the curve of the underside of the wing to place the vortilon longitudinally. All Vortilon "elevation" along the leading edge will not be the same since the wing changes shape along its span.  Please note that the vortilon is not installed perpendicular to the wing leading edge.
+Sand the wing area to be bonded to the vortilon.
 
-Use scrap foam to support the leading edge of the Vortilon centered on their respective installation points. Sand the wing area to be bonded to the vortilon. Wet out each flange and stipple it to the underside of the wing and its' associated vortilon. Use the foam block to support the vortilon while it cures in place.
+Place the Vortilon jig with its longest side along the wing and the narrowest angle inboard at the installation pont for the each vortilon on the wing leading edge. Butt the vortilon against the jig to obtain the correct vortilon alignment with the airstream.
 
-![Voltrons locations](../images/19/19_63b.png) Figure 19-65: Placement locations for Voltrons on main wings
+ Use the curve of the Vortilon to match the curve of the underside of the wing to place the vortilon longitudinally.
 
+Ensure each vortilon is verticle.
 
+Use scrap foam to support the leading edge of the Vortilon centered on their respective installation points.
 
+Wet out each flange and stipple it to the underside of the wing and its' associated vortilon. Use the foam block to support the vortilon while it cures in place.
+
+![Voltrons locations](../images/19/19_64.png) Figure 19-66: Placement locations for Voltrons on main wings
+
+### Step 17: Access Hole Covers {CP31 PC91 MEO}
+
+Covers for the access holes, three each side, for wing attachment can be fabricated out of .016 aluminum sheet, painted to match you airplane.  To install, stick over the hole using a small bead of RTV (silicone, clear silicone rubber sealant by Dow Corning is best). The covers should be taped or weighted into position and left to cure for at least 24 hours.  They are water-tight and keep the rain out of the attach area.  If you need to remove them later, a razor blade will easily cut them loose.
+
+![Access Covers](../images/19/19_65.png) Figure 19-67: Access covers for wing attach access holes

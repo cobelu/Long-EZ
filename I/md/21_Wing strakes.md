@@ -299,8 +299,7 @@ Weight it into place and cure.
 
 ![Firewall](../images/21/21_16.png) Figure 21-21: Firewall mounted fuel elements
 
-**NOTE:** Many of the Continental 0-200 engines are
-not equipped with a mechanical fuel pump.
+**NOTE:** Many of the Continental 0-200 engines are not equipped with a mechanical fuel pump.
 On some, a mechanical pump can be easily adapted.
 On others, this requires major work involving a different cam and machine work on the case.
 

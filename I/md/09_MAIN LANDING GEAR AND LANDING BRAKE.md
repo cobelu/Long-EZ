@@ -59,12 +59,6 @@ Now you must trim the leading edges at the axles to clear the brake calipers (se
 ### LANDING BRAKE
 
 Refer to Section VI (Landing brake) install this system now.
-Note that the rudder conduit will later fit outside LB 17 rather than as shown in Section VI.
-Refer to Chapter 14 for the required left arm rest installation and other important landing brake details. {CP27 PC112 MEO}
-
-Due to different armrest dimensions, substitute an AN-26A bolt for the AN4-22A bolt and use two LB16 spacers.
-
-Also, the Long-EZ brake is slightly larger. Increase the 16xl6 dimension to 17.5 x 17.5.
 
 ### POSITIONING THE MAIN GEAR ON THE FUSELAGE
 

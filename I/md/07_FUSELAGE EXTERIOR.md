@@ -38,7 +38,7 @@ Refer to the sketch and mark the outline of the fuel sight gauge on both sides o
 
 Micro some foam chips into the holes around the bolt heads at the landing gear and engine mount extrusions. Round the edges of the plywood firewall {1/8" radius) so the skin can lap onto its aft face. Trim away 1/2" of the FiberFrax on the areas where the skin will lap onto the aft face (6.5 inch area on sides only).
 
-Do **not** carve the landing brake depression now - it's best to do this later, (chapter 17) to allow more accurate contour and easier fuselage skinning.
+Do **not** carve the landing brake depression now - it's best to do this later, (plans Section VI as part of Chapter 9) to allow more accurate contour and easier fuselage skinning. However you can mark the landing brake location on the foam surface now with a permanent marker and then tape the area that will become the langing brake. This makes removing the fiberglass skin you are about to put on easier when you are installing the landing break. Don't let the tape extend outside of the landing brake board area.
 
 Refer to the adjacent sketch showing a small wood insert in the lower corner of the fuselage. Remove the bottom foam and micro this insert in place. This provides additional strength needed to support the external step ( see chapter 8, step 6). **Left side only**.
 
@@ -58,10 +58,10 @@ It is not convienient to glass all around at one layup, since the glass will fal
 
 The 2-3 hour tacking period should assure the glass will not peel off. A close sissor-trim at the bulkheads and longerons will also prevent the glass from peeling.
 
-Boards clamped to the upper firewall to a saw horse as shown can support the fuselage for skinning.
+Boards clamped to the upper firewall to a saw horse as shown in Figure 7-12 can support the fuselage for skinning.
 
 ![Rotissery](../images/07/07_09.png)Figure 7-12: Fuselage support for exterior layup
 
-Peel-ply the area where the wing strake will bond (Chapter 21), a 2" strip around the spar cutout and a 1" strip at the firewall and F22 bulkhead. You now have bare foam **only** at the aft edge of the bottom block, the wheel well sides, and around the canard cutouts. Leave these bare now. After cure, you can sit in the cockpits, however, fit and comfort is **not** representative until the side consoles, thigh support (floor in front behind instrument panel), nose section and cushions are installed. Support the fuselage on a large foam block, not a sharp saw horse, to avoid skin damage. 
+Peel-ply the area where the wing strake will bond (Chapter 21), a 2" strip around the spar cutout and a 1" strip at the firewall and F22 bulkhead. You now have bare foam **only** at the aft edge of the bottom block, the wheel well sides, and around the canard cutouts. Leave these bare now. After cure, you can sit in the cockpits, however, fit and comfort is **not** representative until the side consoles, thigh support (floor in front behind instrument panel), nose section and cushions are installed. Support the fuselage on a large foam block, not a sharp saw horse, to avoid skin damage.
 
 ![Flying](../images/07/07_10.png)Figure 7-13: Simulate flying

@@ -23,7 +23,7 @@ After about two hours cure, scissor trim the glass all around the edges and inst
 Hold in place with weights to cure.
 Wipe excess flox from the outside and inside the baggage  compartment.
 
-![](../images/24/24_00.png)
+![MLG](../images/24/24_00.png) Figure 24-1: Fuselage lower aft cover (main landing gear)
 
 When cured, remove the weights and carve to fair in with the forward fuselage, sides, and firewall.
 Glass the outside with two plies BID (optional fiber orientation), lapping 1" onto the fuselage at the front and sides.
@@ -33,39 +33,18 @@ Do not seal the gap around the main gear strut now.
 Wait until after the airplane has been painted, then seal the gap with silicone seal or RTV (Dow or G.E. silicone rubber bathtub caulk).
 The 1/8" silicone-filled gap allows the gear to flex without cracking the paint.
 
-#### STEP 2 - Left side consoles
-
-During Chapter 9 you were sent here to install a portion of the front left console to support the landing brake handle.
-This portion is LC1, an 8-inch long segment of the vertical face as shown below, extending from FS 52 to FS 60.
-It is made from a 9.1" x 8" piece of 0.35" thick type R45 PV (dark blue).
-Glass the side that faces the fuselage side with 1 ply BID and the pilot's side with 2 plies BID.
-Lap these 1/2" onto the floor.
-Jig in place to cure by holding it with a stick that jams across the fuselage.
-Check the 2" gap between it and the fuselage side.
-Cure.
-Note that landing brake (Section VI) section H-H is now 2", not 1 1/2" gap.
-Install an AN4-26A bolt where the AN4-22A is shown and add another LB16 spacer **between LB14 and the console**.
-Other aspects of landing brake installation are per Section VI.
-Note that if you have purchased a prefab LB1 weldment, the LB21 will not be on the centerline of the fuselage.
-It is acceptable to have the pushrod and hinge located 1" to the left of center.
-The brake itself should be centered.
-
-Weight savings – eliminate two of the three plies that cover the depression in the fuselage bottom (bottom right of page 1, section VI).
-This is possible because the Long-EZ's fuselage foam is more than twice as strong as the VariEze foam.
-Do not forget to increase brake dimensions to make your Long-EZ brake 1 1/2" longer and wider than the VariEze brake shown.
-
-Now, return to Chapter 9 to complete the landing
-brake.
-
-![](../images/24/24_01.png)
+#### STEP 2 Left Consoles
 
 Now that you've reached this point you should have
-everything installed in the console area (engine controls, rudder cable and any electricals).
+everything installed in the console area (engine controls, rudder cable, landing brake and any electricals).
 Referring to the drawings below, cut the remaining parts of the left front console and the left rear console
 from 0.35" thick type R45 PV core and install using micro and glassing with 1 ply BID on insides and 2 plies BID on outside.
+
+If you installed a manual landing brake control arm in the front left console in chapter 9 then an opening must be made in LC2 to allow operation of the Landing Brake control arm (LB13). This slot need only be 0.25" wide extending from F.S. 48.9 to F.S. 56.5. The slot is 1.25" from the fuselage wall. Ensure full throw for LB13.
+
 Note that the rear left console is shorter than the rear right console, to allow room for the left suitcase (Chapter 26) to sit flush against the side.
 
-![](../images/24/24_02.png)
+![fwd left console](../images/24/24_02.png) Figure 24-2: Forward Left Console construction
 
 ### Steo 3 - Front seat thigh support
 
@@ -90,11 +69,15 @@ Label as shown.
 Bond the cover in place with silicone rubber so it can be removed.
 Do not use screws.
 
-![](../images/24/24_03.png)
-![](../images/24/24_04.png)
-![](../images/24/24_05.png)
-![](../images/24/24_07.png)
-![](../images/24/24_06.png)
+![thigh support](../images/24/24_03.png) Figure 24-3: Front thigh support
+
+![floor](../images/24/24_04.png) Figure 24-4: Floor
+
+![rib locate](../images/24/24_05.png) Figure 24-5: Rib positioning under floor
+
+![fuel valve](../images/24/24_07.png) Figure 24-6: Fuel Valve
+
+![front floor](../images/24/24_06.png) Figure 24-7: Side view of front floor
 
 ### Step 4 - Canard cover
 
@@ -123,8 +106,9 @@ This gives you a permanent rubber seal strip.
 
 This step should not take over four man­hours.
 
-![](../images/24/24_08.png)
-![](../images/24/24_09.png)
+![canard cover](../images/24/24_08.png) Figure 24-8: Canard cover rough foam layout
+
+![canard seal](../images/24/24_09.png) Figure 24-9: Silicon rubber seal around canard
 
 ### Step 5 - Wing/Centersection seal
 
@@ -139,7 +123,7 @@ Use release (saran wrap) on one side if you plan to remove wings often.
 If not, simply fill the small gap (cut with razor blade when removing wing).
 Seal this area, including wing LE/Strake gap, well - air spillage here reduces performance significantly and spills engine cooling air.
 
-![](../images/24/24_10.png)
+![wing joint](../images/24/24_10.png) Figure 24-10: Sealing the wing to center section spar joint
 
 ### Radio Support
 If you are installing a little one and one/half NAV/CON radio like the Alpha 200, Escort 110, or RT 553, as shown on
@@ -149,6 +133,6 @@ On N79RA we decided to add a pair of aluminum straps from the front cover (forwa
 The brackets are .025 thick and 2024-T3 sheet metal, in­stalled as shown here.
 To clear the elevator tubes and pushrods, the radio must be angled down about one inch and inboard 1/2 inch from being perpendicular to the instrument panel.
 Be sure that the control system does not bind on the radio!
-The angles between radio and instrument panel are small and not objectional aesthetically. 
+The angles between radio and instrument panel are small and not objectional aesthetically.
 
-![](../images/24/24_11.png)
+![Radio support](../images/24/24_11.png) Figure 24-11: Radio tray connection to fuselage
