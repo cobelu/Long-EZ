@@ -49,7 +49,7 @@ NOTE: Pitch trim is **not** shown on A7 or A8 drawings.
 Cut two 20" length of 7x7 1/16" dia. aircraft cable.
 Using two AN100-3 {Thimbles} and two 18-1-C {sleves}, swage one end of each cable to PTH.
 Install PTH as shown using **all** the hardware shown in {Figure 17-4 }section A-A.
-Cut two 2" lengths of polyflow nylon conduit and flox to instrument panel holes.
+Cut two 2" lengths of polyflow nylon conduit and flox to instrument panel holes located at B.L 9.5 (5/8" inboard of the left side), with the top cable at W.L. 9.6", and bottom cable at W.L. 8.3". The top of the longeron is W.L. 23". {CP24 pg 11 MEO}
 Thread the cable thru and swage the ends at the 5.6 and 6.2 dimensions with the PTH handle at the **neutral trim position**.
 
 Install AN100-3 thimbles in the elevator bracket (PTB chap. 11 {Figure 11-33}).

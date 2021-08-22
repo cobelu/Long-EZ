@@ -1,4 +1,4 @@
-# CHAPTER 6 
+# CHAPTER 6
 
 ## <u>FUSELAGE ASSEMBLY</u>
 

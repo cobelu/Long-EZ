@@ -151,6 +151,8 @@ The antennas that we recommend, and use on the prototype N79RA, are available fr
 These antennas are cheap, simple and work well.
 They consist of four toroids and 48" of 1/2" wide copper foil tape, for each antenna, which means you need two "kits", one for the comm. antenna and one for the Nav. antenna.
 
+#### NAV Antenna
+
 The Nav. antenna should be installed under the canard (on the bottom skin, after the canard is glassed).
 The 48" (approx) length of copper tape should be cut into two equal lengths of 22.8" {CP30 PC78 DES}, these two pieces should be
 stuck to the bottom skin in a 'V' shape, with the open end of the 'V' facing forward (see ~~sketch~~ Figure 22-11).
@@ -164,16 +166,20 @@ A protective ply of BID may be layed up over the copper foil elements, peel ply 
 
 ![Nav](../images/22/22_07a.png) Figure 22-11: Nav Antennas
 
+#### COMM Antenna - Normal Rudder
+
+If you've chosen to construct the original rudder design, then follow this sections guidance and install your COMM Antenna in one winglet.
+
 ~~The Comm. antenna is exactly the same, and it is mounted on the bottom of the main gear strut.
 Mount the coax terminal strip as near to one side of the fuselage, (where the gear exits the fuselage), as possible.
 This ensures that one copper foil element extends out of the fuselage and down one leg, with as much vertical orientation as possible.
 The **center** conductor of the coax must be connected to this copper foil element.
 The other element will go through the fuselage, over each gear attach tab, and must be connected to the coax shield.
-You may apply a narrow strip of BID over the copper foil for protection and again, peel ply it for smooth transition.~~
+You may apply a narrow strip of BID over the copper foil for protection and again, peel ply it for smooth transition.~~ 
 
-The COMM antenna fits in the winglet as shown in Figure 22-11. Install copper foil before glassing the inside skin of the winglet (left or right). Cut two strips of copper foil 20.3" long, remove the protective backing and stick the foil to the foam on inch from and parallel to the trailing edge. Measure the rudder cut out area and bend the lower (2") end of the foil forward to miss the rudder. From where the two foil strips come together cut a slot just deep enough to hold the RG-58U/A lead in cable flush with the foam surface. Hold the lead in with tooth picks similar to the method used to hold the rudder conduit in Chapter 19. Be sure the Ferrite Balums are installed just above the connection as shown. Solder the center wire of the RG-58U/A to the top foil strip and the outside "ground" braid to the lower foil strip.
+The COMM antenna fits in the winglet as shown in Figure 22-11. Install copper foil before glassing the inside skin of the winglet (left or right). Cut two strips of copper foil 20.3" long, remove the protective backing and stick the foil to the foam an inch from and parallel to the trailing edge. Measure the rudder cut out area and bend the lower (2") end of the foil forward to miss the rudder. From where the two foil strips come together cut a slot just deep enough to hold the RG-58U/A lead in cable flush with the foam surface. Hold the lead in with tooth picks similar to the method used to hold the rudder conduit in Chapter 19. Be sure the Ferrite Balums are installed just above the connection as shown. Solder the center wire of the RG-58U/A to the top foil strip and the outside "ground" braid to the lower foil strip.
 
-Be sure the upper and lower foil strips don't touch or short out. Use about 1/8" separation. Check that none of the wire, berrite balums etc. stick up above the foam surface, trowel in dry micro around the solder joints as well as other voids and glass the inboard winglet as per the plans.
+Be sure the upper and lower foil strips don't touch or short out. Use about 1/8" separation. Check that none of the wire, ferrite balums etc. stick up above the foam surface, trowel in dry micro around the solder joints as well as other voids and glass the inboard winglet as per the plans.
 
 Coil up the excess cable and thread it through the wing during winglet installation.
 
@@ -184,3 +190,17 @@ The antenna kit is available from Radio Systems Technology, 10985 Grass Valley A
 This completes the antenna installation.
 
 ![Comm](../images/22/22_07b.png) Figure 22-11: Comm Antenna
+
+#### COMM Antenna -- High Performance Rudder
+
+If you have chosen to construct the high performance rudder then follow these instructions to install your COMM antenna.
+
+The COMM antenna fits in the winglet as shown in Figure 22-12. Install copper foil before glassing the inside skin of the winglet (left or right). Cut two strips of copper foil 20.3" long, remove the protective backing and stick the foil to the foam 3 inches forward of and parallel to the rudder hinge line. The upper end of the foil should be as close to the end of the wing-let as possible so that the lower end is above the W.L.25 location of the rudder return spring. From where the two foil strips come together cut a slot just deep enough to hold the RG-58U/A lead in cable flush with the foam surface. Hold the lead in with tooth picks similar to the method used to hold the rudder conduit in Chapter 19. Be sure the 3 Ferrite Balums (beads) are installed just before the connection as shown in Figure 22-13. Solder the center wire of the RG-58U/A to the top foil strip and the outside "ground" braid to the lower foil strip.
+
+Be sure the upper and lower foil strips don't touch or short out. Use about 1/8" separation. Check that none of the wire, ferrite balums etc. stick up above the foam surface, trowel in dry micro around the solder joints as well as other voids and glass the inboard winglet as per the plans.
+
+Coil up the excess cable and thread it through the wing during winglet installation. The electrical conduit is at the forward tip of the winglet where it meets the wing. This may also be a good time to pull the navigation and strobe light wiring thru the conduit, if you haven't already.
+
+![Comm](../images/22/22_12.png) Figure 22-12: COMM antenna in the Winglet with High Performance Rudders
+
+![BALUM](../images/22/22_13.png) Figure 22-13: Connection of RG-58U/A to Copper tape antenna

@@ -17,21 +17,35 @@ The SC strut cover and NB nose gear box is also installed.
 
 ![Nose and Nose gear](../images/13/13_00.png) Figure 13-1: LongEz Nose
 
-The following prefab parts used in this chapter are available from distributor: NG1-L fiberglass strut, SC fiberglass nose gear strut cover, NB fiberglass box, three castings - NG-6, NG15A, and NG16 (the castings are available in either the as-cast state, or machined in ready-to-install condition), NG14 spacers (2 required),NGlOA push rod,t-tE,.J ,N6"1 ,'>£.C! NG23 bushings (2 required), NG22 bushings (2 required),Nbl7 1 tube, NG21 ring, CS13 spacers (4 required) all worm-drive/crank components, NGB, and two rudder pedals.
-The entire lower assembly from NG15A casting down, including friction damper, axle, wheel, tire, etc. (ready to bolt to the strut), is also available as well as the entireassembled worm drive assembly.
+The following prefab parts used in this chapter are available from distributor:
+NG1-L fiberglass strut
+SC fiberglass nose gear strut cover
+NB fiberglass box
+three castings - NG-6, NG15A, and NG16 (the castings are available in either the as-cast state, or machined in ready-to-install condition)
+NG14 spacers (2 required)
+NGlOA push rod,
+NG3, NG4, NG9, 
+NG23 bushings (2 required), 
+NG22 bushings (2 required),
+NGl7 1 tube, 
+NG21 ring, 
+CS13 spacers (4 required) 
+all worm-drive/crank components, 
+NGB, 
+two rudder pedals.
+
+The entire lower assembly from NG15A casting down, including friction damper, axle, wheel, tire, etc. (ready to bolt to the strut), is also available as well as the entire assembled worm drive assembly.
+
 The NG10A pushrod with two NG9's pressed in is available as an assembly.
 
-**Note: For rough or grass fields and to relieve stress on nosegear components, install the spring assembly (Figure 13-46) in place of the NG 9/10A rod. The absorber is available as an assembly. {CP25 PC 27 DES}**
-
-![Nose and Nose gear](../images/13/13_45.png) Figure 13-46: Nose gear shock absorber and spring
+### RAF recommends replacing NG10A with the LongEZ Shock Strut (LST) to unload the nose gear system from the impacts of rough surfaces. This document has has been modified assuming LST is used instead of NG10A. See Figure 13_46 for LST structure. {CP25 PC27 DES}
 
 Caution: Do not use the NG1 fiberglass strut manufactured for VariEze aircraft.
 It is 1" too short and only about 2/3 the strength of NGl-L
 
 STEP 1 - Fabricating the metal parts and BID reinforcement on strut
 
-The majority of work in this step can be eliminated 
-by purchasing the prefabricated parts. 
+The majority of work in this step can be eliminated by purchasing the prefabricated parts.
 Refer to the accompanying drawings and build/buy the following components: The worm drive system (see drawings and parts lists).
 
 ![Nose gear overview](../images/13/13_01.png) Figure 13-2: Nose gear overview
@@ -69,13 +83,15 @@ This provides split protection of the strut.
 
 ![Nose Gear Pivot assembly](../images/13/13_03.png) Figure 13-4: NGG assembly
 
+**Note: For rough or grass fields and to relieve stress on nosegear components, install the spring assembly (Figure 13-4) in place of the NG 9/10A rod. The absorber is available as an assembly. {CP25 PC 27 DES}**
+
 ![FILLER](../images/13/13_04_space.png)
 
 ![Retract assembly](../images/13/13_04.png) Figure 13-5: Overivew Retract assembly
 
-![Rudder Pedal Components](../images/13/13_05.png) Figure 13-6: Rudder pedals
+![Rudder Pedal Components](../images/13/13_05.png) Figure 13-6: Rudder pedals and Nose Gear brackets
 
-![Nose Gear Wheel assembly](../images/13/13_06a.png) Figure 13-7: Nose Gear attachment to strut (__Not to scale__)
+![Nose Gear Wheel assembly](../images/13/13_06.png) Figure 13-7: Nose Gear attachment to strut (__Not to scale__)
 
 ### STEP 2 - FABRICATION AND ASSEMBLY OF THE HIGH DENSITY FOAM PLATES (NG30)
 
@@ -156,7 +172,7 @@ Install F-6 as shown.
 ### STEP 4 - NOSE FLOOR, SIDES, AND RUDDER PEDALS
 
 This step involves about seven hours work.
-Don't try to support the airplane on the nose gear now; it doesn't attain its strength and stiffness until step 8 is completed. 
+Don't try to support the airplane on the nose gear now; it doesn't attain its strength and stiffness until step 8 is completed.
 
 Drill a #10 hole through the NG30 plates at the position shown for the rud­der pedal pivot bolt (see full-size drawing, page A7).
 Round up your butch­er knife and some 2" thick green urethane foam and carve the floor blocks shown.
@@ -285,8 +301,8 @@ This is when the NG50 arms stike the upper NG14 spacer.
 Drill the #12 hole in the universal and NG61 for the AN3-6A bolt, with the crank in the best position to not block an instrument or hit the pilot's leg.
 
 Hold the nose gear in the retracted position.
-Then adjust one or both of the rod ends on the NG10A pushrod to fit between NG3 and NG50.
-Then, shorten NG10A by one turn of a rod end.
+Then adjust one or both of the rod ends on the ~~NG10A~~ LST ~~pushrod~~ to fit between NG3 and NG50.
+Then, shorten ~~NG10A~~ LST by one turn of a rod end.
 This provides a good snub of the gear in the up position.
 Extend the gear and check for the correct down position (see page 13-1) i.e. lower pivot vertical or canted bottom-forward up to 5°.
 To install a gear-up warning, mount the micro switch so it is activated by NG50 or NG9 in its last 1/10 inch motion to the down stop. See chapter 22 for electrical wiring and switch mounting.
@@ -296,7 +312,8 @@ Refer to Owners Manual for normal operation of the nose gear.
 
 Now, go to chapter 22 and install the gear-down microswitch for warning system.
 
-### STEP 6 - PLUMBING THE PITOT AND STATIC SYSTEM 
+### STEP 6 - PLUMBING THE PITOT AND STATIC SYSTEM
+
 If this step takes you more than about an hour, you must have bought this pro­ject from someone else!
 
 Round up your soft aluminum (5052-0) 1/4"-dia tubing and cut one piece 6" long and one piece 38" long.
@@ -363,19 +380,17 @@ This door also allows canard removal and landing gear inspection.
 ![Placement of cover panel](../images/13/13_41.png) Figure 13-40: Placement nose door
 
 Layout the door with a felt tip pen on the top as shown.
-Tape a piece of thin plastic film (saran wrap) over 
-this area for a release then layup 4 plies BID lapping over the door marks.
+Tape a piece of thin plastic film (saran wrap) over this area for a release then layup 4 plies BID lapping over the door marks.
 This is your door.
 When cured, remove it and trim to size.
-Now, measure **in** 0.7" all around for a flange, then cut the hole in the top of the nose along this **inner** mark. 
+Now, measure **in** 0.7" all around for a flange, then cut the hole in the top of the nose along this **inner** mark.
 
 Using a razor saw cut off the entire top nose piece.
-Cut just aft of NG31 and along the top of the side blocks. 
+Cut just aft of NG31 and along the top of the side blocks.
 
 Turn the piece upside down and mark where it touches the NG30 top edges and the top of F6.
 
 ![Making hole for door](../images/13/13_42.png) Figure 13-41: Top Piece removed
-
 
 Referring to the sketches, remove foam to make a bare-glass 0.7" flange around the door cutout and a smooth taper of the foam with rounded edges.
 Now, layup 1 ply BID over the entire inside of the block.
@@ -383,10 +398,22 @@ Add 2 more plies locally on the flanges to stiffen them.
 While its still wet, stack flox on the sides, NG30, F6 and NG31, then weight or tape the top block back into place. Reach in from the canard cutout and wipe off excess flox.
 
 After cure layup a 1" strip of 1 ply BID over the edges where the top block was cut from NG31 and the sides. 
-Install ten equally-spaced screws (with nutplates inside) along the door edges. Use AN509-8R8 screws (flush #8) and K1000-08 nutplates. See A6. 
+Install ten equally-spaced screws (with nutplates inside) along the door edges. Use AN509-8R8 screws (flush #8) and K1000-08 nutplates. See A6.
 
 ![Nose Door](../images/13/13_43.png) Figure 13-42: Nose Door
 
-Now, refer to section VI - landing brake, page 2 for a neat method to fair your door in flush at the edges.
+Now, refer to section VI - landing brake, ~~page 2~~ Figure LB-13 for a neat method to fair your door in flush at the edges.
 
-![Carving the nose](../images/13/13_44.png) Figure 43: Carve the nose
+![Carving the nose](../images/13/13_44.png) Figure 13-43: Carve the nose
+
+![space](../images/13/13_45_space.png)
+
+![CP](../images/13/13_45.png) Figure 13-44: Nose gear shock assembly
+
+## LongEZ shock strut assembly drawing for reference from Cozy IV M-suplement draft 1.2, sheets 75, 76, 77, November 2015. Paul Gles
+
+![LST](../images/13/13_46.png) Figure 13-46: LongEZ Shock Strut Assembly Drawing
+
+![LST](../images/13/13_47.png) Figure 13_-47: LST-1 and LST-2
+
+![LST3,4,5,7](../images/13/13_48.png) Figure 13-48: LST-3, LST-4, LST-5, LST-7

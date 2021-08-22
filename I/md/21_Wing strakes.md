@@ -68,6 +68,9 @@ Fabricate the 35 x 1.45 x 2.15 jig board from wood or foam.
 ![jig board](../images/21/21_19.png) Figure 21-7: Jig Board
 
 Now, fit the inboard and outboard bottom skin in place and fit the DB, R45, R23, B23, BAB, BLE and TLE parts together – temporarily hold in place with nails.
+
+![rib locations](../images/21/21_15.png) Figure 21-21: Strake rib locations
+
 Bevel ends of the TLE and BLE to fit.
 Jigging is easy if the curve in the skins is permanent.
 To put a permanent curve in the skins, weight them into a curved shape with 2 boards as shown {in Figure 21-8} and heat with a 1000 to 1500 - watt hair dryer or heat gun.
@@ -266,38 +269,18 @@ Cross two plies UND for a sufficiently durable skin.
 
 ### Step 11 - Fuel valve, electric pump and gascolator
 
-Refer to the drawings.
+Refer to Figure 21-17.
+
+![Fuel Valve](../images/21/21_13.png) Figure 21-17: Fuel valve
+
 Install the shelf and valve on the instrument panel.
-Orient for correct left­right pointing of the valve handle.
+Orient for correct left ­right pointing of the valve handle.
 Plumb the left and right 3/8" fuel lines.
 Plumb and run the 3rd 3/8" fuel line down the right side and through the firewall.
+
 Mount the electric pump and gascolator as shown and plumb the tubing.
 
-![Fuel Valve](../images/21/21_13.png) Figure 21-17: Fuel valve and fuel cap
-
-Fuel caps, specifically designed for VariEze are available at a Long-EZ distributor.
-These are a sealed unit, locked, as shown in the drawing, by a Dzus fastener.
-Do **not** substitute a vented cap.
-Do **not** substitute a cap that does not have a reliable lock.
-Wait until after your aircraft is painted to install the fuel
-caps: This will result in a neat installation and avoids contamination of your fuel tank.
-To install the cap, bore a hole in the position shown, with a 2-¼" hole saw.
-Trial fit the cap.
-Dull the metal rim bonding surface with 100-grit sandpaper.
-
-Now, tape a 1" tube to a vacuum cleaner hose and thoroughly clean the foam chips out of your tank.
-Mix flox and trowel it into the lip and coat the metal rim.
-Drop the rim in place and wipe excess flex from around the rim edges, tip, and bottom.
-Be sure to wipe any flex off the inside of the rim.
-Weight it into place and cure.
-
-![fuel cap](../images/21/21_12.png) Figure 21-18: Fuel cap construction
-
-![Sections](../images/21/21_14.png) Figure 21-19: Strake to Center section spar
-
-![rib locations](../images/21/21_15.png) Figure 21-20: Strake rib locations
-
-![Firewall](../images/21/21_16.png) Figure 21-21: Firewall mounted fuel elements
+![Firewall](../images/21/21_16.png) Figure 21-18: Firewall mounted fuel elements
 
 **NOTE:** Many of the Continental 0-200 engines are not equipped with a mechanical fuel pump.
 On some, a mechanical pump can be easily adapted.
@@ -313,3 +296,36 @@ They include:
 All three systems work.
 We are currently evaluating all three and will select one, based on reliability, cost, and weight considerations.
 Details of the selected system will be furnished in Canard Pusher newsletter #24 or #25.
+
+### Fuel Cap and grounding
+
+Fuel caps, specifically designed for ~~VariEze~~ LongEZ are available at a Long-EZ distributor.
+These are a sealed unit, locked, as shown in the drawing, by a Dzus fastener.
+
+Do **not** substitute a vented cap.
+Do **not** substitute a cap that does not have a reliable lock.
+Wait until after your aircraft is painted to install the fuel
+caps: This will result in a neat installation and avoids contamination of your fuel tank.
+
+To install the cap, bore a hole in the position shown in Figure 21-2 in the aft half of the fuel tank, with a 2-¼" hole saw.
+Trial fit the cap.
+Dull the metal rim bonding surface with 100-grit sandpaper.
+
+To reduce the chance of a fire when fueling the aircraft, install a metal fuel cap on each fuel tank that has an attached grounding cable inside the fuel tank, with enough wire to reach the forward edge of the tank when the aircraft is kneelng. To ensure the fuel cap stays attached to the aircraft include an obstruction within a foot of the cap that is larger than the fuel filler hole as shown in Figure 21-19.
+The fuel filler and cap should be installed before the fuel tank is vacuumed, as it will produce debry in the tank.
+During filling the fuel trucks ground wire will be attached to the fuel cap.
+{CP55 PCS134 MEO}
+
+Now, tape a 1" tube to a vacuum cleaner hose and thoroughly clean the foam chips out of your tank.
+Mix flox and trowel it into the lip and coat the metal rim.
+Drop the rim in place and wipe excess flex from around the rim edges, tip, and bottom.
+Be sure to wipe any flex off the inside of the rim.
+Weight it into place and cure.
+
+![fuel cap](../images/21/21_22.png) Figure 21-18: Fuel cap construction
+
+![fuel cap grounding](../images/21/21_21.png) Figure 21-19: Fuel cap grounding
+
+![Sections](../images/21/21_14.png) Figure 21-20: Strake to Center section spar sections
+
+![rib locations](../images/21/21_15.png) Figure 21-21: Strake rib locations

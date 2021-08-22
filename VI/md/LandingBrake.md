@@ -332,7 +332,7 @@ Adjust the spring (LB12) tension such that a 40-lb pull at the trailing edge (as
 
 ![force check](../images/LB_12.png) Figure LB-13: Check force required to push board back into depresion
 
-This comopletes landing airbrake installation.
+This completes landing airbrake installation.
 
 |Bill of Materials| Table 1    |    |    |
 | ---   | ---   | ---   | ------            |

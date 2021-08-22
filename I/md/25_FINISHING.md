@@ -32,7 +32,7 @@ are definitely __not approved__ on the upper surface of the wings and
 canard. Do not stripe wing or canard with trim, except at the
 canard tip where structure is not critical.
 
-![](../images/25/25_00.png)
+![](../images/25/25_00.png) Figure 25-1: Surface colors effect on surface temperature
 
 ## TOOLS AND MATERIALS
 A low density microsphere/epoxy mixture (dry micro) is used for
@@ -92,7 +92,7 @@ balance weight sides and front to provide clearance .. Then layup
 3-plies BID as shown over the weight lapping ½" onto the canard
 skin. After cure, remove elevator and gray tape.
 
-![](../images/25/25_01.png)
+![](../images/25/25_01.png) Figure 25-2: Ice Shield
 
 ## The Spline
 The sanding spline is a finishing tool common to the sailplane industry. It is an easy tool to
@@ -104,7 +104,7 @@ to the leading edge of an airfoil surface (wing, canard, etc.) as shown in the s
 edge while the spline's handles are held parallel. This takes a little getting used to but becomes
 second nature after a little practice.
 
-![](../images/25/25_02.png)
+![](../images/25/25_02.png) Figure 25-3: Sanding spline construction
 
 ## THE FINISHING PROCESS
 Finishing the composite airplane is a five­
@@ -128,41 +128,46 @@ the finishing process and its potential pit falls.
 The sketches are grossly exaggerated scale to show
 details more clearly.
 
-![](../images/25/25_03.png)
-![](../images/25/25_04.png)
-![](../images/25/25_05.png)
-![](../images/25/25_06.png)
-![](../images/25/25_07.png)
+![](../images/25/25_03.png) Figure 25-4: Spline end view of assembly
 
-### Step One; Inspection/Repairs
+![](../images/25/25_04.png) Figure 25-5: Spline wooden handles
+
+![](../images/25/25_05.png) Figure 25-6: Spline foam pad
+
+![](../images/25/25_06.png) Figure 25-7: Spline movement sanding the wing
+
+![](../images/25/25_07.png) Figure 25-8: Wing quality criteria
+
+### Step One: Inspection/Repairs
 When you begin finishing, the entire structure must be airworthy. You can hide poor work­manship from your own eyes and from the inspector who will finally approve your first flight, but you can't fool mother nature! Everything has to be structurally sound before finish materials are applied. The following sketches are a review
 and clarification of the quality control criteria found in chapter 3,
 Each airplane must have a thorough inspection and required repairs completed as the
 first step in finishing. Comply with the 12" ruler check before continuing (PAGE 3-13)
 
-![](../images/25/25_08.png)
-![](../images/25/25_09.png)
+![](../images/25/25_08.png) Figure 25-9: Canard areas and types of concern
+
+![](../images/25/25_09.png) Figure 25-10: Issues in surfaces
 
 ### Step Two: Coarse Filling
 You must be extra cautious in this step or you
 may destroy your structure. When you take a piece of sandpaper and start grinding on your composite structure it's like using acid to clean a
 metal wing spar, It must be done carefully!
 
-![](../images/25/25_10.png)
+![](../images/25/25_10.png) Figure 25-11: Finding voids and bumps
 
 Start by determining which areas require micro filler as shown using a flexible yard
 stick and a scale. Prepare the areas to be filled by hand-sanding lightly. Do not try to use a
 sanding block or spline on these areas.
 
-![](../images/25/25_11.png)
+![](../images/25/25_11.png) Figure 25-12: Proper sanding technique inside voids
 
 Paint a __thin__ coat of epoxy over the area to be filled. Dry micro is then lumped over the area. The fill must be high, such that material is sanded away to bring the area into contour. The micro should be mixed very dry (lots of microspheres to save weight). Let the micro cure at least 24 hours. Be sure to use glass bubbles, not microspheres with Safe-E-Poxy.
 
-![](../images/25/25_12.png)
+![](../images/25/25_12.png) Figure 25-13: Using Micro to level surface
 
 Sand the micro overfill into contour using a hard sanding block,or spline with coarse (35 to 60-grit) sandpaper. Exercise extreme caution while sanding A few careless strokes with coarse paper can ruin your structure!
 
-![](../images/25/25_13.png)
+![](../images/25/25_13.png) Figure 25-14: Filling in voids
 
 ### STEP 3 - Feather Fill
 Sand the surfaces lightly by hand or with a soft foam
@@ -197,18 +202,20 @@ Feather Fill cannot be used over primer. 3M sanding
 screen type 18N FABRICUT WET0RDRY silicone carbide
 180 works excellently on Feather Fill. It is available at lumber yards.
 
-![](../images/25/25_14.png)
+![](../images/25/25_14.png) Figure 25-15: Steps to smooth out surface
 
 ### STEP 4 - Primer
 The ultra violet radiation barrier is provided by the heavy carbon black content of the dried primer. The primer give the whole surface a flat black or dark gray color and the sanding should never remove it completely, exposing the light gray Feather Fill below. The primer is sprayed on, allowed to dry, and sanded lightly to achieve a smooth surface. The first primer coat is sanded using 220-grit and the second coat very lightly wet sanded with_320-grit. When complete, the primer is very smooth, dark, and ready for finish paint. Inspect for imperfections or pin holes. Fill with lacquer spot putty (in a tube) and feather with 320- grit.
 
-![](../images/25/25_15.png)
+![](../images/25/25_15.png) Figure 25-16: Primer paint on top of smoothed surface
 
 ### Step Five: Finish Paint
+
 Follow the manufacturer's directions for the type of finish paint that you have chosen.
 
 ## MISCELLANEOUS
 ### Seals
+
 Where a flexible, durable seal between two assemblies is required, white silicone rubber
 (RTV) is recommended. For a removable seal,
 such as between the wing root and fuselage, or canard and fuselage, one side of the seal is bonded to the part and the other side is treated before application of the sealant so that it
@@ -218,13 +225,14 @@ wet silicone into the gap. Remove all excess silicone at the surface. This assem
 dry for at least two days before the parts are disassembled. The Saran Wrap will easily peel
 off of the cured silicone.
 
-![](../images/25/25_17.png)
+![](../images/25/25_17.png) Figure 25-17: Sealing gaps with silicon rubber
 
 ### Mismatch Treatment
 
-![](../images/25/25_16.png)
+![](../images/25/25_16.png) Figure 25-18: Fairing in mismatch segments
 
 ### Cockpit Interior Paint
+
 You may use colored cockpit interior paint to suit
 your own taste. For example, gray was used on the
 prototype N79RA. It is not necessary to fill the glass
@@ -239,6 +247,7 @@ the canopy locked. The instrument panel is shaded
 and can be black.
 
 ### N-Numbers (Registration Marks).
+
 You may use adhesive type letters and numbers or paint
 your registration marks directly on the airplane; your
 choice. Some simple hints may save some trouble on
@@ -253,5 +262,6 @@ onto to your airplane, first mask off the outlines for
 painting, then sand __lightly__ with 320-grit sandpaper,
 then paint and remove the masking tape.
 
-![](../images/25/25_18.png)
-![](../images/25/25_19.png)
+![](../images/25/25_18.png) Figure 25-19: Nicely finished aircraft
+
+![Photos](../images/25/25_19.png) Figure 25-20: Steps in preparing for paint 

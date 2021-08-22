@@ -24,7 +24,6 @@ It is later covered with a cosmetic cover (chapter 24).
 
 ![Console](../images/16/16_02.png) Figure 16-3: Console
 
-
 ### Step 2 - Pivot Mounts
 
 Fabricate and install CS109 and CS118
@@ -117,6 +116,7 @@ The HM3 and HM4 rod ends used in the control system are susceptible to being dam
 When adjusting the pushrod under the front stick **be sure** the normal stops in roll are reached before a twisting load is applied to the rod end.
 Be careful to not bend the rod end threads.
 If an HM3 or HM4 has been bent, twisted, damaged or overloaded in any way it must be discarded, or used in a non-critical area (landing brake, for example).
+
 Check your rod ends, particularly in the pitch system where they are non-redundant – if they are marked HM4C return them to be replaced with HM4.
 The "C" is a commercial grade and is not as strong as the aircraft HM4.
 
@@ -133,18 +133,18 @@ The "C" is a commercial grade and is not as strong as the aircraft HM4.
 ### STEP 4 - Routing and Rigging the Rudder Cables
 
 This step should take about three hours; a helper is handy to set the rigging and hold the cables for swaging.
-Cut two lengths of 3/16 OD x 0.025 wall high-pressure
-Nylaflow semi-rigid nylon tubing.
+Cut two lengths of 3/16 OD x 0.025 wall high-pressure Nylaflow semi-rigid nylon tubing.
 They are 82" long.
 These tubes are the rudder cable conduits and are routed inside the cockpit along the fuselage side contours at WL 8.
 See A1, A5, page 4-1 and page 4-2 to see where the conduit passes through the instrument panel,
-the front seat bulkhead, the rear seat bulkhead and
-the aluminum landing gear extrusion.
+the front seat bulkhead, the rear seat bulkhead and the aluminum landing gear extrusion.
 Sand the entire length of the 82" conduit dull for bonding – 60 or 100-grit.
-Thread it into the 4 holes, tape to the fuselage side every 611 to hold it straight then flox it in place at each bulkhead and every 6" along the fuselage side as shown.
+Thread it into the 4 holes, tape to the fuselage side every 6" to hold it straight then flox it in place at each bulkhead and every 6" along the fuselage side as shown.
 It maybe required to hold it in place with sticks extending across the fuselage.
 The conduit sticks out 1 or 2 inches in front of the instrument panel.
 Get two 10-ft lengths of 3/32-diameter 7 x 19 aircraft control cable and swage an AN100-4 thimble and 18-2-G sleeve on one end and bolt to the inside of CS15 as shown.
+
+### Note: If you will install the high performance rudders then use 1/16"-diameter cable and replace the CS-15 rudder belcrank with an AN210-2A pulley. This removes the need for the slot in the firewall to allow the rudder cable verticle movement due to the belcrank. Install a Nylaflow  conduit thru the firewall for the rudder cable. See chapter 20 for a description of the compression spring that must be installed between the rudder pedal and the rudder cable to allow braking
 
 ![Rudder Cables](../images/16/16_10.png) Figure 16-11: Rudder cable tube
 

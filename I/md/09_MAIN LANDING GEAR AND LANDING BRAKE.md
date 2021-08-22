@@ -237,7 +237,9 @@ Cut two pieces of 3/16" O.D. x 0.025 wall high-pressure Nylaflow nylon tubing ab
 
 ![brake line lower instal](../images/09/09_15.png) Figure 9-22: Install brake line inside of the right main gear leg
 
-***Note: Keep the brake line on the inside of the main gear leg.{CP31 PC89 MEO}***
+### Note: Keep the brake line on the inside of the main gear leg.{CP31 PC89 MEO}***
+
+### Note: Many builders have placed the brake lines, as they run down the aft edge of the main gear, in a "soda straw" conduit to allow their easy replacement and protect them from environmental degradation. There is no RAF guidance on this practice. The copper tube inserted in the brake caliper end has been known to fail and require replacement.  
 
 Now install one end into the top of each brake caliper.
 Use a short (1/2" long) piece of brass tubing such as the telescoping tubing found in hobby stores, inserted into the end of the Nylaflow tubing so that the fitting makes a better clamp on the nylon line, allowing higher pressure (figure ~~11~~9-22).

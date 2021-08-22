@@ -9,16 +9,16 @@ The rear head rest snaps over the two canopy
 braces.
 It can be positioned in the center, or to each side, for those who like to sleep in corners.  
 
-![suitcases](../images/26/26_02.png) Figure 26-1: Custom suitcases
+![suitcases](../images/26/26_02.png) Figure 26-1: Custom seat cushion
 
 The rear seat cushion is an adequate size for any person.
 However, medium/short people may want to add a pillow or cushion to sit higher to see better.
 The front seat cushion is the correct size for the average pilot (6' 3" to 6' 5").
 The smaller than average pilot **must** add cushion thickness in order to position himself high enough for adequate forward visibility (see owner's manual for optimum pilot position).
 
-![seat pads](../images/26/26_00.png) Figure 26-2: Custom seat pad
+![seat pads](../images/26/26_00.png) Figure 26-2: Custom Suitcases
 
-![photo](../images/26/26_01.png) Figure 26-3: Seat pads and shoulder harness
+![photo](../images/26/26_01.png) Figure 26-3: Seat cushions and headrests
 
 Short pilots (less than 5'11") may want to take advantage of some extra baggage room rather than fly sitting on several cushions.
 This can be done by fabricating two inserts to custom-fit the unused area.

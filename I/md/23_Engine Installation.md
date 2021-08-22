@@ -76,7 +76,7 @@ The throttle return spring can be attached to the firewall.
 Some dash models of the 0-235 engine have the oil drain hole in a different location.
 Check your engine prior to cutting the oil drain screen plug hole.
 
-![bracket install](../images/23/23_00.png) Figure 23-1: Lycoming throttle / mixture control bracket 
+![bracket install](../images/23/23_00.png) Figure 23-1: Lycoming throttle / mixture control bracket
 
 #### Continental Engine Directive
 

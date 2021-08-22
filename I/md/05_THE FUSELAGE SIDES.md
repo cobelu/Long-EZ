@@ -58,16 +58,16 @@ At the bottom rear of the fuselage, from LWX aft, the lower triangular stringer 
 
 This preparation takes about an hour. Remove the foam and glass from the area where the center section spar passes throught the fuselage sides.
 
-![CSP hole](../images/05/05_13.png)Figure 5-14:Remove Center section spar thru hole
+![CSP hole](../images/05/05_13.png) Figure 5-14: Remove Center section spar thru hole
 
 Fabricate the 1/4" aluminum extrusions, referring to ~~the page 9-12 drawings~~ Figure 9-23 and to A5. Be sure to make one left and one right set. Fabricate, or purchase from a distributor, the LMGA assembly. This is two LMGAB bushings pressed into a 6.75" length of 5/8 x 0.049 4130 tube. Using the AN6-80A bolt, assemble the sets of 2 extrusions and LMGA tube as shown – this holds the extrusions in the exact relationship relative to each other.
 
-![LMGA](../images/05/05_14.png)Figure 5-15: Landing Main Gear Assembly (LMGA) Dimensions
+![LMGA](../images/05/05_14.png) Figure 5-15: Landing Main Gear Assembly (LMGA) Dimensions
 
-![LMGA Dimensions](../images/05/05_15.png)Figure 5-16: LMGA Bushing dimensions
+![LMGA Dimensions](../images/05/05_15.png) Figure 5-16: LMGA Bushing dimensions
 
-Referring to drawing A5, position the assembly on the fuselage side and drill through the sides at the eight locations (per side) with a 1/4" drill. Coat the extrusion faces with wet flox to bond. Install the 16 each AN4-16A bolts, AN960-416 washers, and MS21042-4 nuts to permanently mount the 4 extrusions (see A5).
+Referring to drawing A5, position the assembly on the fuselage side and drill through the sides at the eight locations (per side) with a 1/4" drill. Coat the extrusion faces with wet flox to bond. Install the 16 each AN4-16A bolts, AN960-416 washers, and ~~MS21042-4~~ AN363-624 nuts to permanently mount the 4 extrusions (see A5).
 
-![LMGA mounting](../images/05/05_16.png)Figure 5-17: LMGA assembly on fuselage
+![LMGA mounting](../images/05/05_16.png) Figure 5-17: LMGA assembly on fuselage
 
-***Note: {CP25 PC 67 MEO} Figure 5-17 Nuts on the AN6-80A bolt should be AN363-624, not MS21042-6.  ***
+***Note: {CP25 PC 67 MEO} Figure 5-17 Nuts on the AN6-80A bolt should be AN363-624, not MS21042-4.  ***

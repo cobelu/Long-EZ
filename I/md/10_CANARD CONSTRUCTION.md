@@ -1,12 +1,15 @@
 # CHAPTER 10
 
-## CANARD CONSTRUCTION
+## ORIGINAL CANARD CONSTRUCTION
 
 ![Context 3-view](../images/10/10_00.png) Figure 10-1: Canard
 
 **Overview** - This chapter involves construction of the canard wing, including the lift tabs that will attach to the fuselage, but not including the elevator attachment brackets.
 
-![Canard Plan View](../images/10/10_01.png) Figure 10-2: Plan view
+The instructions in this chapter construct the original (CU) canard. Before it closed RAF published an alternative canard and elevator design referred to as the Roncz Canard. The reason for this alternative is the reduced lift the CU Canard produces when encountering rain. The Roncz canard does not experience the lift reduction.
+The Roncz canard and its associated elevator instructions are included in Chapter 30 of these instructions.
+
+![Canard Plan View](../images/10/10_01.png) Figure 10-2: Canard Plan view
 
 The canard consists of four foam cores: two outboard and two inboard.
 The inboard cores have a tapered trough for the spar cap. The trough is about 1/4" deep in the centerline of canard and about 1/16" deep at the mid span to accommodate an efficient tapered thickness spar cap.

@@ -15,7 +15,7 @@ Before going onto Step 1, study page 14-5 very closely until you really have a g
 Note that the top of the spar is flat: that it sweeps aft and that the bottom has positive dihedral in order that fuel will run inboard.
 If in doubt about exactly how things fit together, study the fullsize section drawings (Section A-A, B-B,C-C,D-D, and E-E).
 
-### STEP 1
+### STEP 1 Construct spar jig
 
 In this step you will make the particle -board jig in which you will assemble your centersection spar.
 Accuracy here is very important so don't rush!
@@ -38,7 +38,7 @@ Caution!
 The spar is mounted **aft face down** in jig.
 But all statements like "top, foward etc, relate to how it is mounted in your completed aircraft.
 
-### STEP 2
+### STEP 2 Cut Foam parts
 
 Cut out all foam parts for the center section spar, ~~page 14-7~~ Figure 14-24.
 Micro joints are ok if your pieces are too small.
@@ -71,14 +71,14 @@ Nail to urethane pieces.
 
 ![CS5 and CS8](../images/14/14_04.png) Figure 14-5: CS5 and CS8 bulkheads at ends of center section spar
 
-### STEP 3
+### STEP 3 Assemble  CS4
 
 Lay the three pieces of 6 mm pvc foam that make up part #CS4 (spar forward face), down on your table with the spar inside face up.
 Lay up one ply of BID at 45° to the longest edge on each piece (layup 1).
 Peel ply 1" along all edges and allow to cure.
 Knife trim at the appropriate time.
 
-### STEP 4
+### STEP 4 Fabricate Metal attach pieces
 
 Fabricate all LWA metal pieces.
 Remove any grease or dirt and sand dull with 100-grit.
@@ -86,7 +86,7 @@ They must be clean and dull on installation.
 Pull all nails out of the spar box interior.
 Fit (don't bond) interior bulkheads CS6 and CS7, trim if neccessary to allow for 1 ply of BID {as shown in Figure 14-6}.
 They fit flush with edges of top and bottom pieces.
-The remaining layups of this entire step should be done in one layup without curing inbetween.
+The remaining layups of this entire step should be done in one layup without curing in between.
 Prepare all the foam surfaces inside the spar box with slurry and apply layup 2 – one ply of BID at 45° orientaion to all three faces, including the end bulkheads.
 Overlap where needed.
 Bulkheads CS6, CS7 are now installed, using wet micro.
@@ -112,7 +112,9 @@ Note: Be sure the raduis on the LWA-1 is in the corner as shown on the section v
 
 ![Spar tape](../images/14/14_06.png) Figure 14-7: Center section spar tape
 
-### STEP 5
+### STEP 5 Spar cap trough
+
+### Caution: Use care in cutting spar cap trough, <u>Do not cut too deep!</u>
 
 Now bond the three forward face pieces in place with wet micro to complete the box.
 Butt together – it is not required to lap glass across this internal joint.
@@ -168,7 +170,25 @@ Be sure orientation is 45º!!!
 Overlap 1" if required, but don't stack more than one overlap in anyone location.
 Peel ply this entire sheer web layup.
 
-### STEP 7
+### STEP 7 Spar Caps
+
+### Spar cap thickness - Centersection spar
+The number of plies of the UND tapes for the spar caps shown in the plans is based on each ply being .035" to .038" thick. We have found that some of the UND tape is of less bulk than expected, and is laying up only about .025 per ply. If this happens, the spar is weak and the depressions are not filled flush. Check your spar cap material by making a 5-ply layup. Cure then measure thickness. It should be 0.18" thick. If it is only 0.125" thick you must <u>add</u> the followng plies t all your spar cap layups. All the additions can go on top of the plans shown caps. 
+
+<u>Bottom Cap</u>
+1. 1 ply full span
+2. 1 ply to B.L. +/- 45
+3. 1 ply to B.L. +/- 30
+4  1 ply to B.L> +/- 15
+
+<u>Top Cap</u>
+1. 1 ply full span
+2. 1 ply to B.L. +/- 47
+3. 1 ply to B.L. +/- 37
+4  1 ply to B.L. +/- 27
+5. 1 ply to B.L. +/- 17
+6. 1 ply to B.L. +/- 12
+
 
 The spar caps are layed up in this step.
 These are cut from a roll of unidirectional glass that is 3" wide and .0350 thick (it lays up about .0375 thick).

@@ -296,6 +296,14 @@ Use a carpenters saw or coping saw to saw off the corner – see plan view {Figu
 
 ### Step 5 - Bottom spar cap
 
+### Spar cap thickness - Centersection spar
+The number of plies of the UND tapes for the spar caps shown in the plans is based on each ply being .035" to .038" thick. We have found that some of the UND tape is of less bulk than expected, and is laying up only about .025 per ply. If this happens, the spar is weak and the depressions are not filled flush. Check your spar cap material by making a 5-ply layup. Cure then measure thickness. It should be 0.18" thick. If it is only 0.125" thick you must <u>add</u> the followng plies to all your spar cap layups. All the additions can go on top of the plans shown caps. {CP?? PC88 MAN-GRD}
+
+<u>Bottom Cap</u>
+
+1. 1 ply B.L. 25 to B.L. 130
+2. 1 ply to B.L. 40 to B.L. 90
+
 Break the bondo away from the jig TE, lift the entire wing (with all jigs in place) to your table and lay it bottom up.
 If your table is perfectly flat your wing will set down with all jigs in contact with the table surface and with the wing aligned.
 If not, shim each jig as required until their edges "string" and
@@ -366,6 +374,14 @@ Also, at knife trim time pile some **dry** micro onto the T.E. depression as sho
 
 ### Step 7 - Top spar cap
 
+### See caution Step 5 of UND layers being too thin, after checking UND thickness, add these plys if necessary
+
+<u>Top Cap</u>
+
+1. 1 ply B.L. 23 to B.L. 140
+2. 1 ply B.L. 33 to B.L. 92
+3. 1 ply B.L. 40 to B.L. 78
+
 After bottom skin cure, bolt on the jig pieces you removed in step 5.
 Apply some dabs of Bondo to join these to the cured bottom skin.
 Now, using a small chisel, knock off the Bondo dabs that hold the jig to the table.
@@ -384,6 +400,17 @@ Before skinning you must install the nylon conduit for the rudder cable.
 This is a .025 wall 3/16 OD Nylaflow tube.
 Do **not** substitute nylo-seal tubing.
 Layout the locations shown in Figure 19-31 using the full size template (A12) for the small curve at the tip and a straight line to the dimension at the root.
+
+#### Step 8a: High Performance Rudder and Internal Belhorn cable conduit
+
+If installing the High Performance Rudders with the interior belhorn, move the rudder conduit so that it passes as close as possible to the outboard corner of the aileron and then go close to and is parallel to the trailing edge of the wing ending about 1.2" forward of the trailing edge. Except for the change of location follow the same steps as described below for the standard rudders. Figure 19-68 contains a summary view. Getting the conduit in the correct loaction allows the full deployment of the rudders.
+After the Nylaflow conduit is cured in place, a 1/16” diameter rudder cable can then be threaded from the outboard end toward the wing root. The Nicropress sleeve and thimble should already be installed on the outboard ends of each cable.
+{CP45 PC121 MEO}
+
+![High performance rudder cable](../images/19/19_67.png) Figure 19-68: High performance rudder with internal belhorn cable conduit routing
+
+#### Step 8b: Installing the rudder cable conduit
+
 The dremmel tool held against a straight edge as shown works well for this groove.
 See the completed installation in {Figure 19-51} Section A-A.
 At the root, curve the conduit **downward** (deeper groove) about 0.7" over an 8 inch length (see G-G).
@@ -723,7 +750,7 @@ The following roll control system components within the engine compartment and i
 * CS128 Belcrank
 * CS 129L
 
-Apply Ocean No.1644 Flexibilized - Intumescent Fireproof Coating Compound to the engine-side surface of the aluminum wing root shield ribs. 
+Apply Ocean No.1644 Flexibilized - Intumescent Fireproof Coating Compound to the engine-side surface of the aluminum wing root shield ribs.
 
 Apply Ocean N. 1644 Intumescent to the aft surface of the centersection spar including interior flange surfaces between the existing firewall and the wing root rib.  
 
