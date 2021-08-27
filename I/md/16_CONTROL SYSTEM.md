@@ -144,7 +144,7 @@ It maybe required to hold it in place with sticks extending across the fuselage.
 The conduit sticks out 1 or 2 inches in front of the instrument panel.
 Get two 10-ft lengths of 3/32-diameter 7 x 19 aircraft control cable and swage an AN100-4 thimble and 18-2-G sleeve on one end and bolt to the inside of CS15 as shown.
 
-### Note: If you will install the high performance rudders then use 1/16"-diameter cable and replace the CS-15 rudder belcrank with an AN210-2A pulley. This removes the need for the slot in the firewall to allow the rudder cable verticle movement due to the belcrank. Install a Nylaflow  conduit thru the firewall for the rudder cable. See chapter 20 for a description of the compression spring that must be installed between the rudder pedal and the rudder cable to allow braking
+### Note: If you will install the high performance rudders then use 1/16"-diameter cable and replace the CS-15 rudder belcrank with an AN210-2A pulley. This removes the need for the slot in the firewall to allow the rudder cable verticle movement due to the belcrank. Install a Nylaflow  conduit thru the firewall for the rudder cable. See chapter 20 page 30 for a description of the compression spring that must be installed between the rudder pedal and the rudder cable to allow braking
 
 ![Rudder Cables](../images/16/16_10.png) Figure 16-11: Rudder cable tube
 

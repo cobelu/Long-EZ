@@ -225,9 +225,9 @@ If some extra lead is needed, add all of it to outboard mass balance.
 
 ![check elevator balance](../images/11/11_25.png) Figure 11-25: **Check elevator balance**
 
-![space](../images/11/11_33.png)
+![CS2 ass assembly](../images/11/11_24.png) Figure 11-26: CS3 to CS2 Assembly
 
-![CS12 assembly](../images/11/11_24.png) Figure 11-26: CS12 Assembly
+![CS12](../images/11/11_34.png) Figure 11-27: CS12 Assembly
 
 ![check elevator movement](../images/11/11_26.png) Figure 11-27: Check elevator movement
 
@@ -242,7 +242,5 @@ CS3's and CS12's are made from 1/8" thick 2023T3 aluminum. Use the full size pat
 ![CS9 plug](../images/11/11_30.png) Figure 11-31: CS9 Plug dimensions
 
 ![Verify elevator tolerances](../images/11/11_31.png) Figure 11-32: Verify Elevator tolerances
-
-![Blank](../images/11/11_33.png)
 
 ![Elevator travel template](../images/11/11_32.png) Figure 11-33: Elevator Travel Template

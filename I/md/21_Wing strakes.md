@@ -311,15 +311,15 @@ To install the cap, bore a hole in the position shown in Figure 21-2 in the aft 
 Trial fit the cap.
 Dull the metal rim bonding surface with 100-grit sandpaper.
 
-To reduce the chance of a fire when fueling the aircraft, install a metal fuel cap on each fuel tank that has an attached grounding cable inside the fuel tank, with enough wire to reach the forward edge of the tank when the aircraft is kneelng. To ensure the fuel cap stays attached to the aircraft include an obstruction within a foot of the cap that is larger than the fuel filler hole as shown in Figure 21-19.
+To reduce the chance of a fire when fueling the aircraft, install a metal fuel cap on each fuel tank that has an attached grounding cable inside the fuel tank, with enough wire to reach the forward edge of the tank when the aircraft is kneelng. The wire will have to be fed through the forward vent in the rib in front of the fuel cap to reach the forward edge of the tank during assembly of the strake. To ensure the fuel cap stays attached to the aircraft include an obstruction within a foot of the cap that is larger than the fuel filler hole as shown in Figure 21-19.
 The fuel filler and cap should be installed before the fuel tank is vacuumed, as it will produce debry in the tank.
 During filling the fuel trucks ground wire will be attached to the fuel cap.
 {CP55 PCS134 MEO}
 
 Now, tape a 1" tube to a vacuum cleaner hose and thoroughly clean the foam chips out of your tank.
 Mix flox and trowel it into the lip and coat the metal rim.
-Drop the rim in place and wipe excess flex from around the rim edges, tip, and bottom.
-Be sure to wipe any flex off the inside of the rim.
+Drop the rim in place and wipe excess flox from around the rim edges, tip, and bottom.
+Be sure to wipe any flox off the inside of the rim.
 Weight it into place and cure.
 
 ![fuel cap](../images/21/21_22.png) Figure 21-18: Fuel cap construction

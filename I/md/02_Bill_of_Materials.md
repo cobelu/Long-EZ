@@ -104,15 +104,15 @@ Catalog $2 - shows photos of all parts
 | (1) | PTB Belcrank | 11 | Both Canards |
 | (2) | CNL Aluminum bushing | 12 | Both Canards |
 | (2) | CN2 STL bushing | 12 | Both Canards |
-| (2) |  NC-CLT | Lift tabs  | 30 | R1149MS Elevators |
-| (5) |  NC-2   | Hinge inserts |  R1149MS Elevators |
-| (5) |  NC-3   | Hinges        |  R1149MS Elevators |
-| (2) |  NC-3A  | Hinges        |  R1149MS Elevators |
-| (1) |  NC-5A  | Pitch Trim belcrank | R1149MS Elevators  |
-| (2) |  NC-6   | Plugs               |  R1149MS Elevators |
-| (2) |  NC-7   | Hinge jigs          |  R1149MS Elevators |
-| (2) |  NC-12A | Control Arms (1 left and 1 right) |  R1149MS Elevators |
-| (2) |  NC-13  | Steel spacers                     | R1149MS Elevators |
+| (2) |  NC-CLT | 30 | Lift tabs R1149MS Elevators |
+| (5) |  NC-2   | 30 |  Hinge inserts R1149MS Elevators |
+| (5) |  NC-3   | 30 |  Hinges R1149MS Elevators |
+| (2) |  NC-3A  | 30 |  Hinges R1149MS Elevators |
+| (1) |  NC-5A  | 30 |  Pitch Trim belcrank R1149MS Elevators  |
+| (2) |  NC-6   | 30 |  Plugs  R1149MS Elevators |
+| (2) |  NC-7   | 30 |  Hinge jigs  R1149MS Elevators |
+| (2) |  NC-12A | 30 |  Control Arms (1 left and 1 right) R1149MS Elevators |
+| (2) |  NC-13  | 30 |  Steel spacers  R1149MS Elevators |
 | (1) | Worm-drive retract assy. including hand crank | 13 | |
 | (1) | NG5 Plate   | 1 | {CP 29 PC 71 MEO} |
 | (1) | NG6 Casting | 13 | |
@@ -163,6 +163,15 @@ Catalog $2 - shows photos of all parts
 | (4) | A5 Brackets | 19 |  |
 | (2) | CS301 Steel belhorn (1 left, 1 right | 20 |  |
 | (2) | FT-18 Fuel cap assembly | 21 |  |
+| (2) |  NC-CLT | 30 | Lift tabs R1149MS Elevators |
+| (5) |  NC-2   | 30 |  Hinge inserts R1149MS Elevators |
+| (5) |  NC-3   | 30 |  Hinges R1149MS Elevators |
+| (2) |  NC-3A  | 30 |  Hinges R1149MS Elevators |
+| (1) |  NC-5A  | 30 |  Pitch Trim belcrank R1149MS Elevators  |
+| (2) |  NC-6   | 30 |  Plugs  R1149MS Elevators |
+| (2) |  NC-7   | 30 |  Hinge jigs  R1149MS Elevators |
+| (2) |  NC-12A | 30 |  Control Arms (1 left and 1 right) R1149MS Elevators |
+| (2) |  NC-13  | 30 |  Steel spacers  R1149MS Elevators |
 | (1) | Lycoming exhaust system |    | {CP 35 PC 109 MEO} |
 | (4) | Dynafocal engine mounts |    | {CP 35 PC 109 MEO} |
 | (4) | Conical engine mounts   |    | {CP 35 PC 109 MEO} |
@@ -234,18 +243,19 @@ ___
 
 | Aluminum Extrusions |                                          |      |   |   |
 |---------------------|------------------------------------------|------|---| --- |
-| 90 Degree angle     |                                          |      |   |    |
+| <u>90 Degree angle </u> |                                          |      |   |    |
 | 6061 T6             | 2” x 2” x 0.25”                          | 24“ | 1 |    |
 | 2024 T3             | 1” x 1” x 0.125” or 7/8” x 7/8” X 0.125” | 60”  | 1 |   |
 | 2024 T3             | 1.5” x 1.5” x 0.125”                     | 6”   | 1 |   |
 | 4130N Steel         | 1" x 1" x 0.125"                         |  12" | 1 | {CP49 PC131 MAN-GND} |
-| Rectangular Bar     |                                          |      |   |   |
+| <u>Rectangular Bar</u> |                                          |      |   |   |
 | 2024 T3             | 2” x 0.25”                               | 60”  | 1 |   |
 | 2024 T3             | 2” x 0.25”                               | 30”  | 1 |   |
 
 | Sheet Metal |                 |            |       |   |  |
 |-------------|-----------------|------------|-------|---| --- |
 | 301 or 302  | Stainless Steel | 24” x 30”  | 0.16” | 1 | {CP 25 PC 25 DES see  note 1} |
+| 4130N       | Steel           | 4" x 2"    | 0.22  | 4 |  |
 | 2024T3      | Aluminum        | 3” x 10”   | 0.16” | 1 |  |
 | 6061-0      | Soft Aluminum   | 20” x 24”  | 0.20” | 1 |  |
 | 2024T3      | Aluminum        | 12” x 8”   | 0.25” | 1 |  |
@@ -264,7 +274,7 @@ ___
 | 2024T3               | Aluminum     | 6 feet  | 0.5” O.D. x 0.035”w    | ~~2~~ 1 | {CP49 PC131 MAN-GND} |
 | 2024T3               | Aluminum    | 57"    |  1" O.D. x .035" wall   | 1  | R1149MS canard Torque Tube |
 | 2024T3               | Aluminum    | 74"    |  1" O.D. x .035" wall   | 1  | R1149MS Canard Torque Tube |
-| 304 Stainless        | Steel rod   | 61"   | 3/16" diameter   |  1 | R1149MS canard NC-8s |
+| 304 Stainless        | Steel rod   | 61"   | 3/16" diameter   |  2 | R1149MS canard NC-8s |
 | 1100-0 or            |
 | 3003-0               | Aluminum     | 26 feet | 0.375” O.D. x 0.035” W | 1 |   |
 | 1100-0 or            |
@@ -278,33 +288,34 @@ ___
 |----------------|----| ---  |
 | 3/16”          |    |   |
 | AN3-4A         | 2  |   |
-| AN3-5A         | 14 |   |
+| AN3-5A         | 16 |   |
 | AN3-6A         | 18 |   |
-| AN3-7A         | 25 |   |
+| AN3-7A         | 28 |   |
 | AN3-10A        | 5  |   |
+| AN3-11A        | 16 | {CP25 PC 14 MEO}  |
 | AN3-12A        | 1  |   |
-| AN3-13A        | 6  |   |
+| AN3-13A        | 8  |   |
 | AN3-15A        | 2  |   |
 | AN3-16A        | 2  |   |
 | AN3-20A        | 2  |   |
 | AN3-6          | 1  |   |
 | AN3-7          | 1  |   |
-| ~~AN3-11~~ AN3-11A        | 16 | {CP25 PC 14 MEO}  |
 
 | __1/4"__ |    |
 |---------|----|
-| AN4-5A  | 9  |
+| AN4-3A  | 3  |
+| AN4-4A  | 2  |
+| AN4-5A  | 11 |
 | AN4-7A  | 6  |
 | AN4-10A | 7  |
 | AN4-11A | 2  |
-| AN4-13A | 2  |
-| AN4-15A | 9  |
+| AN4-15A | 6  |
 | AN4-16A | 26 |
 | AN4-17A | 3  |
 | AN4-21A | 1  |
 | AN4-22A | 8  |
-| AN4-24A | 1  |
-| AN4-26A | 1  |
+| AN4-24A | 2  |
+| AN4-26A | 2  |
 | AN4-41A | 2  |
 | AN4-20  | 2  |
 
@@ -327,12 +338,11 @@ ___
 | AN-509-10R30       | 8  |
 | AN-509-416R14      | 2  |
 | AN-509-416R18      | 2  |
-| AN-509-8-R9        | 10 |
-|                    |    |
+
 | __Button Head Screws__ |    |
 | AN526-832-14       | 2  |
-| AN525-10R8         | 26 |
-| AN525-10R10        | 19 |
+| AN525-10R8         | 28 |
+| AN525-10R10        | 25 |
 | AN525-10R12        | 8  |
 | AN525-10R16        | 1  |
 | AN525-10R24        | 1  |
@@ -341,15 +351,15 @@ ___
 | Nuts      |     |   |
 |-----------|-----| --- |
 | MS21042-3 | 169 |   |
-| MS21042-4 | ~~70~~ 54 | {CP25 PC67 MEO}  |
+| MS21042-4 | ~~70~~ 62 | {CP25 PC67 MEO}  |
 | AN310-3   | 2   |   |
 | AN310-4   | 2   |   |
 | AN315-3   | 20  | {CP26 PC40 MEO} |
-| AN316-4   | 2   |   |
+| AN316-4   | 4   |   |
 | AN316-6   | 2   |   |
 | AN364-832 | 2   |   |
 | AN365-524 | 1   |   |
-| AN363-624 | ~~2~~ 18   | {CP25 PC67 MEO}   |
+| AN363-624 | 2   | {CP29 PC67 MEO}   |
 | AN363-820 | 6   |   |
 
 | Washers    |     |     |
@@ -357,27 +367,34 @@ ___
 | AN960-10L  | 200 |     |
 | AN960-10   | 150 |     |
 | AN960-416L | 150 |     |
-| AN960-416  | 8   |     |
+| AN960-416  | 10  |     |
 | AN960-616  | 4   |     |
 | AN960-816L | 10  |     |
 | AN960-816  | 12  |     |
-| AN960-1016 | ~~8~~  2   | {CP30 PC83 MEO}    |
+| AN960-1016 | ~~8~~  3   | {CP30 PC83 MEO}    |
 | AN970-3    | 28  |     |
 | AN970-4    | ~~5~~ 11   | {CP28 PC 55 MEO}    |
 | AN970-5    | 2   |     |
+| AN970-7    | 2   |     |
 
 Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 
 | Nut Plates |    |
 |------------|----|
 | K1000-3    | 22 |
-| K1000-4    | 9  |
+| K1000-4    | 16 |
 | K1000-08   | 10 |
 
 | Cotter Pins |   |
 |-------------|---|
 | AN380-2-2   | 4 |
 | AN380-2-3   | 4 |
+
+| Clevis Pins |    |
+| AN393-7     | 2  | HP Rudder |
+| AN393-9     | 4  |    |
+| AN393-19    | 3  |    |
+| AN381-2-8   | 2  | HP Rudder |
 
 | Rivets         |                |     |
 |----------------|----------------|-----|
@@ -397,11 +414,11 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 
 | Cable and Cable Hardware   |       |    |
 |----------------------------|-------| --- |
-| 1/16” 7x7 Stainless Cable  | ~~50~~ 100 ft | HP Rudder |
+| 1/16” 7x7 Stainless Cable  | 50 ft | HP Rudder |
 | 3/32” 7x17 Stainless Cable | ~~50~~ 0 ft | HP RUdder |
-| AN100-3 Thimble            | ~~30~~ 32 | HP Rudder |
-| 18-1-C Sleeve              | ~~20~~ 22 | HP Rudder |
-| 18-2-G Sleeve              | 15    |     |
+| AN100-3 Thimble            | ~~30~~ 34 | HP Rudder |
+| 18-1-C Sleeve              | ~~20~~ 28 | HP Rudder |
+| 18-2-G Sleeve              | 12    |     |
 
 | Plumbing and Conduits                |           |   |
 |--------------------------------------|-----------|---|
@@ -420,30 +437,27 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 
 | MISCELLANEOUS           |                                                    |    |    |
 |-------------------------|----------------------------------------------------|----| ---- |
-| Clevis Pin              | AN393-7                                            | 2  | HP Rudder |
-| Clevis Pin              | AN393-9                                            | 4  |    |
-| Clevis Pin              | AN393-19                                           | 3  |    |
-| Safety Pin              | AN463-1                                            | 7  |    |
-| Cotter Pin              | AN381-2-8                                          | 2  | HP Rudder |
+| Safety Pin              | AN416-1                                            | 7  |    |
 | Rod End                 | HEIM HM-3                                          | 10 |    |
 | Rod End                 | HEIM HM-4                                          | 2  |    |
 | Rod End                 | HEIM F34-14 Or FAFNIR REB3N                        | 2  |    |
 | Rod End                 | RAFNIR RE4M6 Or HEIM HM-6 with Insert              | 2  |    |
-| Pulley                  | AN210-2A                                           | ~~2~~ 2  | HP Rudder   |
+| Pulley                  | AN210-2A                                           | ~~2~~ 4  | HP Rudder   |
 | Universal Joint         | MS20271-B10                                        | 3  |    |
 | Bearing                 | Boston FB-1013-8 Bronze                            | 1  |    |
+| Phenolic (bearing)      | ¼” Sheet 4” x 12”                                  | 1  |    |
 | Latch                   | Hartwell H-5000-2 Flush                            | 1  |    |
 | Arrow Stock, Fiberglass | 5/16 x 0.028”wall 24 inches long                   | 3  |    |
 | Insulation              | Fiber Frax 970-F 0.04”thick 24”x30”                | 1  |    |
-| Fire retardent          | Ocean No.1644 Flexibilized - Intumescent Fireproof Coating Compound | 1 | {CP49 PC131 MAN-GND} |
+| Fire retardent          | Ocean No.1644 Flexibilized                         |    |    |
+|                         | Intumescent Fireproof Coating Compound             | 1 | {CP49 PC131 MAN-GND} |
 | Hinge                   | MS20257-P2 3”                                      | 1  |    |
-| Hinge                   | MS20001-P6 ~~84”~~ 114"                            | 1  | HPRudder |
-| Spring                  | .35 OD x 0.06 wire Compression ½ inch long         | 2  | HPRudder |
-| Spring                  | .35 OD x 0.06 wire Tension 30” (several pieces OK) | 1  |    |
+| Hinge                   | MS20001-P6 ~~84”~~ 114"                           | 1  | HPRudder |
+| Spring                  | .35 OD x 0.06 wire Compression ½ inch long        | 2  | HPRudder |
 | Spring                  | .35 OD x 0.06 wire Tension, 10” long               | 2  |    |
-| Spring                  | 9/16" OD x 0.105" wire Tension, 3.75" long
+| Spring                  | 9/16" OD x 0.105" wire Tension, 3.75" long         | 2  |    |
 | Spring                  | .35" OD x .05" wire; Compression, 4" long 110 in/lb [1] | 2 |    |
-| Phenolic (bearing)      | ¼” Sheet 4” x 12”                                  | 1  |    |
+| Spring                  | .34 OD x 0.05 wire, tension, 6 in long             | 1  |    |
 
 ### Note 1: Century Spring corp., Los Angeles, CA. Part #1887
 
@@ -587,7 +601,7 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 |                        | 2  | Rod End (HEIM F34-14 Or FAFNIR REB3N)                |
 |                        | 1  | Phenolic (bearing) ¼” x 2” x 4”                      |
 
-#### <u>Chapter 10: Canard Construction CU Canard</u> 
+#### <u>Chapter 10: Canard Construction CU Canard</u>
 
 | Canard Construction |    |                                 |
 |---------------------|----|---------------------------------|
@@ -600,20 +614,19 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 |                     | 1  | 17 yds UND                      |
 | Epoxy:              | 1  | 1 gallon                        |
 | Foam:               | 2  | part of 7 x 14 x 41 Styrofoam   |
-|                     | 2  | part of 7 x 1 4 x 64 Styrofoam  |
+|                     | 2  | part of 7 x 14 x 64 Styrofoam  |
 |                     | 1  | 1 “ x 6” x 10” type R100 PV     |
 | Metal:              | 1  |  1/8" x 1.5" x 6" 2024-T3 Alum. |
 
 #### <u>Chapter 11: Elevators</u>
 | Elevators |    |                                                    |
 |-----------|----|----------------------------------------------------|
-| Prefab:   | 2  | CS- 10 lead weights                                |
-|           | 2  | CS- 11 lead weights                                |
+| Prefab:   | 2  | CS-10 lead weights                                 |
+|           | 2  | CS-11 lead weights                                 |
 |           | 2  | CS-12 Bellcrank with bushings                      |
 |           | 1  | PTB Bellcrank                                      |
 | Hardware: | 7  | AN525-10R10 Screws                                 |
 |           | 2  | AN3-6A Bolts                                       |
-|           | 8  | AN3-13A Bolts                                      |
 |           | 2  | AN3-15A Bolts                                      |
 |           | 4  | AN3-10A Bolts                                      |
 |           | 9  | AN509-10R7   (AKA MS24694-549) Flat head screw 10-32 | CS-11 |
@@ -629,7 +642,7 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 | Glass:    | 1  | 3 yds UND                                          |
 | Epoxy:    |    | 0.1 Gallon                                         |
 | Foam:     | 2  | Part of two 7 x 14 x 64 Styrofoam blocks (pg 10-1) |
-|  Metal:   | 1  | 62” of 1.5” O.D. x 0.35 wall 6061-T6 Alum. Tubing  |
+| Metal:    | 1  | 62” of 1.5” O.D. x 0.35 wall 6061-T6 Alum. Tubing  |
 |           | 1  | 80” of 1.5” O.D. x 0.35 wall 6061-T6 Alum. Tubing  |
 
 #### <u>Chapter 12: Canard Installation</u>
@@ -714,9 +727,9 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 | Glass               | 1  | 1 yd UND                                |  |
 |                     | 1  | 18 yd BID                               |  |
 | Epoxy               |    | 2 gallons                               |  |
-| Foam                | 9  | 10 sq ft ½” thick, type R100 red foam   |  |
+| Foam                | 1  | 10 sq ft ½” thick, type R100 red foam   |  |
 |                     | 6  | 10 sq ft 1” thick, urethane foam        |  |
-| Metal               | 1  | 3 ftc~~1.8~~ 1/8” x 1” x 1” 2024-T3 Alum. angle | {CP25 PC 21 MEO}  |
+| Metal               | 1  | 3 ft ~~1.8~~ 1/8” x 1” x 1” 2024-T3 Alum. angle | {CP25 PC 21 MEO}  |
 |                     | 1  | 30” 1/8” x 2” 2024-T3 alum bar          |  |
 |                     | 1  | 12” ¼” x 2” 2024-T3 alum. Bar           |  |
 | Wood                | 1  | 1 ft 1”x 1” Spruce                      |  |
@@ -765,21 +778,21 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 |                    | 2  | CS202 Bushings                          |      |
 |                    | 3  | CS181 Inserts                           |      |
 |                    | 2  | CS112 Bushings                          |      |
-| Hardware           | 2  | AN3-13A Bolts                           |      |
+| Hardware           | 14 | AN3-5A Bolts                            |      |
+|                    | 2  | AN3-6A Bolts                            |      |
+|                    | 12 | AN3-7A Bolts                            |      |
+|                    | 13 | AN3-11A Bolts                           |      |
+|                    | 2  | AN3-16A Bolts                           |      |
+|                    | 2  | AN3-13A Bolts                           |      |
 |                    | 1  | AN4-15A Bolts                           |      |
 |                    | 1  | AN4-17A Bolts                           |      |
-|                    | 12 | AN3-7A Bolts                            |      |
 |                    | 2  | AN4-20 Bolts                            |      |
-|                    | 13 | AN3-11A Bolts                           |      |
-|                    | 2  | AN3-6A Bolts                            |      |
-|                    | 6  | AN3-5A Bolts                            |      |
 |                    | 90 | AN960-10 Washers                        |      |
 |                    | 8  | AN960-416 Washers                       |      |
-|                    | 8  | AN3-5A Bolts                            |      |
-|                    | 2  | AN3-16A Bolts                           |      |
 |                    | 15 | NS21042-3 Nuts                          |      |
 |                    | 2  | MS21042-4 Nuts                          |      |
 |                    | 2  | AN310-4 Nuts                            |      |
+|                    | 20 | AN315-3   (Jamb Nuts on control rods)   | {CP26 PC40 MEO} |
 |                    | 20 | AN100-3 Thimbles                        |      |
 |                    | 30 | AN470AD4-10 Rivets                      |      |
 |                    | 8  | 18-1-C Nicropress Sleeves               |      |
@@ -792,12 +805,10 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 |                    | 2  | AN380-2-2 Cotter Pin                    |      |
 | Glass              | 1  | 2 yds BID                               |      |
 | Epoxy              |    | 0.1 Gallons                             |      |
-| Foam               | 1  | 35” thick type R35 dark blue            |      |
+| Foam               | 1  | 0.35” thick type R45 dark blue          |      |
 | Metal              | 1  | 15 sq inch, 0.063” 2024-T3 Alum         |      |
-|                    | 2  | 6 ft ½” x 0.28 wall                     | {CP49 PC131 MAN-GND} |
-| 4130N Steel Tube |
-|                    | 3  | 6 ft. ¾” x 0.058 wall 2024-T3 alum.     |      |
-| Tube               |
+|                    | 2  | 6 ft ½” x 0.28 wall 4130 Steel Tube     | {CP49 PC131 MAN-GND} |
+|                    | 3  | 6 ft. ¾” x 0.058 wall 2024-T3 alum. tube |      |
 | Phenolic           | 1  | ¼” thick sheet 2” x 12”                 |     |
 | Wood:              | 1  | 4” x 6” x ¼” plywood (firewall)         |     |
 | Misc:              | 3  | MS20271-BIO Universals                  |     |
@@ -825,7 +836,7 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 |                     | 2  | AN310-3 Nuts                           |
 |                     | 2  | AN380-2-2 Cotter Pins                  |
 |                     | 6  | AN100-3 Thimbles                       |
-|                     | 4  | 18-1-C Nicroprss Sleeves               |
+|                     | 6  | 18-1-C Nicroprss Sleeves               |
 | Phenolic            | 1  | 0.5” O.D. X 3/16” I.D. X 1/16” Washer  |
 | Glass               |    | BID Scraps                             |
 | Epoxy               |    | Minimal                                |
@@ -874,8 +885,7 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 | Metal         | 1      | 1.5” x 5” x 0.32” 2024-T3 Aluminum            |
 |               | 1      | 8” 1/8” x 1” x 1” 2024-T3 Aluminum angle      |
 |               | 1      | 5” x 5” x .025” 2024-T3 Aluminum              |
-| Misc          | 2      | 4” long, .35 x .05 steel springs              |
-|               | 1      | 10” 3/32” steel piano wire                    |
+| Misc          | 1      | 10” 3/32” steel piano wire                    |
 |               | 1      | 1 ft 1/16 x 7 x 7 cable                       |
 |               | 3      | 5/16 O.D. x 0.028 wall fiberglass arrow stock |
 |               | 1      | 16” MS20001-P6 Hinge                          |
@@ -934,27 +944,27 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 
 | Winglets and rudders |    |             |                                  |
 |----------------------|----|-------------|--------------------------------- |
-| Prefab Parts         |    | none        |                                  |
+| Prefab Parts         | 2  | FB-21       | Conceled belhorn                 |
 | Hardware             | 18 | AN525-10R8  | Screw                            |
 |                      | 2  | AN3-5A      | Bolt (@ rudder pedal)            |
 |                      | 18 | AN950-10L   | Washers                          |
 |                      | 2  | AN960-3     | Washers                          |
 |                      | 4  | MS21042-3   | Nuts                             |
 |                      | 14 | K1000-3     | Nut plates                       |
-|                      | 24 | Pop Rivits  | AVEX 1604-0412 or Cherry BSC-44  |
-|                      | 28 | Pop Rivits  | Cherry MSC-32 (nutplates to hinges) |
+|                      | 24 | Pop Rivets  | AVEX 1604-0412 or Cherry BSC-44  |
+|                      | 28 | Pop Rivets  | Cherry MSC-32 (nutplates to hinges) |
 |                      | 12 | Rivets      | AD426AD3-3 (1/8" x 3/16") countersunk |
-|                      | 2  | AN893-7     | Clevis Pin                       |
+|                      | 2  | AN393-7     | Clevis Pin                       |
 |                      | 2  | AN381-2-8   | Cotter Pin                       |
 |                      | 2  | AN100-3     | Thimble                          |
 |                      | 2  | 18-1-C      | NicoPress Sleeve                 |
 |                      | 2  | AN210-2A    | Pulley (replace CS-15 belcrank)  |
 | Glass                | 10 yds | UND     |                                  |
 |                      | 6 yds  | BID     |                                  |
-| Epoxy                | 1  |             |                                  |
+| Epoxy                | 1  |             | gallon kit                       |
 | Foam                 | 4  |             | scrap from wing styrofoam blocks |
 |                      | 2  |             | scrap from urethane foam         |
-|                      | 1  | X-30        | Pour-in-place foam               |
+|                      | 1  | quart       | X-30  Pour-in-place foam kit     |
 | Metal                | 2  | 10” of 1” x .035” wall | 6061-T6 Aluminum tube |
 |                      | 1  | 36” MS20001-P6  | hinge                        |
 |                      | 2  | 4” long .35” x .05” | steel spring             |
@@ -962,9 +972,8 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 |                      |    |               | Century spring corp. Part # 1887 |
 |                      | 2  | 10” 3/32” | steel piano wire                   |
 |                      | 2  | 12" .050" | steel piano wire                   |
-|                      | 2  | 12" x 4" x .0125" | Aluminum 2024T3            |
+|                      | 2  | 12" x 4" x .0125" | Aluminum 2024T3 plate      |
 |                      | 4  | 4" x 2" x .022    | Steel 4130N                |
-| Liquids              | 1  | 1 quart           | X-30 Expanding foam kit    |
 
 #### <u>Chapter 21: Strake, Fuel, Baggage</u>
 
@@ -972,11 +981,14 @@ Phenolic ½” O.D. x 3/16” I.D. x 1/16” T(hick) (Need 4)
 |-----------------------|---|---------------------------------------------------|
 | Prefab Parts          | 2 | SB Glass sump blisters                            |
 |                       | 2 | FT 18 fuel cap assembly                           |
-| Hardware              |   | None                                              |
+| Hardware              | 2 | 6 ft 18 gauge braided copper wire                 |
+|                       | 2 | 1/4" crimp electrical connector                   |
+|                       | 4 | 18-1-C NicoPress sleeves                          |
+|                       | 2 | Copper wire triangle (larger than fuel cap)       |
 | Glass                 | 1 | 16 yds UND                                        |
 |                       | 1 | 11 yds BID                                        |
 | Epoxy                 |   | 1.9 Gallons                                       |
-| Foam                  | 8 | 6.3 sheets 32” x 48” x .35” type R45 Dark blue    |
+| Foam                  | 6.3 | 32” x 48” x .35” type R45 Dark blue             |
 | Metal                 | 2 | 2 sq. in. 1/8” 2024-T3 Aluminum                   |
 |                       | 1 | 26 ft 3/8” O.D. x .035” wall 1100-0 Aluminum tube |
 |                       | 1 | 10 ft ½” O.D. x .035 wall 1100-0 Aluminum tube    |
@@ -993,8 +1005,8 @@ Note!	Due to the various option, this bill of materials does not include electri
 |-----------------------------|---|----------------------------------------|
 | Prefab Parts                | 1 | CI – Cowl inlet                        |
 | Hardware                    | 1 | CCT and CCB – Continental Cowl         |
-| Or                          |
-| LCT and LCB – Lycoming Cowl |
+|                             |   | Or                                     |
+|                             |   | LCT and LCB - Lycoming Cowl            |
 | Glass                       | 1 | 3 yds BID                              |
 | Epoxy                       |   | 0.2 Gallons                            |
 | Metal                       | 1 | 20” x 24” x 0.020 soft aluminum 6061-0 |
@@ -1026,8 +1038,7 @@ Note!	Due to the various option, this bill of materials does not include electri
 |                   | 1   | Spot putty (tube)                                          |
 |                   |     | Stitts Micro Putty*                                        |
 |                   | 1   | Tube of Silicon Bath tub caulk                             |
-| Paint:            |     | Acrylic lacquer or Acrylic enamel (Dupont)                 |
-
+| Paint:            | 3?  | Acrylic lacquer or Acrylic enamel (Dupont)                |
 
 Note: Due to the wide variance of preferences finishing materials are not supplied with the basic kit.
 
@@ -1050,6 +1061,8 @@ Small scraps of 1/4" plywood for Canard install
 
 Oilite bronze bearings (used where NC-8 passes thru all NC-3s)
 
+Navigation Radio Antenna 
+
 #### <u>Foam</u>
 
 | Qty  | Name       | Size          |
@@ -1068,8 +1081,8 @@ One (1) 1 1/4 gallon kit of Safe-T-Poxy
 | UND Cloth 7715 | 18 yards x 36" |
 | BID cloth 7725 | 2 yards x 36" |
 | 3" wide UND tape (Long-EZ) | 30 yard roll |
-| Micro baloons  |  |
-| Floxed cotton  |  |
+| Micro baloons  | as needed |
+| Floxed cotton  | as needed |
 
 #### <u>Prefab Metal Parts</u>
 
@@ -1149,31 +1162,30 @@ One (1) 1 1/4 gallon kit of Safe-T-Poxy
 | LB22 | 3 | 2024T3 | 1/4" plate inserts |
 | LB23 | 1 | 5-ply birch plywood | 1/4" or 5 mm thk 8" x 2.4" bevel one edge |
 | LB24 | 1 |       | Piano hinge MS20001P5 8" long |
-| LB25 | 3 1/2 ft |       | 1/16" 7 x 7 cable stainless or galvanized. |
+| LB25 | 1 | 3 1/2 ft | 1/16" 7 x 7 cable stainless or galvanized. |
 
 
 | Hardware  |  Table 2 |               |   |
 |---------  | -------- | ------------| --- |
-|  No. Reqd |          |  Function    |   |
-|  1        | AN4-26A  | Bolt | 2 - 25/32" x 1/4-28 steel |
-|  2        | AN4-5A   | Bolt | 21/32" long x 1/4 x 28 steel |
-   2        | AN4-4A   | Bolt | 17/32" long by 1/4 x 28 steel |
-|  3        | AN4-3A   | Bolt | 15/16" long x 1/4 x 28 steel |
-|  1        | AN4-24A  | Bolt | 2-17/32" x 1/4-28 steel |
+|  No. Reqd |  Type    |  Function    | Measurements   |
 |  3        | AN3-7A      | Bolt | 29/32" x 10-32 steel |
+|  3        | AN4-3A   | Bolt | 15/16" long x 1/4 x 28 steel |
+|  2        | AN4-4A   | Bolt | 17/32" long by 1/4 x 28 steel |
+|  2        | AN4-5A   | Bolt | 21/32" long x 1/4 x 28 steel |
+|  1        | AN4-24A  | Bolt | 2-17/32" x 1/4-28 steel |
+|  1        | AN4-26A  | Bolt | 2 - 25/32" x 1/4-28 steel |
 |  2        | AN525-10R8 | Bolt / Screw | 1/2" x 10-32 steel |
 |  6        | AN525-10R10 | Bolt / Screw | 5/8" x 10-32 steel |
 |  2        | AN316-4  | Jam Nut |   |
-|  9        | MS21042-3     | Nut  |   |
+|  12       | MS21042-3     | Nut  |   |
 |  1        | MS21042-4 | Nut |   |
-|  2        | Pop Rivits  | Pop Rivits |   |
-|  6       | AN470AD4-11  | Rivit |   |
-|  4       | AN470AD4-3   | Rivit |    |
-|  2        | AN970-7  | Washer |   |
-|  2        | AN960-416 | Washer |   |
+|  2        | Pop Rivets  | Pop Rivets |   |
+|  6        | AN470AD4-11  | Rivet |   |
+|  4        | AN470AD4-3   | Rivet |    |
+|  2        | AN970-7      | Washer |   |
+|  2        | AN960-416    | Washer |   |
 |  1        | AN960-1016    | Washer |   |
 |  2        | AN960-10      | Washer |   |
-|  9        | MS21042-3     | Nut  |   |
 |  1        | K1000-4       | Nutplate |    |
 |  2        | AN100-3       | Thimbles |    |
 |  3        | 18-1-C        | Nicropress sleeves |   |

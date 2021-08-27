@@ -6,8 +6,10 @@
 
 **Overview** - This chapter involves construction of the canard wing, including the lift tabs that will attach to the fuselage, but not including the elevator attachment brackets.
 
+## Navigation Antenna: Chapter 22 Electrical system page 11 "Nav Antenna" recommends installing the navigation antenna on the bottom side of the Canard. If you wish to install your nav antenna in your canard, do so before you glass the bottom of the canard.  Alternatively chapter 20 describes installing the Comm antenna in one of the two winglets, and hints that you could install the nav antenna in the other winglet.  In either case installing the antenna during construction saves re-work. 
+
 The instructions in this chapter construct the original (CU) canard. Before it closed RAF published an alternative canard and elevator design referred to as the Roncz Canard. The reason for this alternative is the reduced lift the CU Canard produces when encountering rain. The Roncz canard does not experience the lift reduction.
-The Roncz canard and its associated elevator instructions are included in Chapter 30 of these instructions.
+The Roncz canard and its associated elevator instructions are included in Chapter 30 of these instructions. Chapter 30 replaces chapters 10, 11, and 12.
 
 ![Canard Plan View](../images/10/10_01.png) Figure 10-2: Canard Plan view
 
